@@ -1109,11 +1109,11 @@ details_fuel                        COMBUSTÍVEL
 
 message_victory                     VITÓRIA DE *T
 message_stalemate                   SEM VENCEDOR CLARO
-message_spectators_chat_players     Os espectadores agora podem conversar com os jogadores
+message_spectators_chat_players     Os espectadores agora podem conversar com os Jogadores
 message_placeunits                  VOCÊ DEVE COLOCAR TODAS AS UNIDADES ANTES DO DEFCON 3
 
-message_fleet_move                  A frota não pode se mover para cá
-message_disarmed                    Míssil desarmado
+message_fleet_move                  A Frota Não Pode se Mover Para Este Ponto
+message_disarmed                    Míssil Desativado
 
 message_alliance_join               *P entra na aliança *N
 message_alliance_kicked             *P expulso da aliança *N
@@ -1129,8 +1129,8 @@ message_victory_timer               CRONÔMETRO DE VITÓRIA INICIADO
 tray_icon_caption                   DEFCON
 tray_icon_ten_minute_warning        Aviso de Dez Minutos
 tray_icon_victory_timer             Cronômetro de Vitória Iniciado
-tray_icon_nuke_launches_detected    Lançamentos de mísseis detectados
-tray_icon_enemy_subs_detected       Submarinos inimigos detectados
+tray_icon_nuke_launches_detected    Lançamentos de Mísseis Detectados
+tray_icon_enemy_subs_detected       Submarinos Inimigos Detectados
 
 
 # =============================================================================
@@ -1151,7 +1151,7 @@ odds_vhigh                          probabilidades de ataque: muito altas
 
 unknown                             Desconhecido
 
-officemode_1                        O modo de escritório substituirá a velocidade selecionada,
+officemode_1                        O Modo Escritório invalidará a velocidade selecionada,
                                     configurações e opções de tela.
 
 alien_attack                        *C destruído pelo Ataque Alienígena
