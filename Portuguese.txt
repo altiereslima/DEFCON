@@ -15,7 +15,7 @@
 # Name of the language in the language
 # =============================================================================
 
-lang			Portugu√™s
+lang			PortuguÍs
 
 
 # =============================================================================
@@ -46,25 +46,25 @@ dialog_mainmenu			Menu Principal
 dialog_newgame			Novo Jogo
 dialog_joingame			Unir-se a um Jogo
 dialog_leavegame		Abandonar
-dialog_manual                   Manual de usu√°rio
+dialog_manual                   Manual de usu·rio
 dialog_exit			Sair do Defcon
-dialog_confirm_exit		Confirmar Sa√≠da
+dialog_confirm_exit		Confirmar SaÌda
 dialog_preparing		Preparando...
 dialog_game_starting		Iniciando Jogo...
 dialog_tutorial_starting	Iniciando Tutorial...
 dialog_exit_defcon		Sair do Defcon?
 dialog_leave_this_game		Abandonar este jogo?
-dialog_chapter			Cap√≠tulo *C
+dialog_chapter			CapÌtulo *C
 # C = Chapter
 dialog_tutorial			Tutorial *T
 # T = Tutorial
-dialog_rolling_demo		Demostra√ß√£o Autom√°tica
+dialog_rolling_demo		DemostraÁ„o Autom·tica
 dialog_tools			Ferramentas
-dialog_otheroptions		Outras Op√ß√µes
+dialog_otheroptions		Outras OpÁıes
 
-dialog_options			Op√ß√µes
+dialog_options			OpÁıes
 dialog_high			Alto
-dialog_medium			M√©dio
+dialog_medium			MÈdio
 dialog_low			Baixo
 dialog_enabled			Habilitado
 dialog_disabled			Desabilitado
@@ -73,13 +73,13 @@ dialog_apply			Aplicar
 dialog_close			Fechar
 dialog_yes			Sim
 dialog_yes_l			Sim
-dialog_no			N√£o
-dialog_no_l			n√£o
+dialog_no			N„o
+dialog_no_l			n„o
 dialog_ok			Aceitar
 dialog_cancel			Cancelar
 dialog_save			Salvar
 dialog_abort			Abortar
-dialog_restore_default		Configura√ß√£o Padr√£o
+dialog_restore_default		ConfiguraÁ„o Padr„o
 dialog_load			Carregar
 
 dialog_increase			Aumentar
@@ -93,14 +93,14 @@ dialog_teamname			Nome da Equipe
 dialog_setplayername		Configurar Nome do Jogador
 dialog_setteamname		Configurar Nome da Equipe
 
-dialog_graphicsoptions		Gr√°ficos
+dialog_graphicsoptions		Gr·ficos
 dialog_smoothlines		Linhas Suavizadas
 dialog_borders			Fronteiras
 dialog_citynames		Nomes de Cidades
-dialog_countrynames		Nomes de Pa√≠ses
+dialog_countrynames		Nomes de PaÌses
 dialog_messages			Mensagens
-dialog_water			√Ågua
-dialog_radiation		Radia√ß√£o
+dialog_water			¡gua
+dialog_radiation		RadiaÁ„o
 dialog_lowdetailworld		Poucos Detalhes
 dialog_objecttrails		Trilhas de Objetos
 dialog_lobbyeffects		Efeitos na Sala de Espera
@@ -109,21 +109,21 @@ dialog_waternormal			Normal
 dialog_watershaded			Sombreada
 
 dialog_soundoptions			Som
-dialog_unavailable			n√£o dispon√≠vel
+dialog_unavailable			n„o disponÌvel
 dialog_soundlibrary			Biblioteca
 dialog_directsound			DirectSound
 dialog_softwaresound			Som por Software
-dialog_mixfrequency			Frequ√™ncia
+dialog_mixfrequency			FrequÍncia
 dialog_11khz			11 Khz Qualidade Baixa
-dialog_22khz			22 Khz Qualidade M√©dia
+dialog_22khz			22 Khz Qualidade MÈdia
 dialog_44khz			44 Khz Qualidade Alta
-dialog_numchannels			N¬∫ Canais
+dialog_numchannels			N∫ Canais
 dialog_8channels			8 Canais
 dialog_16channels			16 Canais
 dialog_32channels			32 Canais
 dialog_64channels			64 Canais
-dialog_memoryusage			Uso de Mem√≥ria
-dialog_swapstereo			Inverter Est√©reo
+dialog_memoryusage			Uso de MemÛria
+dialog_swapstereo			Inverter EstÈreo
 dialog_hw3dsound			Som Hardware3d
 dialog_realtimeeffects			Efeitos em Tempo Real
 dialog_mastervolume			Volume Geral
@@ -131,11 +131,11 @@ dialog_cpuusage			Uso de CPU
 dialog_cpuusageunknown			Uso de CPU desconhecido
 
 dialog_screenoptions			Tela
-dialog_refreshrate			Frequ√™ncia
+dialog_refreshrate			FrequÍncia
 dialog_windowed			Modo Janela
 dialog_windowedmode			(modo janela)
 dialog_fullscreen			Tela Cheia
-dialog_resolution			Resolu√ß√£o
+dialog_resolution			ResoluÁ„o
 dialog_colourdepth			Cor
 dialog_colourdepth_16			16 bits
 dialog_colourdepth_24			24 bits
@@ -154,88 +154,88 @@ dialog_networkclientport			Porta do Cliente
 dialog_networkserverport			Porta do Servidor
 dialog_networkmetaserverport			Porta do MetaServidor
 dialog_networkuseportforwarding			Redirecionar de Portas
-dialog_networktracksync			Seguir Erros de Sincroniza√ß√£o
-dialog_networktracksynctooltip			Habilite esta op√ß√£o para que com cada quadro se armazene bastante informa√ß√£o que servir√° de ajuda para o seguimento dos Erros de Sincroniza√ß√£o.\nAfetar√° o desempenho de forma significativa.
-dialog_networkportforwardtooltip			Habilite esta op√ß√£o se estiver tendo problemas ao se juntar ou se conectar aos jogos.\nVoc√™ deve habilitar de forma manual o redirecionamento de portas para os dados UDP entrantes nas portas anteriores de seu NAT.
+dialog_networktracksync			Seguir Erros de SincronizaÁ„o
+dialog_networktracksynctooltip			Habilite esta opÁ„o para que com cada quadro se armazene bastante informaÁ„o que servir· de ajuda para o seguimento dos Erros de SincronizaÁ„o.\nAfetar· o desempenho de forma significativa.
+dialog_networkportforwardtooltip			Habilite esta opÁ„o se estiver tendo problemas ao se juntar ou se conectar aos jogos.\nVocÍ deve habilitar de forma manual o redirecionamento de portas para os dados UDP entrantes nas portas anteriores de seu NAT.
 dialog_networkfailed			Erro
-dialog_networkfailedgamerunning			N√£o pode modificar a configura√ß√£o de rede\nenquanto estiver em uma partida.
-dialog_networksuccess			Opera√ß√£o Realizada Com √äxito
-dialog_networksuccessfull			A configura√ß√£o da rede\nfoi atualizada.
-dialog_networkporttooltip			N√∫mero da porta que ser√° utilizada para a comunica√ß√£o. Os n√∫meros v√°lidos para a porta t√™m que ser maiores que 1024 e menores que 65535.\nConfigure como porta 0 para permitir que o sistema escolha por voc√™ uma porta livre.
-dialog_troubleshooting			Voc√™ tem problemas? Aperte aqui...
-dialog_troubleshooting_tooltip			Aperte aqui para visitar o nosso site na Web dedicado √† resolu√ß√£o de problemas para podermos lhe ajudaremos a diagnosticar qualquer complica√ß√£o relacionada com a rede.
-dialog_no_change_while_in_game_1			N√£o pode modificar a configura√ß√£o de rede
+dialog_networkfailedgamerunning			N„o pode modificar a configuraÁ„o de rede\nenquanto estiver em uma partida.
+dialog_networksuccess			OperaÁ„o Realizada Com  xito
+dialog_networksuccessfull			A configuraÁ„o da rede\nfoi atualizada.
+dialog_networkporttooltip			N˙mero da porta que ser· utilizada para a comunicaÁ„o. Os n˙meros v·lidos para a porta tÍm que ser maiores que 1024 e menores que 65535.\nConfigure como porta 0 para permitir que o sistema escolha por vocÍ uma porta livre.
+dialog_troubleshooting			VocÍ tem problemas? Clique aqui...
+dialog_troubleshooting_tooltip			Clique aqui para visitar o nosso site na Web dedicado ‡ resoluÁ„o de problemas para podermos lhe ajudaremos a diagnosticar qualquer complicaÁ„o relacionada com a rede.
+dialog_no_change_while_in_game_1			N„o pode modificar a configuraÁ„o de rede
 dialog_no_change_while_in_game_2			enquanto estiver em uma partida em andamento
 
-dialog_authoptions			Autentica√ß√£o
+dialog_authoptions			AutenticaÁ„o
 dialog_paste			Colar
-dialog_paste_tooltip			Colar chave da √°rea de transfer√™ncia
-dialog_auth_failed			ERRO na Autentica√ß√£o
-dialog_bad_key_title			ERRO NA AUTENTICA√á√ÉO
-dialog_authkey_not_found			n√£o foi encontrada a chave de autentica√ß√£o
+dialog_paste_tooltip			Colar chave da ·rea de transferÍncia
+dialog_auth_failed			ERRO na AutenticaÁ„o
+dialog_bad_key_title			ERRO NA AUTENTICA«√O
+dialog_authkey_not_found			n„o foi encontrada a chave de autenticaÁ„o
 dialog_meta_server_details			\n\nPor favor, visita esta URL para ativar sua chave:\nMETASERVER.INTROVERSION.CO.UK
-dialog_not_permitted_start_game			N√£o pode iniciar uma nova partida\nporque n√£o foi poss√≠vel autenticar sua chave.\n\n\nCHAVE  : *K\nERRO: *E\n*M
-# K = Chave de Autentica√ß√£o, E = Mensagem de Erro, M = Mensagem
-dialog_not_permitted_join_game			N√£o pode se unir a uma partida\nporque n√£o foi poss√≠vel autenticar sua chave.\n\nCHAVE : *K\nERRO: *E\n
-# K = Chave de Autentica√ß√£o, E = Mensagem de Erro
-dialog_auth_error			Erro de Autentica√ß√£o\n*E\n\nChave: *K\n
-# K = Chave de Autentica√ß√£o, E = Mensagem de Erro
-dialog_type_authkey_or_demo_1			Por favor, digite sua Chave de Autentica√ß√£o
+dialog_not_permitted_start_game			N„o pode iniciar uma nova partida\nporque n„o foi possÌvel autenticar sua chave.\n\n\nCHAVE  : *K\nERRO: *E\n*M
+# K = Chave de AutenticaÁ„o, E = Mensagem de Erro, M = Mensagem
+dialog_not_permitted_join_game			N„o pode se unir a uma partida\nporque n„o foi possÌvel autenticar sua chave.\n\nCHAVE : *K\nERRO: *E\n
+# K = Chave de AutenticaÁ„o, E = Mensagem de Erro
+dialog_auth_error			Erro de AutenticaÁ„o\n*E\n\nChave: *K\n
+# K = Chave de AutenticaÁ„o, E = Mensagem de Erro
+dialog_type_authkey_or_demo_1			Por favor, digite sua Chave de AutenticaÁ„o
 dialog_type_authkey_or_demo_2			ou aperte em Jogar a Demo
-dialog_auth_status			ESTADO DA AUTENTICA√á√ÉO
+dialog_auth_status			ESTADO DA AUTENTICA«√O
 dialog_auth_status_unknown			DESCONHECIDO
 dialog_auth_status_checking			VERIFICANDO...
-dialog_auth_status_demo_user			USU√ÅRIO DEMO
-dialog_may_play_as_demo_user			Pode jogar como um USU√ÅRIO DEMO se assim o desejar.
-dialog_cannot_use_mac_key_on_pc     N√£o pode utilizar uma chave para o MAC na vers√£o para PC.
-dialog_cannot_use_pc_key_on_mac     N√£o pode utilizar uma chave para PC na vers√£o para o MAC.
+dialog_auth_status_demo_user			USU¡RIO DEMO
+dialog_may_play_as_demo_user			Pode jogar como um USU¡RIO DEMO se assim o desejar.
+dialog_cannot_use_mac_key_on_pc     N„o pode utilizar uma chave para o MAC na vers„o para PC.
+dialog_cannot_use_pc_key_on_mac     N„o pode utilizar uma chave para PC na vers„o para o MAC.
 
 dialog_auth_wrong_platform          Plataforma incorreta
-dialog_auth_key_dead                Chave n√£o utiliz√°vel
-dialog_auth_version_not_found			Vers√£o n√£o encontrada
+dialog_auth_key_dead                Chave n„o utiliz·vel
+dialog_auth_version_not_found			Vers„o n„o encontrada
 dialog_auth_key_inactive			Chave inativa
-dialog_auth_version_revoked			Vers√£o suspensa
-dialog_auth_key_not_found			Chave n√£o encontrada
+dialog_auth_version_revoked			Vers„o suspensa
+dialog_auth_key_not_found			Chave n„o encontrada
 dialog_auth_key_revoked			Chave suspensa
 dialog_auth_key_banned			Chave proibida
-dialog_auth_key_invalid			Chave inv√°lida
+dialog_auth_key_invalid			Chave inv·lida
 dialog_auth_unknown			Desconhecido
 dialog_auth_accepted			Aceito
 
 dialog_controloptions			Outros
 dialog_sidescrolling			Deslocar Mouse
 dialog_zoomspeed                    Velocidade do Zoom
-dialog_camdragging			Arrastar C√¢mera
-dialog_tooltips			Informa√ß√£o Ferramentas
+dialog_camdragging			Arrastar C‚mera
+dialog_tooltips			InformaÁ„o Ferramentas
 dialog_popupscale			Escala
-dialog_panickey			Tecla de P√¢nico
+dialog_panickey			Tecla de P‚nico
 dialog_language			Idioma 
-dialog_restart_required_language			Por favor, reinicie o Defcon para que a configura√ß√£o\ndo idioma tenha efeito.
-dialog_keyboardlayout               Distribui√ß√£o do Teclado
+dialog_restart_required_language			Por favor, reinicie o Defcon para que a configuraÁ„o\ndo idioma tenha efeito.
+dialog_keyboardlayout               DistribuiÁ„o do Teclado
 
 dialog_zoomnormal                   Normal
 dialog_zoomslow                     Lento
 
 dialog_lobby			SALA DE ESPERA
-dialog_lobby_team_options			Op√ß√µes de Equipe
-dialog_lobby_advanced_options			Op√ß√µes Avan√ßadas
+dialog_lobby_team_options			OpÁıes de Equipe
+dialog_lobby_advanced_options			OpÁıes AvanÁadas
 dialog_rename			Alterar Nome
-dialog_territories			Territ√≥rios
-dialog_alliance			Alian√ßa
-dialog_requestai			Adicionar Jogador N√£o Humano
+dialog_territories			TerritÛrios
+dialog_alliance			AlianÁa
+dialog_requestai			Adicionar Jogador N„o Humano
 dialog_chat			Chat
 dialog_ready			Pronto
-dialog_gamestart			In√≠cio em *X segundos
+dialog_gamestart			InÌcio em *X segundos
 # X = Countdown in secondes before the game start
-dialog_gamestart_whenready			Todos os jogadores: apertem 'PRONTO' para come√ßar
-dialog_gamestart_youready			Aperte 'PRONTO' para come√ßar
+dialog_gamestart_whenready			Todos os jogadores: apertem 'PRONTO' para comeÁar
+dialog_gamestart_youready			Aperte 'PRONTO' para comeÁar
 dialog_kick			Expulsar
 dialog_spectate			Observar
 dialog_join_alliance			Unir a *A
 # A = Alliance Name
 dialog_closed			fechado
-dialog_demo_user			USU√ÅRIO DEMO
-dialog_number_players_max			M√°ximo de *N jogadores
+dialog_demo_user			USU¡RIO DEMO
+dialog_number_players_max			M·ximo de *N jogadores
 # N = Number Players Max
 dialog_click_to_open			aperte para abrir
 dialog_click_to_close			aperte para fechar
@@ -245,18 +245,18 @@ dialog_cpu_team_name			[CPU] *T
 dialog_joining			[Se unindo...]
 dialog_demo_team_name			[DEMO] *T
 # T = Team Name
-dialog_demo_too_many_players			Voc√™ pode ter todos estes jogadores em sua partida\nporque est√° utilizando a vers√£o DEMO.\n\nSe quiser entrar na loucura multijogador para seis participantes primeiro ter√° que comprar o jogo completo.\n\nTamanho M√°ximo da Partida Demo = *N Jogadores
+dialog_demo_too_many_players			VocÍ pode ter todos estes jogadores em sua partida\nporque est· utilizando a vers„o DEMO.\n\nSe quiser entrar na loucura multijogador para seis participantes primeiro ter· que comprar o jogo completo.\n\nTamanho M·ximo da Partida Demo = *N Jogadores
 # N = Max Demo Game Size
 dialog_edited			editado
 dialog_locked			bloqueado
-dialog_click_select_territory			SELECIONE SEU TERRIT√ìRIO (*T/*M)
+dialog_click_select_territory			SELECIONE SEU TERRIT”RIO (*T/*M)
 # T = Number of Territories, M = Maximum number of Territories
-dialog_random_territories			TERRIT√ìRIOS ALEAT√ìRIOS
-dialog_option_locked_demo_1			Esta op√ß√£o est√° BLOQUEADA
+dialog_random_territories			TERRIT”RIOS ALEAT”RIOS
+dialog_option_locked_demo_1			Esta opÁ„o est· BLOQUEADA
 dialog_option_locked_demo_2			(Jogador DEMO).
-dialog_option_locked_game_mode_1			Esta op√ß√£o se encontra BLOQUEADA
+dialog_option_locked_game_mode_1			Esta opÁ„o se encontra BLOQUEADA
 dialog_option_locked_game_mode_2			devido ao modo de jogo atual.
-dialog_spectators_number			ESPECTADORES (*N M√ÅX)
+dialog_spectators_number			ESPECTADORES (*N M¡X)
 # N = Maximum number of Spectators
 dialog_awaiting_spectators			esperando espectadores...
 dialog_internet_identity			ID na Internet:
@@ -266,29 +266,29 @@ dialog_lan_identity			ID na Rede Local:
 dialog_server_identity			ID no Servidor:
 dialog_lobby_defcon			DEFCOn
 dialog_created_by_introversion      CRIADO  POR  INTROVERSION  SOFTWARE
-dialog_lobby_version			VERS√ÉO:
-dialog_lobby_have_latest_version			Voc√™ tem a vers√£o mais recente.
-dialog_lobby_newer_version			Est√° dispon√≠vel uma vers√£o mais recente : *V
+dialog_lobby_version			VERS√O:
+dialog_lobby_have_latest_version			VocÍ tem a vers„o mais recente.
+dialog_lobby_newer_version			Est· disponÌvel uma vers„o mais recente : *V
 # V = Newer Version
-dialog_lobby_click_to_download			Aperte aqui para baix√°-la
-dialog_lobby_demo_limitations			LIMITA√á√ïES DA VERS√ÉO DEMO
-dialog_lobby_max_demo_game_size			Tamanho M√°ximo da Partida Demo
-dialog_lobby_max_demo_players			M√°ximo Jogadores Demo em uma partida
+dialog_lobby_click_to_download			Clique aqui para baix·-la
+dialog_lobby_demo_limitations			LIMITA«’ES DA VERS√O DEMO
+dialog_lobby_max_demo_game_size			Tamanho M·ximo da Partida Demo
+dialog_lobby_max_demo_players			M·ximo Jogadores Demo em uma partida
 dialog_lobby_demo_servers_permitted			Servidores Demo permitidos
 dialog_lobby_number_players			*P Jogadores
 # P = Number of Players
 dialog_lobby_metaserver_time			HORA DO METASERVIDOR
 dialog_lobby_time_gmt			*H:*M*A (GMT)
 # H = Hours, M = Minutes, A = am/pm
-dialog_lobby_test_hours_start_at			SUAS HORAS DE TESTE COME√áAM √ÄS
+dialog_lobby_test_hours_start_at			SUAS HORAS DE TESTE COME«AM ¿S
 dialog_lobby_scheduled_test_hour			HORA DE TESTE PROGRAMADA
 dialog_lobby_occurring_now			ATUALMENTE EM PROGRESSO
-dialog_lobby_next_test_hour_begins			A PR√ìXIMA HORA DE TESTE COME√áA EM
+dialog_lobby_next_test_hour_begins			A PR”XIMA HORA DE TESTE COME«A EM
 dialog_lobby_minutes			*M MINUTOS
 # M = Minutes
 dialog_lobby_hours_minutes			*H HORAS *M MINUTOS
 # H = Hours, M = Minutes
-dialog_lobby_authentication			AUTENTICA√á√ÉO : *A
+dialog_lobby_authentication			AUTENTICA«√O : *A
 # A = Authentication Status
 dialog_lobby_client_ident			IDENTIDADE DO CLIENTE : *I:*P
 # I = Ip Address, P = port
@@ -304,25 +304,25 @@ dialog_alliance_3			Amarelo
 dialog_alliance_4			Laranja
 dialog_alliance_5			Turquesa
 
-dialog_alliances			Alian√ßas
+dialog_alliances			AlianÁas
 dialog_declarewar			Romper o Cessar Fogo com *T?
 dialog_ceasefire			Cessar Fogo com *T?
 dialog_ceasefire_title			Cessar Fogo
 dialog_shareradar			Compartilhar Radar
-dialog_alliance_leave			Abandonar a Alian√ßa
-dialog_alliance_kick			Expulsar este jogador da Alian√ßa
-dialog_alliance_join			Solicitar Unir-se a esta Alian√ßa
+dialog_alliance_leave			Abandonar a AlianÁa
+dialog_alliance_kick			Expulsar este jogador da AlianÁa
+dialog_alliance_join			Solicitar Unir-se a esta AlianÁa
 dialog_shareradarbegin			Compartilhar Radar com *T?
 dialog_shareradarend			Deixar de compartilhar Radar com *T?
 dialog_vote			Votar
 dialog_abstain			Abster-se
-dialog_you_requested_alliance_1			Voc√™ solicitou 
-dialog_you_requested_alliance_2			unir-se a Alian√ßa *A
+dialog_you_requested_alliance_1			VocÍ solicitou 
+dialog_you_requested_alliance_2			unir-se a AlianÁa *A
 # A = Alliance
 dialog_requested_alliance_1			*T solicitou
 # T = Team Name
-dialog_requested_alliance_2			unir-se a sua Alian√ßa
-dialog_you_requested_kick_1			Voc√™ solicitou
+dialog_requested_alliance_2			unir-se a sua AlianÁa
+dialog_you_requested_kick_1			VocÍ solicitou
 dialog_you_requested_kick_2			expulsar *T
 # T = Team Name
 dialog_requested_kick_1			*T solicitou
@@ -330,13 +330,13 @@ dialog_requested_kick_1			*T solicitou
 dialog_requested_kick_2			expulsar *T
 # T = Team Name
 dialog_vote_yes			SIM
-dialog_vote_no			N√ÉO
+dialog_vote_no			N√O
 dialog_vote_abstain			ABSTER-SE
 dialog_vote_seconds_to_vote			*S segundos para votar
 # S = Seconds to vote
-dialog_vote_number_votes_required			S√£o necess√°rios *V votos
+dialog_vote_number_votes_required			S„o necess·rios *V votos
 # V = Number of Vote Required
-dialog_vote_succeeded			√äXITO
+dialog_vote_succeeded			 XITO
 dialog_vote_failed			FRACASSO
 dialog_alliance_player			Jogador
 dialog_alliance_receiving		Recebendo
@@ -348,7 +348,7 @@ dialog_alliance_fire			Fogo
 dialog_placeunit			Colocar Unidade
 dialog_createfleet			Criar Frota
 
-dialog_credits_1			*C Cr√©ditos
+dialog_credits_1			*C CrÈditos
 dialog_credits_2			Restantes
 dialog_fleets			Frotas
 dialog_units			Unidades
@@ -358,96 +358,96 @@ dialog_paused			PAUSA
 dialog_gameover			FIM DE JOGO
 dialog_saved_screenshot			/salvou uma captura da tela
 # /me will be replaced by the Team Name
-dialog_steam_authentication_failed			ERRO na Autentica√ß√£o do Steam\n\n
-dialog_steam_logged_in_elsewhere			Para solucionar este problema dever√° iniciar a sess√£o no Steam novamente.\nSaia do Defcon, clique no Menu de Arquivo dentro do Steam, e depois em 'Trocar Usu√°rio'.\nIntroduza seu nome de usu√°rio e a senha para iniciar a sess√£o novamente.\n\n
+dialog_steam_authentication_failed			ERRO na AutenticaÁ„o do Steam\n\n
+dialog_steam_logged_in_elsewhere			Para solucionar este problema dever· iniciar a sess„o no Steam novamente.\nSaia do Defcon, clique no Menu de Arquivo dentro do Steam, e depois em 'Trocar Usu·rio'.\nIntroduza seu nome de usu·rio e a senha para iniciar a sess„o novamente.\n\n
 dialog_steam_error			Erro no Steam
-dialog_synchronisation_error			ERRO DE SINCRONIZA√á√ÉO
-dialog_connection_problem_seconds			PROBLEMA COM A CONEX√ÉO (*S SEGUNDOS)
+dialog_synchronisation_error			ERRO DE SINCRONIZA«√O
+dialog_connection_problem_seconds			PROBLEMA COM A CONEX√O (*S SEGUNDOS)
 # S = Seconds of Estimated Latency
-dialog_high_latency			Lat√™ncia Alta
+dialog_high_latency			LatÍncia Alta
 dialog_high_packet_loss			Perda de Pacotes Elevada
 dialog_defcon_x_in_x_time			DEFCON *D DENTRO DE *M:*S
 # D = Defcon level, M = Minutes, S = Seconds
 dialog_time_remaining			FALTAM *M:*S
 # M = Minutes, S = Seconds
-dialog_autocam			C√ÇMERA AUTOM√ÅTICA
-dialog_non_playable_demo			DEMO N√ÉO JOG√ÅVEL
-dialog_tracking_synchronisation			MONITORANDO A SINCRONIZA√á√ÉO
+dialog_autocam			C¬MERA AUTOM¡TICA
+dialog_non_playable_demo			DEMO N√O JOG¡VEL
+dialog_tracking_synchronisation			MONITORANDO A SINCRONIZA«√O
 
-dialog_steam_authentication			Autentica√ß√£o na Steam
+dialog_steam_authentication			AutenticaÁ„o na Steam
 dialog_steam_play_defcon			Jogar Defcon
-dialog_steam_auth_status			ESTADO DA AUTENTICA√á√ÉO NA STEAM
+dialog_steam_auth_status			ESTADO DA AUTENTICA«√O NA STEAM
 dialog_steam_welcome_to_defcon			Bem-vindo ao Defcon!
-dialog_steam_may_play_demo			Vov√™ pode jogar a DEMO do Defcon
-dialog_steam_unable_to_auth			N√£o pudemos te autenticar.
-dialog_steam_auth_progress			Autentica√ß√£o na Steam : *P
+dialog_steam_may_play_demo			VovÍ pode jogar a DEMO do Defcon
+dialog_steam_unable_to_auth			N„o pudemos te autenticar.
+dialog_steam_auth_progress			AutenticaÁ„o na Steam : *P
 # P = Steam Authentication Progress
 
-dialog_steam_error_edenysteamvalidationstalled			Erro ao verificar o Ticket de Identifica√ß√£o do Usu√°rio da STEAM (o servidor n√£o conseguir se contactar com o servidor de autentica√ß√£o).\n
-dialog_steam_error_edenynotloggedon			Login Inv√°lido na Steam
+dialog_steam_error_edenysteamvalidationstalled			Erro ao verificar o Ticket de IdentificaÁ„o do Usu·rio da STEAM (o servidor n„o conseguir se contactar com o servidor de autenticaÁ„o).\n
+dialog_steam_error_edenynotloggedon			Login Inv·lido na Steam
 dialog_steam_error_edenyloggedinelsewhere			Esta conta foi logada em outro local
-dialog_steam_error_edenynolicense			Esta conta Steam n√£o √© propriet√°ria deste jogo.\nPor favor, logue na Steam correta.
-dialog_steam_error_edenyinvalidversion			Vers√£o de cliente incompat√≠vel com o servidor. \nPor favor, saia e reinicie
-dialog_steam_error_edenycheater			Esta conta est√° proibida
-dialog_steam_error_edenyunknowntext			O servidor interrompeu a conex√£o com o cliente
-dialog_steam_error_edenyincompatibleanticheat			Est√° executando uma ferramenta externa que √© incompat√≠vel com servidores seguros.
-dialog_steam_error_edenymemorycorruption			Foi detectada uma falha na mem√≥ria.
-dialog_steam_error_edenyincompatiblesoftware			Est√° executando um software que n√£o √© compat√≠vel com servidores seguros.
-dialog_steam_error_edenygeneric			O servidor interrompeu a conex√£o com o cliente
+dialog_steam_error_edenynolicense			Esta conta Steam n„o È propriet·ria deste jogo.\nPor favor, logue na Steam correta.
+dialog_steam_error_edenyinvalidversion			Vers„o de cliente incompatÌvel com o servidor. \nPor favor, saia e reinicie
+dialog_steam_error_edenycheater			Esta conta est· proibida
+dialog_steam_error_edenyunknowntext			O servidor interrompeu a conex„o com o cliente
+dialog_steam_error_edenyincompatibleanticheat			Est· executando uma ferramenta externa que È incompatÌvel com servidores seguros.
+dialog_steam_error_edenymemorycorruption			Foi detectada uma falha na memÛria.
+dialog_steam_error_edenyincompatiblesoftware			Est· executando um software que n„o È compatÌvel com servidores seguros.
+dialog_steam_error_edenygeneric			O servidor interrompeu a conex„o com o cliente
 dialog_steam_error_unknown			Desconhecido
 
-dialog_steam_progress_not_started			N√£o Iniciado
+dialog_steam_progress_not_started			N„o Iniciado
 dialog_steam_progress_started			Iniciado
 dialog_steam_progress_starting_steam			Iniciando Steam
 dialog_steam_progress_starting_steam_api			Iniciando API da Steam
-dialog_steam_progress_logging_on_to_steam			Iniciando Sess√£o na Steam
+dialog_steam_progress_logging_on_to_steam			Iniciando Sess„o na Steam
 dialog_steam_progress_getting_steam_id			Obtendo o Id. da Steam
 dialog_steam_progress_getting_encryption_details			Obtendo Detalhes de Criptografia
-dialog_steam_progress_getting_steam2_auth			Obtendo Autentica√ß√£o Steam2
-dialog_steam_progress_getting_steam3_auth			Obtendo Autentica√ß√£o Steam3
-dialog_steam_progress_requesting_authentication			Solicitando Autentica√ß√£o
-dialog_steam_progress_success			√äxito
-dialog_steam_progress_success_demo			√äxito (Demo)
+dialog_steam_progress_getting_steam2_auth			Obtendo AutenticaÁ„o Steam2
+dialog_steam_progress_getting_steam3_auth			Obtendo AutenticaÁ„o Steam3
+dialog_steam_progress_requesting_authentication			Solicitando AutenticaÁ„o
+dialog_steam_progress_success			 xito
+dialog_steam_progress_success_demo			 xito (Demo)
 dialog_steam_progress_failed			Erro
 
-dialog_warning			Aten√ß√£o
+dialog_warning			AtenÁ„o
 
 dialog_enterpassword			Introduzir Senha do Servidor
-dialog_setpassword			Definir Senha do Servidor (deixe em branco para que n√£o haja senha)
+dialog_setpassword			Definir Senha do Servidor (deixe em branco para que n„o haja senha)
 
 dialog_resync_title			Resincronizar
 dialog_resync_button			Resincronizar
-dialog_resync_caption			Sua partida perdeu a Sincroniza√ß√£o com outros jogadores.\n\nAperte o bot√£o Resincronizar para tentar solucionar erro.\n\n√â poss√≠vel que leve v√°rios minutos.
+dialog_resync_caption			Sua partida perdeu a SincronizaÁ„o com outros jogadores.\n\nAperte o bot„o Resincronizar para tentar solucionar erro.\n\n… possÌvel que leve v·rios minutos.
 
 team_unassigned			Sem atribuir
 team_ai			Jogador IA
 team_local			Jogador Local
 team_remote			Jogador Remoto
 
-team_name_not_set			[nome-n√£o-definido]
+team_name_not_set			[nome-n„o-definido]
 
-dialog_metaserver_failedtitle			N√ÉO FOI POSS√çVEL CONECTAR COM O METASERVIDOR
-dialog_metaserver_failedconnect			O Defcon n√£o p√¥de se conectar com o MetaServidor.\nIsto significa que n√£o poder√° recuperar as listagens de servidor,\nnem acrescentar √† lista seu pr√≥prio servidor de jogo.\n\nVerifique se a conex√£o com a internet est√° funcionando e tente desabilitar\nos Firewalls e as Ferramentas de rede que possam estar executando.\n\n√â necess√°rio que o Defcon disponha de acesso as seguintes portas:\n5009 UDP (sa√≠da)\n5009 UDP (entrada)\n\nPara receber mais ajuda consulte o nosso guia de resolu√ß√£o de problemas:\nhttp://www.everybody-dies.com/support/
+dialog_metaserver_failedtitle			N√O FOI POSSÕVEL CONECTAR COM O METASERVIDOR
+dialog_metaserver_failedconnect			O Defcon n„o pÙde se conectar com o MetaServidor.\nIsto significa que n„o poder· recuperar as listagens de servidor,\nnem acrescentar ‡ lista seu prÛprio servidor de jogo.\n\nVerifique se a conex„o com a internet est· funcionando e tente desabilitar\nos Firewalls e as Ferramentas de rede que possam estar executando.\n\n… necess·rio que o Defcon disponha de acesso as seguintes portas:\n5009 UDP (saÌda)\n5009 UDP (entrada)\n\nPara receber mais ajuda consulte o nosso guia de resoluÁ„o de problemas:\nhttp://www.everybody-dies.com/support/
 
 dialog_client_failedtitle			ERRO NA REDE
-dialog_client_failedconnect			Defcon n√£o p√¥de abrir um Listener de Rede para o Cliente.\nIsso significa que voc√™ n√£o poder√° participar de nenhum jogo,\nnem cri√°-lo.\n\nTente desabilitar\no Firewall e o resto das Ferramentas de Rede que voc√™ pode estar executando.\n\nPara obter mais ajuda, consulte nossa guia de solu√ß√£o de problemas:\n
+dialog_client_failedconnect			Defcon n„o pÙde abrir um Listener de Rede para o Cliente.\nIsso significa que vocÍ n„o poder· participar de nenhum jogo,\nnem cri·-lo.\n\nTente desabilitar\no Firewall e o resto das Ferramentas de Rede que vocÍ pode estar executando.\n\nPara obter mais ajuda, consulte nossa guia de soluÁ„o de problemas:\n
 
-dialog_server_failedtitle			N√ÉO FOI POSS√çVEL INICIAR O SERVIDOR
-dialog_server_failedconnect			O DEFCON n√£o foi capaz de iniciar um servidor.\nIsso ocorre porque as conex√µes de rede necess√°rias n√£o est√£o dispon√≠veis.\n\nTente desabilitar\no Firewall e o resto das Ferramentas de Rede que voc√™ pode estar executando.\n\nPara obter mais ajuda, consulte nossa guia de solu√ß√£o de problemas:\n
+dialog_server_failedtitle			N√O FOI POSSÕVEL INICIAR O SERVIDOR
+dialog_server_failedconnect			O DEFCON n„o foi capaz de iniciar um servidor.\nIsso ocorre porque as conexıes de rede necess·rias n„o est„o disponÌveis.\n\nTente desabilitar\no Firewall e o resto das Ferramentas de Rede que vocÍ pode estar executando.\n\nPara obter mais ajuda, consulte nossa guia de soluÁ„o de problemas:\n
 
 dialog_ambxsupport			Suporte a amBX
-dialog_ambxsupport_tooltip			Ative esta op√ß√£o s√≥ se tiver hardware AMBX instalado. Para receber mais informa√ß√£o visite www.ambx.com.
+dialog_ambxsupport_tooltip			Ative esta opÁ„o sÛ se tiver hardware AMBX instalado. Para receber mais informaÁ„o visite www.ambx.com.
 
 dialog_screen_error_title			Erro da tela
-dialog_screen_error_caption			N√£o foi poss√≠vel definir as configura√ß√µes de exibi√ß√£o de\n*W x *H, cor de *C, *S que foi solicitada.\n\nFoi restaurada a configura√ß√£o de seguran√ßa\n*w x *h, cor de *c, *s.
+dialog_screen_error_caption			N„o foi possÌvel definir as configuraÁıes de exibiÁ„o de\n*W x *H, cor de *C, *S que foi solicitada.\n\nFoi restaurada a configuraÁ„o de seguranÁa\n*w x *h, cor de *c, *s.
 # W = Screen Width, H = Screen Height, C = Color Depth (ie: 24 bit), S = Windowed/Fullscreen
 # The four other are the safe version of their capitalized counterparts (ie: w, h ,c ,s)
 
-dialog_restart_required_title			√â necess√°rio reiniciar
-dialog_restart_required_caption			Por favor, reinicie o Defcon para que a configura√ß√£o\nda tela tenha efeito.
+dialog_restart_required_title			… necess·rio reiniciar
+dialog_restart_required_caption			Por favor, reinicie o Defcon para que a configuraÁ„o\nda tela tenha efeito.
 
-dialog_connection_status			Estado da Conex√£o
-dialog_abort_current_connection			Anular a tentativa de conex√£o atual
+dialog_connection_status			Estado da Conex„o
+dialog_abort_current_connection			Anular a tentativa de conex„o atual
 dialog_state_disconnected			DESCONECTADO
 dialog_state_connecting			CONECTANDO...
 dialog_state_connected			CONECTADO
@@ -463,14 +463,14 @@ dialog_state_time_remaining		TEMPO RESTANTE : *M.*S
 dialog_toolbar_units			unidades
 dialog_toolbar_allies			aliados
 dialog_toolbar_comms			com.
-dialog_toolbar_scores			pontua√ß√µes
+dialog_toolbar_scores			pontuaÁıes
 dialog_toolbar_radar			radar
-dialog_toolbar_people			popula√ß√£o
+dialog_toolbar_people			populaÁ„o
 dialog_toolbar_orders			ordens
-dialog_toolbar_territory		territ√≥rio
+dialog_toolbar_territory		territÛrio
 dialog_toolbar_nukes			bombas
 dialog_toolbar_white_board		quadro de avisos
-dialog_toolbar_info			informa√ß√£o
+dialog_toolbar_info			informaÁ„o
 
 dialog_mod			Mods
 dialog_mod_commit_title			CARREGANDO MODS...
@@ -479,8 +479,8 @@ dialog_mod_commit_activating_mod	Ativando o mod '*N *V'\n
 # N = MOD name, V = version
 dialog_mod_commit_all_mods_off		Todos os MODs foram desativados
 dialog_mod_error			ERRO
-dialog_mod_no_arrangement_change    Voc√™ n√£o pode mudar a ordem dos mods CR√çTICOS\nenquanto um jogo est√° em andamento.
-dialog_mod_not_installed            (N√ÉO INSTALADO)
+dialog_mod_no_arrangement_change    VocÍ n„o pode mudar a ordem dos mods CRÕTICOS\nenquanto um jogo est· em andamento.
+dialog_mod_not_installed            (N√O INSTALADO)
 dialog_mod_active                   ativo
 dialog_mod_clear_all                Limpar Todos
 dialog_mod_deactivate               Desativar
@@ -490,13 +490,13 @@ dialog_mod_click_here               Clique aqui
 dialog_mod_move_up                  Mover para cima
 dialog_mod_move_down                Mover para baixo
 dialog_mod_no_mod_selected          Nenhum mod selecionado
-dialog_mod_screenshot_not_found     Captura de tela n√£o encontrada
-dialog_mod_install_dir              Diret√≥rio de Instala√ß√£o
+dialog_mod_screenshot_not_found     Captura de tela n„o encontrada
+dialog_mod_install_dir              DiretÛrio de InstalaÁ„o
 dialog_mod_author                   Autor
 dialog_mod_website                  Website
-dialog_mod_required_all_players     Necess√°rio por TODOS OS JOGADORES
+dialog_mod_required_all_players     Necess·rio por TODOS OS JOGADORES
 dialog_error_mod_path_title         Erro ao definir o caminho do MOD
-dialog_error_mod_path_caption       Erro ao definir o caminho do MOD.\nEste servidor est√° executando um MOD que voc√™ n√£o tem instalado.\n\nO servidor est√° executando os seguintes MODs:\n
+dialog_error_mod_path_caption       Erro ao definir o caminho do MOD.\nEste servidor est· executando um MOD que vocÍ n„o tem instalado.\n\nO servidor est· executando os seguintes MODs:\n
 
 dialog_demo                         Demo
 dialog_welcome_to_demo              BEM-VINDO AO DEMO
@@ -507,39 +507,39 @@ dialog_exit_game_time               Sair do Jogo (*T)
 # T = Tempo restante
 dialog_exit_game                    Sair do Jogo
 dialog_welcome_to_demo_defcon       Bem-vindo ao DEMO do Defcon.
-dialog_demo_player_limited          Voc√™ pode criar um jogo multijogador\nmas estar√° limitado a no m√°ximo *P jogadores.\nNo JOGO COMPLETO, voc√™ pode ter at√© 6 jogadores.\n\n
-# P = N√∫mero de Jogadores
-dialog_demo_player_join_limited     Voc√™ pode entrar em um jogo multijogador existente\nmas apenas se houver menos de *P jogadores DEMO\nj√° conectados.
-# P = N√∫mero de Jogadores
-dialog_demo_spectate_any_game       \n\nVoc√™ pode assistir qualquer jogo.
+dialog_demo_player_limited          VocÍ pode criar um jogo multijogador\nmas estar· limitado a no m·ximo *P jogadores.\nNo JOGO COMPLETO, vocÍ pode ter atÈ 6 jogadores.\n\n
+# P = N˙mero de Jogadores
+dialog_demo_player_join_limited     VocÍ pode entrar em um jogo multijogador existente\nmas apenas se houver menos de *P jogadores DEMO\nj· conectados.
+# P = N˙mero de Jogadores
+dialog_demo_spectate_any_game       \n\nVocÍ pode assistir qualquer jogo.
 
 dialog_server_browser               Navegador de Servidores
 dialog_server_password              Senha do Servidor
 dialog_enter_ip_manually            Digite o IP manualmente
 dialog_filters                      Filtros
 dialog_server_details               Servidor  *I : *P
-# I = Endere√ßo IP, P = porta
-dialog_server_version_mismatch      Voc√™ n√£o pode entrar neste servidor de jogo.\n\nEles est√£o executando uma vers√£o diferente da sua\ne as vers√µes n√£o s√£o compat√≠veis.\n\n\nSua vers√£o   : *V\nVers√£o deles : *T
-# V = Sua vers√£o, T = Vers√£o deles
-dialog_cannot_join_server           N√£o √© poss√≠vel entrar no servidor
-dialog_no_join_mods_not_installed   Voc√™ n√£o pode entrar neste servidor de jogo.\n\nEles est√£o executando MODs que voc√™ n√£o tem instalado.\nEsses MODs s√£o necess√°rios:\n\n*R\n\nVoc√™ pode baixar MODs em\n
+# I = EndereÁo IP, P = porta
+dialog_server_version_mismatch      VocÍ n„o pode entrar neste servidor de jogo.\n\nEles est„o executando uma vers„o diferente da sua\ne as versıes n„o s„o compatÌveis.\n\n\nSua vers„o   : *V\nVers„o deles : *T
+# V = Sua vers„o, T = Vers„o deles
+dialog_cannot_join_server           N„o È possÌvel entrar no servidor
+dialog_no_join_mods_not_installed   VocÍ n„o pode entrar neste servidor de jogo.\n\nEles est„o executando MODs que vocÍ n„o tem instalado.\nEsses MODs s„o necess·rios:\n\n*R\n\nVocÍ pode baixar MODs em\n
 # R = Motivo
-dialog_no_join_own_game             Voc√™ n√£o pode entrar neste servidor de jogo.\n\nEste √© o seu pr√≥prio servidor de jogo e voc√™ j√° est√°\nconectado a ele.
+dialog_no_join_own_game             VocÍ n„o pode entrar neste servidor de jogo.\n\nEste È o seu prÛprio servidor de jogo e vocÍ j· est·\nconectado a ele.
 dialog_requesting                   Solicitando...
 dialog_refresh_number_server        Atualizar (*S)
-# S = N√∫mero de Servidores
-dialog_server_demo_restricted       Este servidor est√° PROIBIDO PARA DEMOS.\n\nIsso significa que j√° existem muitos jogadores de demonstra√ß√£o conectados ao jogo ou o jogo est√° sendo executado em um modo avan√ßado.\n\nSe voc√™ deseja participar de jogos deste tamanho, ser√° necess√°rio comprar o jogo completo.\n\nJogadores de demonstra√ß√£o m√°ximos por jogo: *N
-# N = Tamanho M√°ximo do Jogo de Demonstra√ß√£o
+# S = N˙mero de Servidores
+dialog_server_demo_restricted       Este servidor est· PROIBIDO PARA DEMOS.\n\nIsso significa que j· existem muitos jogadores de demonstraÁ„o conectados ao jogo ou o jogo est· sendo executado em um modo avanÁado.\n\nSe vocÍ deseja participar de jogos deste tamanho, ser· necess·rio comprar o jogo completo.\n\nJogadores de demonstraÁ„o m·ximos por jogo: *N
+# N = Tamanho M·ximo do Jogo de DemonstraÁ„o
 dialog_number_server_found          *N servidor(es) encontrado(s)
-# N = N√∫mero de Servidores Encontrados
+# N = N˙mero de Servidores Encontrados
 dialog_retrieving_server_list       Obtendo Lista de Servidores...
 dialog_net_location_lan             *I:*P [LAN]
-# I = Endere√ßo IP, P = porta
+# I = EndereÁo IP, P = porta
 dialog_game_ended                   (encerrado)
 dialog_demo_game_mode               demo
 dialog_mod_base_number_more         *M (*N mais)
-# M = Base do Mod, N = N√∫mero de Mods Restantes
-dialog_server_name_incompatible     *S [INCOMPAT√çVEL]
+# M = Base do Mod, N = N˙mero de Mods Restantes
+dialog_server_name_incompatible     *S [INCOMPATÕVEL]
 # S = Nome do Servidor
 dialog_server_name_mods_required    *S [MODS REQUERIDOS]
 # S = Nome do Servidor
@@ -549,11 +549,11 @@ dialog_server_name_demo_restricted  *S [PROIBIDO PARA DEMOS]
 # S = Nome do Servidor
 dialog_server_name_full             *S [COMPLETO]
 # S = Nome do Servidor
-dialog_server_name_not_responding   *S [N√ÉO RESPONDENDO]
+dialog_server_name_not_responding   *S [N√O RESPONDENDO]
 # S = Nome do Servidor
 dialog_connected_recently           (Conectado Recentemente)
 dialog_server_browser_teams         Equipes
-dialog_server_browser_specs         Especifica√ß√µes
+dialog_server_browser_specs         EspecificaÁıes
 dialog_server_browser_time          Tempo
 dialog_server_browser_mods          Mods
 dialog_server_browser_game_mode     Modo de Jogo
@@ -564,49 +564,49 @@ dialog_filter_games_in_lobby        Jogos na Sala de Espera
 dialog_filter_games_in_progress     Jogos em Andamento
 dialog_filter_recent_servers        Servidores Recentes
 dialog_filter_lan_games             Jogos LAN
-dialog_filter_enter_ip_manually     Digitar Endere√ßo IP Manualmente
+dialog_filter_enter_ip_manually     Digitar EndereÁo IP Manualmente
 dialog_join                         Juntar-se
-dialog_enter_ip                     [digitar endere√ßo IP]
+dialog_enter_ip                     [digitar endereÁo IP]
 dialog_connect                      Conectar
-dialog_server_ip                    Endere√ßo IP do Servidor
+dialog_server_ip                    EndereÁo IP do Servidor
 dialog_server_port                  Porta do Servidor
 dialog_single_player_games          Jogos de um Jogador
-dialog_demo_games                   Jogos de Demonstra√ß√£o
-dialog_default_named_servers        Servidores Nomeados Padr√£o
+dialog_demo_games                   Jogos de DemonstraÁ„o
+dialog_default_named_servers        Servidores Nomeados Padr„o
 dialog_show_single_player_games     Mostrar jogos de um jogador
-dialog_show_demo_games              Mostrar jogos de demonstra√ß√£o
-dialog_show_default_named_games     Mostrar servidores nomeados padr√£o
+dialog_show_demo_games              Mostrar jogos de demonstraÁ„o
+dialog_show_default_named_games     Mostrar servidores nomeados padr„o
 dialog_server_name                  Nome
 dialog_server_identity_address      Identidade
 dialog_server_game_name             Jogo
 dialog_server_game_mode             Modo de Jogo
-dialog_server_score_mode            Modo de Pontua√ß√£o
+dialog_server_score_mode            Modo de PontuaÁ„o
 dialog_server_started               [iniciado]
 dialog_server_ended                 [encerrado]
-dialog_server_not_yet_started       [ainda n√£o iniciado]
+dialog_server_not_yet_started       [ainda n„o iniciado]
 dialog_spectators                   Espectadores
 dialog_server_game_time             Tempo de Jogo
-dialog_server_scores                Pontua√ß√µes
-dialog_retrieving_scores            Obtendo Pontua√ß√µes
+dialog_server_scores                PontuaÁıes
+dialog_retrieving_scores            Obtendo PontuaÁıes
 
 
 dialog_disconnected                 Desconectado
-dialog_disconnect_client_leave      Voc√™ saiu do jogo
+dialog_disconnect_client_leave      VocÍ saiu do jogo
 dialog_disconnect_server_shutdown   O servidor foi desligado
-dialog_disconnect_invalid_key       Voc√™ est√° usando uma chave inv√°lida
-dialog_disconnect_duplicate_key     Voc√™ est√° usando uma chave duplicada
-dialog_disconnect_key_auth_failed   Falha na autentica√ß√£o da chave
-dialog_disconnect_bad_password      Senha inv√°lida digitada
-dialog_disconnect_game_full         O jogo j√° est√° cheio
+dialog_disconnect_invalid_key       VocÍ est· usando uma chave inv·lida
+dialog_disconnect_duplicate_key     VocÍ est· usando uma chave duplicada
+dialog_disconnect_key_auth_failed   Falha na autenticaÁ„o da chave
+dialog_disconnect_bad_password      Senha inv·lida digitada
+dialog_disconnect_game_full         O jogo j· est· cheio
 dialog_disconnect_kicked_from_game  Expulso pelo servidor
-dialog_disconnect_demo_full         Muitos jogadores de demonstra√ß√£o
+dialog_disconnect_demo_full         Muitos jogadores de demonstraÁ„o
 dialog_disconnect_unknown           Desconhecido
 
-dialog_chat_public                  P√∫blico
-dialog_chat_alliance                Alian√ßa
+dialog_chat_public                  P˙blico
+dialog_chat_alliance                AlianÁa
 dialog_chat_spectators              Espectadores
-dialog_chat_channel_public          [p√∫blico]
-dialog_chat_channel_alliance        [alian√ßa]
+dialog_chat_channel_public          [p˙blico]
+dialog_chat_channel_alliance        [alianÁa]
 dialog_chat_channel_spectators      [espectadores]
 dialog_chat_channel_private         [privado]
 dialog_chat_channel_to_team_name    [para *T]
@@ -618,13 +618,13 @@ dialog_white_board_show_all         mostrar tudo
 
 dialog_worldstatus_defcon           DEFCON
 dialog_worldstatus_defcon_x         DEFCON *D
-# D = N√≠vel de Defcon
+# D = NÌvel de Defcon
 dialog_worldstatus_time_remain_hms  Tempo restante: *Hh *Mm *Ss
 # H = Horas, M = Minutos, S = Segundos
 dialog_worldstatus_time_remain_ms   Tempo restante: *Mm *Ss
 # M = Minutos, S = Segundos
-dialog_worldstatus_show_stats       Mostrar estat√≠sticas
-dialog_worldstatus_scoremode        Modo de pontua√ß√£o
+dialog_worldstatus_show_stats       Mostrar estatÌsticas
+dialog_worldstatus_scoremode        Modo de pontuaÁ„o
 dialog_worldstatus_cpu_team_name    [CPU]*T
 # T = Nome da equipe
 dialog_worldstatus_left_team_name   [SAIU]*T
@@ -634,32 +634,32 @@ dialog_worldstatus_demo_team_name   [DEMO]*T
 dialog_worldstatus_out_of_sync      Desincronizado
 dialog_worldstatus_out_of_sync_2    desincronizado
 dialog_worldstatus_spectator_join   Espectador (entrando...)
-dialog_worldstatus_superpower       Superpot√™ncia
+dialog_worldstatus_superpower       SuperpotÍncia
 dialog_worldstatus_kills            Mortes
 dialog_worldstatus_deaths           Mortes
 dialog_worldstatus_survivors        Sobreviventes
 dialog_worldstatus_collateral       Colateral
 dialog_worldstatus_nukes            Bombas
-dialog_worldstatus_score            PONTUA√á√ÉO
+dialog_worldstatus_score            PONTUA«√O
 dialog_worldstatus_points_value     Valor dos pontos:
 dialog_worldstatus_pop_in_millions  *P m
-# P = Popula√ß√£o em milh√µes
+# P = PopulaÁ„o em milhıes
 dialog_worldstatus_classified       [classificado]
-dialog_stats                        Estat√≠sticas
+dialog_stats                        EstatÌsticas
 
 dialog_casualties_city              Cidade
 dialog_casualties_strikes           Ataques
 dialog_casualties_deaths            Mortes
-dialog_casualties_in_million        *C milh√µes
-# C = Baixas em milh√µes
+dialog_casualties_in_million        *C milhıes
+# C = Baixas em milhıes
 
 dialog_network_title                Rede
 dialog_network_server_seqid         SeqID do Servidor   *S
-# S = Sequ√™ncia do servidor
+# S = SequÍncia do servidor
 dialog_network_server_send          Envio do Servidor   *R Kb/seg.
 # R = Taxa de envio
-dialog_network_server_receive       Recep√ß√£o do Servidor *R Kb/seg.
-# R = Taxa de recep√ß√£o
+dialog_network_server_receive       RecepÁ„o do Servidor *R Kb/seg.
+# R = Taxa de recepÁ„o
 dialog_network_id                   ID
 dialog_network_ip_port              IP:Porta
 
@@ -668,23 +668,23 @@ dialog_network_seqid_number         SeqID *S
 # S = Sequence Id
 dialog_network_name                 Nome
 dialog_network_status               Status
-dialog_network_lost_con             Conex√£o perdida...*Ss
-# S = N√∫mero de segundos desde que a conex√£o foi perdida
+dialog_network_lost_con             Conex„o perdida...*Ss
+# S = N˙mero de segundos desde que a conex„o foi perdida
 dialog_network_synching             Sincronizando...*P
-# P = Porcentagem de conclus√£o da sincroniza√ß√£o
+# P = Porcentagem de conclus„o da sincronizaÁ„o
 dialog_network_ping                 Ping *Pms
 # P = Tempo de ping em milissegundos
-dialog_network_spec                 (especifica√ß√µes)
+dialog_network_spec                 (especificaÁıes)
 dialog_network_empty                Vazio
-dialog_network_sequence_msg_queue   Mensagens de sequ√™ncia na fila. O ideal √© 0 ou 1 preenchido, sem lacunas.
-dialog_network_svr_known_seqid      Sequ√™ncia conhecida do servidor  SeqID   *S
-# S = ID de sequ√™ncia
-dialog_network_svr_estimated_seqid  Sequ√™ncia estimada do servidor SeqID   *S
-# S = ID de sequ√™ncia
-dialog_network_estimated_latency    Lat√™ncia estimada: *L segs
-# L = Lat√™ncia estimada
-dialog_network_client_seqid         ID de sequ√™ncia do cliente       *S
-# S = ID de sequ√™ncia
+dialog_network_sequence_msg_queue   Mensagens de sequÍncia na fila. O ideal È 0 ou 1 preenchido, sem lacunas.
+dialog_network_svr_known_seqid      SequÍncia conhecida do servidor  SeqID   *S
+# S = ID de sequÍncia
+dialog_network_svr_estimated_seqid  SequÍncia estimada do servidor SeqID   *S
+# S = ID de sequÍncia
+dialog_network_estimated_latency    LatÍncia estimada: *L segs
+# L = LatÍncia estimada
+dialog_network_client_seqid         ID de sequÍncia do cliente       *S
+# S = ID de sequÍncia
 dialog_network_client_send          Enviar do cliente        *R Kb/seg
 # R = Taxa de envio
 dialog_network_client_receive       Receber do cliente     *R Kb/seg
@@ -692,10 +692,10 @@ dialog_network_client_receive       Receber do cliente     *R Kb/seg
 
 dialog_profile_title                Perfil
 dialog_profile_toggle_glfinish      Alternar glFinish
-dialog_profile_reset_history        Reiniciar Hist√≥rico
-dialog_profile_min                  M√≠n
-dialog_profile_avg                  M√©d
-dialog_profile_max                  M√°x
+dialog_profile_reset_history        Reiniciar HistÛrico
+dialog_profile_min                  MÌn
+dialog_profile_avg                  MÈd
+dialog_profile_max                  M·x
 
 dialog_c2s_team_renamed             *T renomeado para *N
 # T = Nome antigo da equipe, N = Novo nome da equipe
@@ -705,7 +705,7 @@ dialog_c2s_default_name_spectator   Espectador
 dialog_c2s_default_name_player      Jogador *T
 # T = Team Id
 
-dialog_world_new_spec_connecting    Um novo espectador est√° se conectando
+dialog_world_new_spec_connecting    Um novo espectador est· se conectando
 dialog_world_team_left_game         *T saiu do jogo
 # T = Nome da equipe
 dialog_world_spec_left_game         Espectador *T saiu do jogo
@@ -714,50 +714,50 @@ dialog_world_rejoined               *T ENTROU NOVAMENTE
 # T = Nome da equipe
 dialog_world_disconnected           *T SE DESCONECTOU
 # T = Nome da equipe
-dialog_world_dropped                *T PERDEU A CONEX√ÉO
+dialog_world_dropped                *T PERDEU A CONEX√O
 # T = Nome da equipe
 dialog_world_kicked                 *T FOI EXPULSO
 # T = Nome da equipe
 
 dialog_mapr_fps                     *Ffps
 # F = Quadros por segundo (fps)
-dialog_mapr_city_population         POPULA√á√ÉO: *P MILH√ïES
-# P = Popula√ß√£o da cidade
-dialog_mapr_city_dead               MORTOS: *D MILH√ïES
-# D = Popula√ß√£o morta da cidade
+dialog_mapr_city_population         POPULA«√O: *P MILH’ES
+# P = PopulaÁ„o da cidade
+dialog_mapr_city_dead               MORTOS: *D MILH’ES
+# D = PopulaÁ„o morta da cidade
 dialog_mapr_mode                    *M MODO
 # M = Estado atual
 dialog_mapr_secs                    *S SEGUNDOS
 # S = Segundos
 dialog_mapr_empty                   VAZIO
 dialog_mapr_cancel_all_orders       CANCELAR TODOS OS PEDIDOS
-dialog_mapr_not_before_defcon_x     N√ÉO ANTES DO DEFCON *D
-# D = N√≠vel de Defcon
-dialog_mapr_defcon_x_required       DEFCON *D OBRIGAT√ìRIO
-# D = N√≠vel de Defcon
+dialog_mapr_not_before_defcon_x     N√O ANTES DO DEFCON *D
+# D = NÌvel de Defcon
+dialog_mapr_defcon_x_required       DEFCON *D OBRIGAT”RIO
+# D = NÌvel de Defcon
 dialog_mapr_out_of_range            FORA DE ALCANCE
 dialog_mapr_combat_range            ALCANCE DE COMBATE
-dialog_mapr_fuel_range              ALCANCE DE COMBUST√çVEL
+dialog_mapr_fuel_range              ALCANCE DE COMBUSTÕVEL
 dialog_mapr_nukes_in_queue          *N NA FILA
-# N = N√∫mero de m√≠sseis nucleares
+# N = N˙mero de mÌsseis nucleares
 dialog_mapr_nukes_in_flight         *N EM VOO
-# N = N√∫mero de m√≠sseis nucleares
+# N = N˙mero de mÌsseis nucleares
 
 dialog_style                        Estilo
 dialog_style_editor                 Editor de Estilo
-dialog_style_primary                prim√°rio
-dialog_style_secondary              secund√°rio
+dialog_style_primary                prim·rio
+dialog_style_secondary              secund·rio
 dialog_style_red                    Vermelho
 dialog_style_green                  Verde
 dialog_style_blue                   Azul
 dialog_style_alpha                  Alfa
 dialog_style_colour_editor          Editor de cor *I *P
-# I = √çndice real, P = Prim√°rio (0/1)
+# I = Õndice real, P = Prim·rio (0/1)
 dialog_style_failed_load_style      Falha ao carregar estilo\n
 dialog_style_style_saved            Estilo salvo em\n
 dialog_style_failed_save_style      Falha ao salvar estilo em\n
-dialog_style_col_primary            Prim√°rio
-dialog_style_col_secondary          Secund√°rio
+dialog_style_col_primary            Prim·rio
+dialog_style_col_secondary          Secund·rio
 dialog_style_col_horiz              Horiz
 dialog_style_col_ngtive             Ngtive
 dialog_style_col_caps               Inv.
@@ -776,7 +776,7 @@ tooltip_timeaccel3                  Acelerar o Tempo\n(10x Tempo Real)
 tooltip_timeaccel4                  Acelerar o Tempo\n(20x Tempo Real)
 
 tooltip_worldstatus_x_faster_realtime       *Sx tempo real
-# S = N√∫mero de vezes que a velocidade do jogo √© mais r√°pida do que o tempo real
+# S = N˙mero de vezes que a velocidade do jogo È mais r·pida do que o tempo real
 tooltip_worldstatus_key_shortcut_0          \nAtalho de teclado: 0\n
 tooltip_worldstatus_key_shortcut_1          \nAtalho de teclado: 1\n
 tooltip_worldstatus_key_shortcut_2          \nAtalho de teclado: 2\n
@@ -784,136 +784,136 @@ tooltip_worldstatus_key_shortcut_3          \nAtalho de teclado: 3\n
 tooltip_worldstatus_key_shortcut_4          \nAtalho de teclado: 4\n
 tooltip_worldstatus_players_request_speed   Jogadores pedindo velocidade:
 tooltip_worldstatus_no_team_request_speed   \nNenhum
-tooltip_worldstatus_cannot_request_speed    Voc√™ n√£o pode pedir essa velocidade de jogo
+tooltip_worldstatus_cannot_request_speed    VocÍ n„o pode pedir essa velocidade de jogo
 
-tooltip_defcon5                     DEFCON 5\nNenhuma a√ß√£o hostil permitida\nUnidades inimigas s√£o invis√≠veis no Radar
-tooltip_defcon4                     DEFCON 4\nUnidades inimigas tornam-se vis√≠veis no Radar
-tooltip_defcon3                     DEFCON 3\nCombate naval autorizado\nCombate a√©reo autorizado
+tooltip_defcon5                     DEFCON 5\nNenhuma aÁ„o hostil permitida\nUnidades inimigas s„o invisÌveis no Radar
+tooltip_defcon4                     DEFCON 4\nUnidades inimigas tornam-se visÌveis no Radar
+tooltip_defcon3                     DEFCON 3\nCombate naval autorizado\nCombate aÈreo autorizado
 tooltip_defcon2                     DEFCON 2
 tooltip_defcon1                     DEFCON 1\nCombate nuclear autorizado
 
 tooltip_toolbar_whiteboard          Alternar quadro branco
-tooltip_toolbar_whiteboard_disabled O quadro branco est√° desabilitado devido √† vers√£o mais antiga do host
+tooltip_toolbar_whiteboard_disabled O quadro branco est· desabilitado devido ‡ vers„o mais antiga do host
 tooltip_toolbar_radar               Alternar Cobertura do Radar
 tooltip_toolbar_pop                 Alternar Densidade Populacional
-tooltip_toolbar_alliances           Mostrar a Janela de Alian√ßas
+tooltip_toolbar_alliances           Mostrar a Janela de AlianÁas
 tooltip_toolbar_units               Mostrar o Painel de Unidades
-tooltip_toolbar_score               Mostrar a Janela de Pontua√ß√µes
-tooltip_toolbar_comms               Mostrar a Janela de Comunica√ß√µes
+tooltip_toolbar_score               Mostrar a Janela de PontuaÁıes
+tooltip_toolbar_comms               Mostrar a Janela de ComunicaÁıes
 tooltip_toolbar_orders              Alternar Ordens
-tooltip_toolbar_info                Mostrar a Janela de Informa√ß√µes da Unidade
-tooltip_toolbar_territory           Alternar Territ√≥rios
+tooltip_toolbar_info                Mostrar a Janela de InformaÁıes da Unidade
+tooltip_toolbar_territory           Alternar TerritÛrios
 tooltip_toolbar_nukes               Mostrar Unidades com Bombas Nucleares
 
 tooltip_whiteboard_planning         Alternar desenho no quadro branco. Clique esquerdo para desenhar, clique direito para apagar.
 tooltip_whiteboard_eraseall         Apagar tudo desenhado no quadro branco.
-tooltip_whiteboard_showall          Alternar entre mostrar todos os quadros brancos das alian√ßas ou somente o seu pr√≥prio.
+tooltip_whiteboard_showall          Alternar entre mostrar todos os quadros brancos das alianÁas ou somente o seu prÛprio.
 
-tooltip_gameoption_servername               Digite o nome do seu servidor de jogo que voc√™ deseja que outros jogadores vejam.
-tooltip_gameoption_advertiseoninternet      Se ativado, o seu jogo ser√° anunciado no MetaServer e outros jogadores da Internet poder√£o se juntar ao seu jogo.
-tooltip_gameoption_advertiseonlan           Se ativado, o seu jogo ser√° vis√≠vel para outros jogadores na mesma rede local (LAN).
-tooltip_gameoption_maxteams                 O n√∫mero m√°ximo de jogadores que podem participar do seu jogo.
-tooltip_gameoption_territoriesperteam       O n√∫mero de territ√≥rios que cada jogador possuir√° durante o jogo.
-tooltip_gameoption_citiesperterritory       O n√∫mero de cidades geradas por territ√≥rio de cada jogador.
-tooltip_gameoption_populationperterritory   O n√∫mero de pessoas (em milh√µes) em cada territ√≥rio. As popula√ß√µes das cidades ser√£o dimensionadas de acordo.
-tooltip_gameoption_citypopulations          Controla como a popula√ß√£o √© distribu√≠da em suas cidades.\n\n- Padr√£o: As popula√ß√µes das cidades s√£o baseadas nas popula√ß√µes do mundo real.\n\n- Equalizada: Todas as cidades dentro de um territ√≥rio t√™m a mesma popula√ß√£o.\n\n- Aleat√≥ria: A popula√ß√£o de cada cidade √© aleat√≥ria, mas as cidades padr√£o s√£o escolhidas para que suas cidades ainda estejam no mesmo lugar em cada jogo.\n\n- Totalmente aleat√≥ria: A popula√ß√£o de cada cidade √© aleat√≥ria, mas, al√©m disso, cidades aleat√≥rias ser√£o escolhidas do banco de dados, o que significa que a posi√ß√£o de suas cidades tamb√©m ser√° aleat√≥ria.
-tooltip_gameoption_randomterritories        Se habilitado, os jogadores receber√£o territ√≥rios escolhidos aleatoriamente no in√≠cio do jogo.\n\n√ötil para resolver disputas sobre quem ser√° a Europa.
-tooltip_gameoption_maxspectators            N√∫mero m√°ximo de pessoas que podem assistir ao jogo.\nAviso: cada espectador usa a largura de banda do servidor.\n\n0=nada\n100=ilimitado.
-tooltip_gameoption_spectatorchatchannel     Controla se os jogadores podem ler as mensagens do bate-papo dos espectadores do jogo. Voc√™ pode tornar o canal do espectador privado para impedir que eles ajudem os jogadores.\n\n- P√∫blico: Todos os jogadores poder√£o ouvir o que os espectadores est√£o dizendo. (padr√£o)\n\n- Privado: Somente os espectadores poder√£o ler as mensagens no canal do espectador. Nesse modo, n√£o h√° como um jogador e um espectador se comunicarem.
-tooltip_gameoption_teamswitching            Se habilitado, os jogadores poder√£o mudar de equipe durante o jogo usando as teclas num√©ricas.\n\nN√£o recomendado para jogos s√©rios!
-tooltip_gameoption_permitdefection          Se habilitado, os jogadores poder√£o trocar de alian√ßas durante o jogo.
-tooltip_gameoption_radarsharing             Controla quando os jogadores podem compartilhar seu Radar com outros Jogadores.\n\n- Sempre desligado: o compartilhamento de radar n√£o √© permitido.\n\n- Alian√ßa: os aliados compartilham automaticamente o radar. (padr√£o)\n\n- Seletivo: cada jogador pode escolher compartilhar o radar com qualquer outro jogador (aliado ou n√£o).\n\n- Sempre ligado: o compartilhamento de radar est√° habilitado para todos. Este √© um modo "iniciante" muito √∫til, pois voc√™ pode ver todas as unidades dos oponentes o tempo todo.
-tooltip_gameoption_gamespeed                A configura√ß√£o de velocidade para este jogo.\nA velocidade mais lenta olicitada √© a mais lenta selecionada por qualquer jogador.
+tooltip_gameoption_servername               Digite o nome do seu servidor de jogo que vocÍ deseja que outros jogadores vejam.
+tooltip_gameoption_advertiseoninternet      Se ativado, o seu jogo ser· anunciado no MetaServer e outros jogadores da Internet poder„o se juntar ao seu jogo.
+tooltip_gameoption_advertiseonlan           Se ativado, o seu jogo ser· visÌvel para outros jogadores na mesma rede local (LAN).
+tooltip_gameoption_maxteams                 O n˙mero m·ximo de jogadores que podem participar do seu jogo.
+tooltip_gameoption_territoriesperteam       O n˙mero de territÛrios que cada jogador possuir· durante o jogo.
+tooltip_gameoption_citiesperterritory       O n˙mero de cidades geradas por territÛrio de cada jogador.
+tooltip_gameoption_populationperterritory   O n˙mero de pessoas (em milhıes) em cada territÛrio. As populaÁıes das cidades ser„o dimensionadas de acordo.
+tooltip_gameoption_citypopulations          Controla como a populaÁ„o È distribuÌda em suas cidades.\n\n- Padr„o: As populaÁıes das cidades s„o baseadas nas populaÁıes do mundo real.\n\n- Equalizada: Todas as cidades dentro de um territÛrio tÍm a mesma populaÁ„o.\n\n- AleatÛria: A populaÁ„o de cada cidade È aleatÛria, mas as cidades padr„o s„o escolhidas para que suas cidades ainda estejam no mesmo lugar em cada jogo.\n\n- Totalmente aleatÛria: A populaÁ„o de cada cidade È aleatÛria, mas, alÈm disso, cidades aleatÛrias ser„o escolhidas do banco de dados, o que significa que a posiÁ„o de suas cidades tambÈm ser· aleatÛria.
+tooltip_gameoption_randomterritories        Se habilitado, os jogadores receber„o territÛrios escolhidos aleatoriamente no inÌcio do jogo.\n\n⁄til para resolver disputas sobre quem ser· a Europa.
+tooltip_gameoption_maxspectators            N˙mero m·ximo de pessoas que podem assistir ao jogo.\nAviso: cada espectador usa a largura de banda do servidor.\n\n0=nada\n100=ilimitado.
+tooltip_gameoption_spectatorchatchannel     Controla se os jogadores podem ler as mensagens do bate-papo dos espectadores do jogo. VocÍ pode tornar o canal do espectador privado para impedir que eles ajudem os jogadores.\n\n- P˙blico: Todos os jogadores poder„o ouvir o que os espectadores est„o dizendo. (padr„o)\n\n- Privado: Somente os espectadores poder„o ler as mensagens no canal do espectador. Nesse modo, n„o h· como um jogador e um espectador se comunicarem.
+tooltip_gameoption_teamswitching            Se habilitado, os jogadores poder„o mudar de equipe durante o jogo usando as teclas numÈricas.\n\nN„o recomendado para jogos sÈrios!
+tooltip_gameoption_permitdefection          Se habilitado, os jogadores poder„o trocar de alianÁas durante o jogo.
+tooltip_gameoption_radarsharing             Controla quando os jogadores podem compartilhar seu Radar com outros Jogadores.\n\n- Sempre desligado: o compartilhamento de radar n„o È permitido.\n\n- AlianÁa: os aliados compartilham automaticamente o radar. (padr„o)\n\n- Seletivo: cada jogador pode escolher compartilhar o radar com qualquer outro jogador (aliado ou n„o).\n\n- Sempre ligado: o compartilhamento de radar est· habilitado para todos. Este È um modo "iniciante" muito ˙til, pois vocÍ pode ver todas as unidades dos oponentes o tempo todo.
+tooltip_gameoption_gamespeed                A configuraÁ„o de velocidade para este jogo.\nA velocidade mais lenta olicitada È a mais lenta selecionada por qualquer jogador.
 tooltip_gameoption_slowestspeed             A velocidade mais lenta que este jogo pode funcionar. Se a pausa for escolhida, qualquer jogador pode pausar o jogo usando a barra de velocidade do jogo.
-tooltip_gameoption_enableworldevents        Se habilitado, eventos aleat√≥rios ocorrer√£o durante o jogo.
+tooltip_gameoption_enableworldevents        Se habilitado, eventos aleatÛrios ocorrer„o durante o jogo.
 tooltip_gameoption_gamemode                 Controla as regras que regem o jogo.
-tooltip_gameoption_scoremode                Controla a pondera√ß√£o de pontos para mortes/cidades restantes/bombas nucleares restantes.
-tooltip_gameoption_victorytrigger           Determina quando o temporizador de vit√≥ria come√ßa. O valor representa a porcentagem que o n√∫mero total de Bombas nucleares no mundo deve cair abaixo para o temporizador de vit√≥ria come√ßar.\n\nEx: Se definido como 20 (padr√£o), o n√∫mero total de Bombas nucleares deve cair abaixo de 20% da contagem inicial para o temporizador de vit√≥ria come√ßar.
-tooltip_gameoption_victorytimer             Uma vez que o temporizador de vit√≥ria come√ßou, haver√° tantos minutos de jogo antes que o jogo termine completamente.
-tooltip_gameoption_maxgamerealtime          O tempo m√°ximo do mundo real para o jogo em minutos.\n\n0 = tempo ilimitado dispon√≠vel no mundo real - o jogo n√£o terminar√° at√© que o temporizador de vit√≥ria termine.
-tooltip_gameoption_variableunitcounts       Ativa o modo Cr√©dito. \nCada jogador recebe um n√∫mero de cr√©ditos para gastar em suas unidades e pode personalizar suas for√ßas como quiser.
-tooltip_gameoption_worldscale               NOTA: Experimental. \n\nEsta vari√°vel efetivamente torna o mundo maior, e portanto o jogo dura mais tempo. \n\nEm 100 a escala do mundo √© normal. \n\nNo valor mais alto (200), cada equipe tem o dobro de unidades, mas cada unidade tem metade do alcance do radar e metade do alcance de combate. \n\nAltamente experimental. \nRequer uma CPU poderosa. \nRecomendamos desativar as Trilhas de Objetos Renderizados para uma visualiza√ß√£o mais clara.
+tooltip_gameoption_scoremode                Controla a ponderaÁ„o de pontos para mortes/cidades restantes/bombas nucleares restantes.
+tooltip_gameoption_victorytrigger           Determina quando o temporizador de vitÛria comeÁa. O valor representa a porcentagem que o n˙mero total de Bombas nucleares no mundo deve cair abaixo para o temporizador de vitÛria comeÁar.\n\nEx: Se definido como 20 (padr„o), o n˙mero total de Bombas nucleares deve cair abaixo de 20% da contagem inicial para o temporizador de vitÛria comeÁar.
+tooltip_gameoption_victorytimer             Uma vez que o temporizador de vitÛria comeÁou, haver· tantos minutos de jogo antes que o jogo termine completamente.
+tooltip_gameoption_maxgamerealtime          O tempo m·ximo do mundo real para o jogo em minutos.\n\n0 = tempo ilimitado disponÌvel no mundo real - o jogo n„o terminar· atÈ que o temporizador de vitÛria termine.
+tooltip_gameoption_variableunitcounts       Ativa o modo CrÈdito. \nCada jogador recebe um n˙mero de crÈditos para gastar em suas unidades e pode personalizar suas forÁas como quiser.
+tooltip_gameoption_worldscale               NOTA: Experimental. \n\nEsta vari·vel efetivamente torna o mundo maior, e portanto o jogo dura mais tempo. \n\nEm 100 a escala do mundo È normal. \n\nNo valor mais alto (200), cada equipe tem o dobro de unidades, mas cada unidade tem metade do alcance do radar e metade do alcance de combate. \n\nAltamente experimental. \nRequer uma CPU poderosa. \nRecomendamos desativar as Trilhas de Objetos Renderizados para uma visualizaÁ„o mais clara.
 tooltip_gameoption_permitpausing            Se ativado, um jogador pode pausar o jogo durante o jogo.
 tooltip_gameoption_serverpassword           Defina isso para restringir o acesso apenas a pessoas que conhecem a senha. \n\nPara nenhum senha, defina como Vazio.
 
-tooltip_gamemode_default                    Marque pontos lan√ßando bombas nucleares nas cidades de seus oponentes. \nO Defcon jogar√° na velocidade solicitada mais lenta.
-tooltip_gamemode_office_mode                O Defcon ser√° executado em uma janela sem som e ser√° executado em tempo real por no m√°ximo 6 horas. \nSe o chefe aparecer, pressione Esc duas vezes para ocultar a janela.
-tooltip_gamemode_speed_defcon               O Defcon ser√° executado na velocidade m√°xima e n√£o durar√° mais que 15 minutos. A pausa est√° desativada. Instintivo e brutal.
-tooltip_gamemode_diplomacy                  Todos os jogadores come√ßar√£o como membros da alian√ßa verde, com o Compartilhamento de Radar ativado. Quanto tempo durar√° a Alian√ßa? \nRecomendado tr√™s ou mais jogadores humanos.
-tooltip_gamemode_bigworld                   O mundo √© duas vezes maior! Cada jogador tem o dobro de unidades, mas cada unidade √© metade do tamanho normal e tem metade do alcance do radar, alcance de arma e velocidade. \nPara aqueles que amam um jogo longo.
-tooltip_gamemode_tournament                 As regras padr√£o s√£o aplicadas, exceto que os espectadores n√£o podem se comunicar com os jogadores e os jogadores s√£o atribu√≠dos a Territ√≥rios Aleat√≥rios.
-tooltip_gamemode_custom                     Nenhuma regra espec√≠fica √© aplicada - tudo vale.
+tooltip_gamemode_default                    Marque pontos lanÁando bombas nucleares nas cidades de seus oponentes. \nO Defcon jogar· na velocidade solicitada mais lenta.
+tooltip_gamemode_office_mode                O Defcon ser· executado em uma janela sem som e ser· executado em tempo real por no m·ximo 6 horas. \nSe o chefe aparecer, pressione Esc duas vezes para ocultar a janela.
+tooltip_gamemode_speed_defcon               O Defcon ser· executado na velocidade m·xima e n„o durar· mais que 15 minutos. A pausa est· desativada. Instintivo e brutal.
+tooltip_gamemode_diplomacy                  Todos os jogadores comeÁar„o como membros da alianÁa verde, com o Compartilhamento de Radar ativado. Quanto tempo durar· a AlianÁa? \nRecomendado trÍs ou mais jogadores humanos.
+tooltip_gamemode_bigworld                   O mundo È duas vezes maior! Cada jogador tem o dobro de unidades, mas cada unidade È metade do tamanho normal e tem metade do alcance do radar, alcance de arma e velocidade. \nPara aqueles que amam um jogo longo.
+tooltip_gamemode_tournament                 As regras padr„o s„o aplicadas, exceto que os espectadores n„o podem se comunicar com os jogadores e os jogadores s„o atribuÌdos a TerritÛrios AleatÛrios.
+tooltip_gamemode_custom                     Nenhuma regra especÌfica È aplicada - tudo vale.
 
-tooltip_scoremode_default                   Marque 2 pontos para cada morte de inimigo. \nPerca 1 ponto para todos que voc√™ n√£o conseguir proteger.
-tooltip_scoremode_survivor                  Marque 1 ponto para cada sobrevivente em seu territ√≥rio. Todas as equipes come√ßam com 100 pontos e s√≥ podem diminuir.
-tooltip_scoremode_genocide                  Marque 1 ponto para cada morte de inimigo. Simples, mas horr√≠vel.
+tooltip_scoremode_default                   Marque 2 pontos para cada morte de inimigo. \nPerca 1 ponto para todos que vocÍ n„o conseguir proteger.
+tooltip_scoremode_survivor                  Marque 1 ponto para cada sobrevivente em seu territÛrio. Todas as equipes comeÁam com 100 pontos e sÛ podem diminuir.
+tooltip_scoremode_genocide                  Marque 1 ponto para cada morte de inimigo. Simples, mas horrÌvel.
 
-tooltip_defection_no                        A deser√ß√£o n√£o √© permitida. As alian√ßas permanecer√£o fixas durante todo o jogo. \n\nVoc√™ est√° automaticamente em um estado de cessar-fogo com seus aliados.
-tooltip_defection_yes                       A deser√ß√£o √© permitida. Voc√™ ou qualquer outro jogador pode escolher mudar de alian√ßa a qualquer momento.\n\nVoc√™ pode habilitar ou desabilitar seu status de cessar-fogo com seus aliados a qualquer momento.
+tooltip_defection_no                        A deserÁ„o n„o È permitida. As alianÁas permanecer„o fixas durante todo o jogo. \n\nVocÍ est· automaticamente em um estado de cessar-fogo com seus aliados.
+tooltip_defection_yes                       A deserÁ„o È permitida. VocÍ ou qualquer outro jogador pode escolher mudar de alianÁa a qualquer momento.\n\nVocÍ pode habilitar ou desabilitar seu status de cessar-fogo com seus aliados a qualquer momento.
 
-tooltip_radarsharing_alwaysoff              O compartilhamento de radar n√£o √© permitido. Voc√™ s√≥ ver√° a cobertura de radar do seu pr√≥prio territ√≥rio.
-tooltip_radarsharing_alliance               O compartilhamento de radar √© habilitado entre membros da mesma alian√ßa. Isso significa que voc√™ automaticamente compartilhar√° o radar com todos os seus aliados.\n\nObserva√ß√£o: Submarinos aliados n√£o ser√£o vis√≠veis a menos que eles estejam na superf√≠cie.
-tooltip_radarsharing_selective              O compartilhamento de radar √© seletivo. Voc√™ pode escolher compartilhar seu radar (ou n√£o) com qualquer outro jogador.
-tooltip_radarsharing_alwayson               O compartilhamento de radar est√° habilitado para todos. Voc√™ pode ver todas as unidades do jogo.\n\nObserva√ß√£o: voc√™ N√ÉO ver√° submarinos inimigos, a menos que eles estejam na superf√≠cie.
+tooltip_radarsharing_alwaysoff              O compartilhamento de radar n„o È permitido. VocÍ sÛ ver· a cobertura de radar do seu prÛprio territÛrio.
+tooltip_radarsharing_alliance               O compartilhamento de radar È habilitado entre membros da mesma alianÁa. Isso significa que vocÍ automaticamente compartilhar· o radar com todos os seus aliados.\n\nObservaÁ„o: Submarinos aliados n„o ser„o visÌveis a menos que eles estejam na superfÌcie.
+tooltip_radarsharing_selective              O compartilhamento de radar È seletivo. VocÍ pode escolher compartilhar seu radar (ou n„o) com qualquer outro jogador.
+tooltip_radarsharing_alwayson               O compartilhamento de radar est· habilitado para todos. VocÍ pode ver todas as unidades do jogo.\n\nObservaÁ„o: vocÍ N√O ver· submarinos inimigos, a menos que eles estejam na superfÌcie.
 
-tooltip_ceasefire_enable                    Suas unidades militares imediatamente deixar√£o de disparar contra esta equipe.\nQuaisquer m√≠sseis nucleares direcionados a esta equipe se desarmar√£o.
-tooltip_ceasefire_disable                   Suas unidades militares considerar√£o esta equipe como inimiga e automaticamente abrir√£o fogo contra ela.
-tooltip_radarshare_enable                   Sua cobertura de radar ser√° enviada para esta equipe, e eles ver√£o tudo o que voc√™ v√™.\nObserva√ß√£o: Seus submarinos permanecer√£o ocultos desde que estejam submersos.
-tooltip_radarshare_disable                  Voc√™ deixar√° de enviar cobertura de radar para esta equipe. Eles n√£o poder√£o mais ver o que voc√™ v√™.
+tooltip_ceasefire_enable                    Suas unidades militares imediatamente deixar„o de disparar contra esta equipe.\nQuaisquer mÌsseis nucleares direcionados a esta equipe se desarmar„o.
+tooltip_ceasefire_disable                   Suas unidades militares considerar„o esta equipe como inimiga e automaticamente abrir„o fogo contra ela.
+tooltip_radarshare_enable                   Sua cobertura de radar ser· enviada para esta equipe, e eles ver„o tudo o que vocÍ vÍ.\nObservaÁ„o: Seus submarinos permanecer„o ocultos desde que estejam submersos.
+tooltip_radarshare_disable                  VocÍ deixar· de enviar cobertura de radar para esta equipe. Eles n„o poder„o mais ver o que vocÍ vÍ.
 
 tooltip_place_silo                          Colocar Silo
-tooltip_place_radar                         Colocar Esta√ß√£o de Radar
-tooltip_place_airbase                       Colocar Base A√©rea
-tooltip_place_battleship                    Adicionar Encoura√ßado √† Frota
-tooltip_place_sub                           Adicionar Submarino √† Frota
-tooltip_place_carrier                       Adicionar Porta-avi√µes √† Frota
+tooltip_place_radar                         Colocar EstaÁ„o de Radar
+tooltip_place_airbase                       Colocar Base AÈrea
+tooltip_place_battleship                    Adicionar EncouraÁado ‡ Frota
+tooltip_place_sub                           Adicionar Submarino ‡ Frota
+tooltip_place_carrier                       Adicionar Porta-aviıes ‡ Frota
 tooltip_place_unit                          Colocar Unidade Aqui
 tooltip_place_fleet                         Colocar Frota Aqui
 tooltip_fleet_button                        Construir uma Frota
 tooltip_fleet_remove                        Remover esta Unidade da Frota
 tooltip_fleet_place                         Colocar esta Frota
 
-tooltip_territory_northamerica              Am√©rica do Norte
-tooltip_territory_southamerica              Am√©rica do Sul
+tooltip_territory_northamerica              AmÈrica do Norte
+tooltip_territory_southamerica              AmÈrica do Sul
 tooltip_territory_europe                    Europa
-tooltip_territory_russia                    R√∫ssia
-tooltip_territory_southasia                 Sul da √Åsia
-tooltip_territory_africa                    √Åfrica
+tooltip_territory_russia                    R˙ssia
+tooltip_territory_southasia                 Sul da ¡sia
+tooltip_territory_africa                    ¡frica
 
 tooltip_lobby_teamname                      Digite um nome para sua equipe
-tooltip_lobby_territories                   Selecione o territ√≥rio da sua equipe
-tooltip_lobby_alliance                      Selecione a alian√ßa que voc√™ deseja participar
-tooltip_lobby_requestteam                   Crie uma equipe para voc√™ jogar como
+tooltip_lobby_territories                   Selecione o territÛrio da sua equipe
+tooltip_lobby_alliance                      Selecione a alianÁa que vocÍ deseja participar
+tooltip_lobby_requestteam                   Crie uma equipe para vocÍ jogar como
 tooltip_lobby_requestai                     Crie uma equipe controlada pelo computador
-tooltip_lobby_ready                         Pronto para jogar. O jogo come√ßar√° quando todos os jogadores estiverem prontos
-tooltip_lobby_ready_disable                 Nome do jogo √© inv√°lido
+tooltip_lobby_ready                         Pronto para jogar. O jogo comeÁar· quando todos os jogadores estiverem prontos
+tooltip_lobby_ready_disable                 Nome do jogo È inv·lido
 tooltip_lobby_chat                          Abra a janela de bate-papo
-tooltip_lobby_aggression                    Altera a agressividade do IA, 10 √© o m√°ximo\n0 d√° √† equipe uma agressividade aleat√≥ria
-tooltip_lobby_demo_max_player               Voc√™ est√° jogando uma demonstra√ß√£o - ent√£o n√£o pode ter tantos jogadores em seu jogo.
-tooltip_lobby_click_open_slot               Clique para abrir este espa√ßo para que mais jogadores possam entrar
-tooltip_lobby_click_close_slot              Clique para fechar este espa√ßo e impedir que os jogadores entrem
+tooltip_lobby_aggression                    Altera a agressividade do IA, 10 È o m·ximo\n0 d· ‡ equipe uma agressividade aleatÛria
+tooltip_lobby_demo_max_player               VocÍ est· jogando uma demonstraÁ„o - ent„o n„o pode ter tantos jogadores em seu jogo.
+tooltip_lobby_click_open_slot               Clique para abrir este espaÁo para que mais jogadores possam entrar
+tooltip_lobby_click_close_slot              Clique para fechar este espaÁo e impedir que os jogadores entrem
 tooltip_lobby_address_port                  IP: *I\nPORTA:*P
-# I = endere√ßo IP, P = porta
+# I = endereÁo IP, P = porta
 
-tooltip_chat_public                         Canal p√∫blico. Todos os jogadores podem ver as mensagens aqui
-tooltip_chat_alliance                       Canal da alian√ßa. Somente membros da sua alian√ßa podem ver mensagens aqui
-tooltip_chat_spectators                     Canal de espectadores. Espectadores s√≥ podem postar aqui.
+tooltip_chat_public                         Canal p˙blico. Todos os jogadores podem ver as mensagens aqui
+tooltip_chat_alliance                       Canal da alianÁa. Somente membros da sua alianÁa podem ver mensagens aqui
+tooltip_chat_spectators                     Canal de espectadores. Espectadores sÛ podem postar aqui.
 
-tooltip_alliance_join                       Envie um pedido para se juntar a esta alian√ßa
-tooltip_alliance_leave                      Deixe esta alian√ßa
-tooltip_alliance_kick                       Inicie uma vota√ß√£o para expulsar este membro da alian√ßa
+tooltip_alliance_join                       Envie um pedido para se juntar a esta alianÁa
+tooltip_alliance_leave                      Deixe esta alianÁa
+tooltip_alliance_kick                       Inicie uma votaÁ„o para expulsar este membro da alianÁa
 
 tooltip_vote_yes                            Votar Sim
-tooltip_vote_no                             Votar N√£o
-tooltip_vote_abstain                        Abster-se desta vota√ß√£o
+tooltip_vote_no                             Votar N„o
+tooltip_vote_abstain                        Abster-se desta votaÁ„o
 
 tooltip_lmb                         [CLIQUE ESQ.]
 tooltip_rmb                         [CLIQUE DIR.]
 
 tooltip_placeobject                 [CLIQUE ESQ.] COLOCAR UNIDADE
 tooltip_placefleet                  [CLIQUE ESQ.] COLOCAR FROTA
-tooltip_invalidplacement            POSICIONAMENTO INV√ÅLIDO
-tooltip_spacetocancel               PRESSIONE ESPA√áO PARA CANCELAR
+tooltip_invalidplacement            POSICIONAMENTO INV¡LIDO
+tooltip_spacetocancel               PRESSIONE ESPA«O PARA CANCELAR
 
 tooltip_selectobject                [CLIQUE ESQ.] SELECIONAR UNIDADE
 tooltip_selectfleet                 [CLIQUE ESQ.] SELECIONAR FROTA
@@ -922,16 +922,16 @@ tooltip_enemyunit                   (UNIDADE INIMIGA)
 tooltip_attack                      [CLIQUE ESQ.] ATACAR ESTA UNIDADE
 tooltip_moveobject                  [CLIQUE DIR.] MOVER UNIDADE AQUI
 tooltip_movefleet                   [CLIQUE DIR.] MOVER FROTA AQUI
-tooltip_cantmovehere                N√ÉO √â POSS√çVEL MOVER AQUI
-tooltip_spawnfighter                [CLIQUE ESQ.] LAN√áAR CA√áA AQUI
-tooltip_spawnbomber                 [CLIQUE ESQ.] LAN√áAR BOMBARDEIRO AQUI
-tooltip_spawnnuke                   [CLIQUE ESQ.] LAN√áAR BOMBA NUCLEAR AQUI
-tooltip_spacetodeselect             ESPA√áO PARA DESELECIONAR UNIDADE
-tooltip_landobject                  [CLIQUE ESQ.] POUSAR AVI√ÉO AQUI
+tooltip_cantmovehere                N√O … POSSÕVEL MOVER AQUI
+tooltip_spawnfighter                [CLIQUE ESQ.] LAN«AR CA«A AQUI
+tooltip_spawnbomber                 [CLIQUE ESQ.] LAN«AR BOMBARDEIRO AQUI
+tooltip_spawnnuke                   [CLIQUE ESQ.] LAN«AR BOMBA NUCLEAR AQUI
+tooltip_spacetodeselect             ESPA«O PARA DESELECIONAR UNIDADE
+tooltip_landobject                  [CLIQUE ESQ.] POUSAR AVI√O AQUI
 
-tooltip_controls_sidescrolling      Permite mover a c√¢mera com o mouse na borda da tela
+tooltip_controls_sidescrolling      Permite mover a c‚mera com o mouse na borda da tela
 tooltip_controls_zoomspeed          Ajusta a sensibilidade do zoom do mouse e do trackpad
-tooltip_controls_camdragging        Permite arrastar a c√¢mera segurando o bot√£o do meio do mouse
+tooltip_controls_camdragging        Permite arrastar a c‚mera segurando o bot„o do meio do mouse
 tooltip_controls_keyboardlayout     Permite mudar o tipo de entrada
 
 tooltip_close_window                Fechar janela
@@ -941,13 +941,13 @@ tooltip_demo_exit_the_game          Sair do jogo
 tooltip_server_browser_game_time            Tempo de Jogo:
 tooltip_server_browser_game_has_ended       \nJogo terminado
 tooltip_server_browser_game_started         Iniciado
-tooltip_server_browser_not_yet_started      Ainda n√£o iniciado
+tooltip_server_browser_not_yet_started      Ainda n„o iniciado
 tooltip_server_browser_teams                \nEquipes:
 tooltip_server_browser_spectator            \nEspectadores:
 tooltip_server_browser_game_mode            \nModo de Jogo:
-tooltip_server_browser_score_mode           \nModo de Pontua√ß√£o:
+tooltip_server_browser_score_mode           \nModo de PontuaÁ„o:
 tooltip_server_browser_mod                  \nMOD:
-tooltip_server_browser_right_click_details  \n(Clique com o bot√£o direito para detalhes)
+tooltip_server_browser_right_click_details  \n(Clique com o bot„o direito para detalhes)
 
 
 # =============================================================================
@@ -963,28 +963,28 @@ gameoption_Disabled                 Desativado
 gameoption_Enabled                  Ativado
 gameoption_AdvertiseOnLAN           Anunciar na Rede Local
 gameoption_GameMode                 Modo de Jogo
-gameoption_Default                  Padr√£o
-gameoption_Office_Mode              Modo Escrit√≥rio
-gameoption_Speed_Defcon             Defcon R√°pido
+gameoption_Default                  Padr„o
+gameoption_Office_Mode              Modo EscritÛrio
+gameoption_Speed_Defcon             Defcon R·pido
 gameoption_Diplomacy                Diplomacia
 gameoption_BigWorld                 Mundo Grande
 gameoption_Tournament               Torneio
 gameoption_Custom                   Personalizado
-gameoption_MaxTeams                 M√°ximo de Equipes
-gameoption_TerritoriesPerTeam       Territ√≥rios por Equipe
-gameoption_CitiesPerTerritory       Cidades por Territ√≥rio
-gameoption_PopulationPerTerritory   Popula√ß√£o por Territ√≥rio
-gameoption_CityPopulations          Popula√ß√µes das Cidades
+gameoption_MaxTeams                 M·ximo de Equipes
+gameoption_TerritoriesPerTeam       TerritÛrios por Equipe
+gameoption_CitiesPerTerritory       Cidades por TerritÛrio
+gameoption_PopulationPerTerritory   PopulaÁ„o por TerritÛrio
+gameoption_CityPopulations          PopulaÁıes das Cidades
 gameoption_Equalised                Igualado
-gameoption_Random                   Aleat√≥rio
-gameoption_TotallyRandom            Totalmente Aleat√≥rio
-gameoption_RandomTerritories        Territ√≥rios Aleat√≥rios
-gameoption_PermitDefection          Permitir Defec√ß√£o
-gameoption_No                       N√£o
+gameoption_Random                   AleatÛrio
+gameoption_TotallyRandom            Totalmente AleatÛrio
+gameoption_RandomTerritories        TerritÛrios AleatÛrios
+gameoption_PermitDefection          Permitir DefecÁ„o
+gameoption_No                       N„o
 gameoption_Yes                      Sim
 gameoption_RadarSharing             Compartilhamento de Radar
 gameoption_AlwaysOff                Sempre Desativado
-gameoption_Alliance                 Alian√ßa
+gameoption_Alliance                 AlianÁa
 gameoption_Selective                Seletivo
 gameoption_AlwaysOn                 Sempre Ativado
 gameoption_GameSpeed                Velocidade do Jogo
@@ -995,18 +995,18 @@ gameoption_5x_Real_Time             5x Tempo Real
 gameoption_10x_Real_Time            10x Tempo Real
 gameoption_20x_Real_Time            20x Tempo Real
 gameoption_SlowestSpeed             Velocidade Mais Lenta
-gameoption_ScoreMode                Modo de Pontua√ß√£o
+gameoption_ScoreMode                Modo de Pont.
 gameoption_Survivor                 Sobrevivente
-gameoption_Genocide                 Genoc√≠dio
-gameoption_VictoryTrigger           In√≠cio da Vit√≥ria
-gameoption_VictoryTimer             Temporizador de Vit√≥ria
-gameoption_MaxGameRealTime          Tempo Real M√°ximo de Jogo
-gameoption_VariableUnitCounts       Contagens Vari√°veis de Unidades
+gameoption_Genocide                 GenocÌdio
+gameoption_VictoryTrigger           InÌcio da VitÛria
+gameoption_VictoryTimer             Temporizador de VitÛria
+gameoption_MaxGameRealTime          Tempo Real M·ximo de Jogo
+gameoption_VariableUnitCounts       Contagens Vari·veis de Unidades
 gameoption_WorldScale               Escala Mundial
-gameoption_MaxSpectators            M√°ximo de Espectadores
-gameoption_SpectatorChatChannel     Canal de bate-papo para Espectadores
+gameoption_MaxSpectators            M·ximo de Espectadores
+gameoption_SpectatorChatChannel     Chat para Espectadores
 gameoption_Private                  Privado
-gameoption_Public                   P√∫blico
+gameoption_Public                   P˙blico
 gameoption_TeamSwitching            Troca de Equipe
 gameoption_ServerPassword           Senha do Servidor
 
@@ -1016,19 +1016,19 @@ gameoption_ServerPassword           Senha do Servidor
 # =============================================================================
 
 style_WindowBackground              Fundo da Janela
-style_WindowTitleBar                Barra de T√≠tulo da Janela
+style_WindowTitleBar                Barra de TÌtulo da Janela
 style_WindowOuterBorder             Borda Exterior da Janela
 style_WindowInnerBorder             Borda Interior da Janela
-style_ButtonBackground              Fundo do Bot√£o
-style_ButtonHighlighted             Bot√£o Destacado
-style_ButtonClicked                 Bot√£o Clicado
-style_ButtonBorder                  Borda do Bot√£o
+style_ButtonBackground              Fundo do Bot„o
+style_ButtonHighlighted             Bot„o Destacado
+style_ButtonClicked                 Bot„o Clicado
+style_ButtonBorder                  Borda do Bot„o
 style_BoxBackground                 Fundo da Caixa
 style_BoxBorder                     Borda da Caixa
 style_InputBackground               Fundo do Campo de Entrada
 style_InputBorder                   Borda do Campo de Entrada
-style_FontWindowTitle               Fonte da Barra de T√≠tulo
-style_FontButton                    Fonte do Bot√£o
+style_FontWindowTitle               Fonte da Barra de TÌtulo
+style_FontButton                    Fonte do Bot„o
 style_WorldCoastlines               Contornos da Costa do Mundo
 style_WorldBorders                  Fronteiras do Mundo
 style_WorldWater                    Oceanos do Mundo
@@ -1037,11 +1037,11 @@ style_TooltipBackground             Fundo da Dica de Ferramenta
 style_TooltipBorder                 Borda da Dica de Ferramenta
 style_FontTooltip                   Fonte da Dica de Ferramenta
 style_PopupBackground               Fundo das Mensagens Emergentes
-style_PopupTitleBar                 Barra de T√≠tulo das Mensagens Emergentes
+style_PopupTitleBar                 Barra de TÌtulo das Mensagens Emergentes
 style_PopupBorder                   Borda das Mensagens Emergentes
 style_PopupHighlight                Mensagem Emergente Destacada
-style_PopupSelection                Sele√ß√£o de Mensagens Emergentes
-style_FontPopupTitle                Fonte da Barra de T√≠tulo de Mensagens Emergentes
+style_PopupSelection                SeleÁ„o de Mensagens Emergentes
+style_FontPopupTitle                Fonte da Barra de TÌtulo de Mensagens Emergentes
 style_FontPopup                     Fonte de Mensagens Emergentes
 
 
@@ -1054,14 +1054,14 @@ unit_nuke                           bomba nuclear
 unit_city                           cidade
 unit_sub                            submarino
 unit_radar                          radar
-unit_battleship                     encoura√ßado
-unit_airbase                        base a√©rea
-unit_fighter                        ca√ßa
+unit_battleship                     encouraÁado
+unit_airbase                        base aÈrea
+unit_fighter                        caÁa
 unit_bomber                         bombardeiro
-unit_carrier                        porta-avi√µes
+unit_carrier                        porta-aviıes
 unit_tornado                        tornado
-unit_saucer                         nave alien√≠gena
-unit_explosion                      explos√£o
+unit_saucer                         nave alienÌgena
+unit_explosion                      explos„o
 
 
 # =============================================================================
@@ -1071,65 +1071,65 @@ unit_explosion                      explos√£o
 state_preparing                     PREPARANDO PARA
 state_prepare                       PREPARAR PARA
 state_ready                         PRONTO PARA
-state_fighterlaunch                 LAN√áAMENTO DO CA√áA
-state_bomberlaunch                  LAN√áAMENTO DO BOMBARDEIRO
+state_fighterlaunch                 LAN«AMENTO DO CA«A
+state_bomberlaunch                  LAN«AMENTO DO BOMBARDEIRO
 state_attack                        ATACAR
 state_flight                        VOO
-state_bombernuke                    LAN√áAMENTO DO M√çSSIL BAL√çSTICO DE ALCANCE CURTO
+state_bombernuke                    LAN«AMENTO DO MÕSSIL BALÕSTICO DE ALCANCE CURTO
 state_airtoseamissile               COMBATE NAVAL
 state_antisub                       ANTI-SUBMARINO
 state_ontarget                      NO ALVO
 state_disarm                        DESARMAR
 state_radar                         ESCANEAMENTO
-state_silonuke                      LAN√áAMENTO DO M√çSSIL BAL√çSTICO INTERCONTINENTAL
-state_airdefense                    DEFESA A√âREA
+state_silonuke                      LAN«AMENTO DO MÕSSIL BALÕSTICO INTERCONTINENTAL
+state_airdefense                    DEFESA A…REA
 state_passivesonar                  SONAR PASSIVO
 state_activesonar                   SONAR ATIVO
-state_subnuke                       LAN√áAMENTO DO M√çSSIL BAL√çSTICO DE ALCANCE M√âDIO
+state_subnuke                       LAN«AMENTO DO MÕSSIL BALÕSTICO DE ALCANCE M…DIO
 
 
 # =============================================================================
 # Game messages
 # =============================================================================
 
-message_fuel                        Sem combust√≠vel
+message_fuel                        Sem combustÌvel
 message_tornadodeath                Tornado dissipado
-message_nukelaunch                  Lan√ßamento detectado
-message_multilaunch                 Lan√ßamentos detectados
-message_firstlaunch                 *T lan√ßamento detectado
-message_incursion                   Incurs√µes em territ√≥rio inimigo n√£o permitidas
-message_destroyed                   *U destru√≠do
-# V = equipe v√≠tima, U = unidade destru√≠da, T = equipe atacante, A = unidade atacante
+message_nukelaunch                  LanÁamento detectado
+message_multilaunch                 LanÁamentos detectados
+message_firstlaunch                 *T lanÁamento detectado
+message_incursion                   Incursıes em territÛrio inimigo n„o permitidas
+message_destroyed                   *U destruÌdo
+# V = equipe vÌtima, U = unidade destruÌda, T = equipe atacante, A = unidade atacante
 
 message_directhit                   *C atingiu, *Dm mortos
 message_fallout                     chuva radioativa em *C, *Dm mortos
-# C = nome da cidade, D = n√∫mero de mortos
+# C = nome da cidade, D = n˙mero de mortos
 
-details_fuel                        COMBUST√çVEL
+details_fuel                        COMBUSTÕVEL
 
-message_victory                     VIT√ìRIA DE *T
+message_victory                     VIT”RIA DE *T
 message_stalemate                   SEM VENCEDOR CLARO
 message_spectators_chat_players     Os espectadores agora podem conversar com os Jogadores
-message_placeunits                  VOC√ä DEVE COLOCAR TODAS AS UNIDADES ANTES DO DEFCON 3
+message_placeunits                  VOC  DEVE COLOCAR TODAS AS UNIDADES ANTES DO DEFCON 3
 
-message_fleet_move                  A Frota N√£o Pode se Mover Para Este Ponto
-message_disarmed                    M√≠ssil Desativado
+message_fleet_move                  A Frota N„o Pode se Mover Para Este Ponto
+message_disarmed                    MÌssil Desativado
 
-message_alliance_join               *P entra na alian√ßa *N
-message_alliance_kicked             *P expulso da alian√ßa *N
-message_alliance_leave              *P sai da alian√ßa *N
-# P = nome do jogador, N = nome da alian√ßa
+message_alliance_join               *P entra na alianÁa *N
+message_alliance_kicked             *P expulso da alianÁa *N
+message_alliance_leave              *P sai da alianÁa *N
+# P = nome do jogador, N = nome da alianÁa
 
-message_invalid_action              N√ÉO ANTES DO DEFCON *D
-# D = n√≠vel do DEFCON
+message_invalid_action              N√O ANTES DO DEFCON *D
+# D = nÌvel do DEFCON
 
 message_ten_minute_warning          AVISO DE DEZ MINUTOS
-message_victory_timer               CRON√îMETRO DE VIT√ìRIA INICIADO
+message_victory_timer               CRON‘METRO DE VIT”RIA INICIADO
 
 tray_icon_caption                   DEFCON
 tray_icon_ten_minute_warning        Aviso de Dez Minutos
-tray_icon_victory_timer             Cron√¥metro de Vit√≥ria Iniciado
-tray_icon_nuke_launches_detected    Lan√ßamentos de M√≠sseis Detectados
+tray_icon_victory_timer             CronÙmetro de VitÛria Iniciado
+tray_icon_nuke_launches_detected    LanÁamentos de MÌsseis Detectados
 tray_icon_enemy_subs_detected       Submarinos Inimigos Detectados
 
 
@@ -1140,7 +1140,7 @@ tray_icon_enemy_subs_detected       Submarinos Inimigos Detectados
 odds_zero                           probabilidades de ataque: zero
 odds_vlow                           probabilidades de ataque: muito baixas
 odds_low                            probabilidades de ataque: baixas
-odds_med                            probabilidades de ataque: m√©dias
+odds_med                            probabilidades de ataque: mÈdias
 odds_high                           probabilidades de ataque: altas
 odds_vhigh                          probabilidades de ataque: muito altas
 
@@ -1151,11 +1151,11 @@ odds_vhigh                          probabilidades de ataque: muito altas
 
 unknown                             Desconhecido
 
-officemode_1                        O Modo Escrit√≥rio invalidar√° a velocidade selecionada,
-                                    configura√ß√µes e op√ß√µes de tela.
+officemode_1                        O Modo EscritÛrio invalidar· a velocidade selecionada,
+                                    configuraÁıes e opÁıes de tela.
 
-alien_attack                        *C destru√≠do pelo Ataque Alien√≠gena
-alien_invasion                      INVAS√ÉO ALIEN√çGENA!
+alien_attack                        *C destruÌdo pelo Ataque AlienÌgena
+alien_invasion                      INVAS√O ALIENÕGENA!
 tornado_warning                     ALERTA DE TORNADO!
 
 
@@ -1164,195 +1164,195 @@ tornado_warning                     ALERTA DE TORNADO!
 # =============================================================================
 
 tutorial                            Tutorial
-levelselect                         Sele√ß√£o de N√≠vel
-tutorial_clicknext                  Clique em Pr√≥ximo
-tutorial_restart_mission            Reiniciar Miss√£o
-tutorial_missioncomplete            MISS√ÉO CONCLU√çDA
-tutorial_missionfailed              MISS√ÉO FRACASSADA
-tutorial_mission                    MISS√ÉO *X
-# X = n√∫mero da miss√£o
+levelselect                         SeleÁ„o de NÌvel
+tutorial_clicknext                  Clique em PrÛximo
+tutorial_restart_mission            Reiniciar Miss„o
+tutorial_missioncomplete            MISS√O CONCLUÕDA
+tutorial_missionfailed              MISS√O FRACASSADA
+tutorial_mission                    MISS√O *X
+# X = n˙mero da miss„o
 tutorial_team_name_cpu              CPU Inimiga
 tutorial_team_name_player           Jogador
 
 tutorial_restart                    Reiniciar
-tutorial_next                       Pr√≥ximo
-tutorial_chapter_desc               CAP√çTULO *C de 7 - *N
-# C = n√∫mero do cap√≠tulo, N = nome do cap√≠tulo
-tutorial_level                      N√≠vel *L
-# L = n√∫mero do n√≠vel
+tutorial_next                       PrÛximo
+tutorial_chapter_desc               CAPÕTULO *C de 7 - *N
+# C = n˙mero do capÌtulo, N = nome do capÌtulo
+tutorial_level                      NÌvel *L
+# L = n˙mero do nÌvel
 
-tutorial_levelname_1                Lan√ßando armas nucleares
-tutorial_levelname_2                Defesa a√©rea
+tutorial_levelname_1                LanÁando armas nucleares
+tutorial_levelname_2                Defesa aÈrea
 tutorial_levelname_3                Cobertura de radar
-tutorial_levelname_4                Explora√ß√£o e bombardeio
+tutorial_levelname_4                ExploraÁ„o e bombardeio
 tutorial_levelname_5                Frotas navais
 tutorial_levelname_6                Submarinos
 tutorial_levelname_7                Guerra Termonuclear Global
 
 tutorial_popup                      Mensagem Emergente de Tutorial
-tutorial_clicknext_popup            Clique em PR√ìXIMO para continuar.
+tutorial_clicknext_popup            Clique em PR”XIMO para continuar.
 
 # ==== MISSION 1 =====
 
-tutorial_start                      Bem-vindo ao tutorial do Defcon.\n\nNeste tutorial, voc√™ aprender√° tudo o que precisa saber para controlar efetivamente suas for√ßas.\n\nClique em Pr√≥ximo para continuar.
-tutorial_movecamera                 Antes de come√ßarmos, voc√™ precisa aprender como controlar seu ponto de vista.\n\nMova seu ponto de vista movendo o cursor do mouse para a borda da tela na dire√ß√£o que deseja mover.\n\nAlternativamente, voc√™ pode usar as teclas W,A,S,D para mover o ponto de vista.
-tutorial_zoomcamera                 Role a roda do mouse para aproximar ou afastar o zoom.\n\nAlternativamente, voc√™ pode usar as teclas Q e E.
-tutorial_movecamera2                Voc√™ tamb√©m pode segurar o bot√£o do meio do mouse e arrastar a vis√£o ao redor.\n\nClique em Pr√≥ximo quando estiver satisfeito com os controles de vis√£o, e come√ßaremos a explodir coisas.
-tutorial_silofocus                  Este objeto destacado √© um Silo de M√≠sseis. Ele tem dois modos:\n\n- No modo de lan√ßamento de M√çSSIL BAL√çSTICO INTERCONTINENTAL, pode disparar m√≠sseis nucleares em alvos inimigos.\n\n- No modo de defesa a√©rea, ele derrubar√° m√≠sseis e avi√µes inimigos.\n\nPrecisamos do Silo no modo de lan√ßamento de M√çSSIL BAL√çSTICO INTERCONTINENTAL para destruir as Esta√ß√µes de Radar inimigas pr√≥ximas.\n\nClique com o bot√£o direito do mouse no Silo e mude para o modo de lan√ßamento de M√çSSIL BAL√çSTICO INTERCONTINENTAL.
-macosx_tutorial_silofocus           Este objeto destacado √© um Silo de M√≠sseis. Ele tem dois modos:\n\n- No modo de lan√ßamento de M√çSSIL BAL√çSTICO INTERCONTINENTAL, pode disparar m√≠sseis nucleares em alvos inimigos.\n- No modo de defesa a√©rea, ele derrubar√° m√≠sseis e avi√µes inimigos.\n\nPrecisamos do Silo no modo de lan√ßamento de M√çSSIL BAL√çSTICO INTERCONTINENTAL para destruir as Esta√ß√µes de Radar inimigas pr√≥ximas.\n\nClique com o bot√£o direito do mouse no Silo e mude para o modo de lan√ßamento de M√çSSIL BAL√çSTICO INTERCONTINENTAL.\n(Voc√™ pode pressionar Ctrl+clique se tiver um mouse de um bot√£o).
-tutorial_mission1destroyradar       Observe que o √≠cone do Silo de M√≠sseis muda para um tri√¢ngulo quando ele est√° se preparando para lan√ßar m√≠sseis nucleares.\n\nUse seu Silo de M√≠sseis para destruir as Esta√ß√µes de Radar inimigas.
+tutorial_start                      Bem-vindo ao tutorial do Defcon.\n\nNeste tutorial, vocÍ aprender· tudo o que precisa saber para controlar efetivamente suas forÁas.\n\nClique em PrÛximo para continuar.
+tutorial_movecamera                 Antes de comeÁarmos, vocÍ precisa aprender como controlar seu ponto de vista.\n\nMova seu ponto de vista movendo o cursor do mouse para a borda da tela na direÁ„o que deseja mover.\n\nAlternativamente, vocÍ pode usar as teclas W,A,S,D para mover o ponto de vista.
+tutorial_zoomcamera                 Role a roda do mouse para aproximar ou afastar o zoom.\n\nAlternativamente, vocÍ pode usar as teclas Q e E.
+tutorial_movecamera2                VocÍ tambÈm pode segurar o bot„o do meio do mouse e arrastar a vis„o ao redor.\n\nClique em PrÛximo quando estiver satisfeito com os controles de vis„o, e comeÁaremos a explodir coisas.
+tutorial_silofocus                  Este objeto destacado È um Silo de MÌsseis. Ele tem dois modos:\n\n- No modo de lanÁamento de MÕSSIL BALÕSTICO INTERCONTINENTAL, pode disparar mÌsseis nucleares em alvos inimigos.\n\n- No modo de defesa aÈrea, ele derrubar· mÌsseis e aviıes inimigos.\n\nPrecisamos do Silo no modo de lanÁamento de MÕSSIL BALÕSTICO INTERCONTINENTAL para destruir as EstaÁıes de Radar inimigas prÛximas.\n\nClique com o bot„o direito do mouse no Silo e mude para o modo de lanÁamento de MÕSSIL BALÕSTICO INTERCONTINENTAL.
+macosx_tutorial_silofocus           Este objeto destacado È um Silo de MÌsseis. Ele tem dois modos:\n\n- No modo de lanÁamento de MÕSSIL BALÕSTICO INTERCONTINENTAL, pode disparar mÌsseis nucleares em alvos inimigos.\n- No modo de defesa aÈrea, ele derrubar· mÌsseis e aviıes inimigos.\n\nPrecisamos do Silo no modo de lanÁamento de MÕSSIL BALÕSTICO INTERCONTINENTAL para destruir as EstaÁıes de Radar inimigas prÛximas.\n\nClique com o bot„o direito do mouse no Silo e mude para o modo de lanÁamento de MÕSSIL BALÕSTICO INTERCONTINENTAL.\n(VocÍ pode pressionar Ctrl+clique se tiver um mouse de um bot„o).
+tutorial_mission1destroyradar       Observe que o Ìcone do Silo de MÌsseis muda para um tri‚ngulo quando ele est· se preparando para lanÁar mÌsseis nucleares.\n\nUse seu Silo de MÌsseis para destruir as EstaÁıes de Radar inimigas.
 
-tutorial_mission1end                Miss√£o 1 conclu√≠da.\n\nClique em Pr√≥ximo para avan√ßar para a Miss√£o 2.
-tutorial_mission1failed             Voc√™ ficou sem m√≠sseis nucleares sem destruir os alvos e falhou na miss√£o.\n\nClique em Reiniciar para tentar novamente.
+tutorial_mission1end                Miss„o 1 concluÌda.\n\nClique em PrÛximo para avanÁar para a Miss„o 2.
+tutorial_mission1failed             VocÍ ficou sem mÌsseis nucleares sem destruir os alvos e falhou na miss„o.\n\nClique em Reiniciar para tentar novamente.
 
-tutorial_silofocus_popup1           Clique com o bot√£o direito do mouse neste Silo e mude para o modo de lan√ßamento de M√çSSIL BAL√çSTICO INTERCONTINENTAL.
-macosx_tutorial_silofocus_popup1    Clique com o bot√£o direito do mouse neste Silo e mude para o modo de lan√ßamento de M√çSSIL BAL√çSTICO INTERCONTINENTAL.\n(Pressione Ctrl+clique se voc√™ tiver
-tutorial_silofocus_selectpopup			Clique com o bot√£o esquerdo do mouse neste Silo para selecion√°-lo.
-tutorial_mission1destroyradar_popup			Clique com o bot√£o esquerdo nesta Esta√ß√£o de Radar para lan√ßar um M√≠ssil Nuclear sobre ela.
-#Tutorialmission1deselect_popup			Pressione ESPA√áO para desmarcar esta unidade.
-tutorial_mission1deselect_popup			ESPA√áO para desmarcar esta unidade.
+tutorial_silofocus_popup1           Clique com o bot„o direito do mouse neste Silo e mude para o modo de lanÁamento de MÕSSIL BALÕSTICO INTERCONTINENTAL.
+macosx_tutorial_silofocus_popup1    Clique com o bot„o direito do mouse neste Silo e mude para o modo de lanÁamento de MÕSSIL BALÕSTICO INTERCONTINENTAL.\n(Pressione Ctrl+clique se vocÍ tiver
+tutorial_silofocus_selectpopup			Clique com o bot„o esquerdo do mouse neste Silo para selecion·-lo.
+tutorial_mission1destroyradar_popup			Clique com o bot„o esquerdo nesta EstaÁ„o de Radar para lanÁar um MÌssil Nuclear sobre ela.
+#Tutorialmission1deselect_popup			Pressione ESPA«O para desmarcar esta unidade.
+tutorial_mission1deselect_popup			ESPA«O para desmarcar esta unidade.
 
 # ==== MISSION 2 =====
 
-tutorial_mission2start              Sua primeira tarefa em qualquer jogo de Defcon √© posicionar todas as suas unidades.\n\nAbra o Painel de Unidades para come√ßar o posicionamento.
-tutorial_m2selectsilo               Neste painel, voc√™ pode posicionar todas as suas unidades dispon√≠veis. Nesta miss√£o, voc√™ s√≥ tem Silos.\n\nVoc√™ deve posicionar todas as suas unidades ANTES do Defcon 3.\n\nClique no √≠cone do Silo para come√ßar a posicionar seus Silos.
-tutorial_m2placesilos               A √°rea verde representa o seu territ√≥rio.\n\nVoc√™ s√≥ pode posicionar unidades dentro do seu pr√≥prio territ√≥rio e unidades terrestres n√£o podem ser movidas depois de posicionadas.\n\nUnidades terrestres n√£o podem ser colocadas muito pr√≥ximas umas das outras.\n\nPosicione seus Silos perto de suas cidades para defend√™-las.
-tutorial_m2destroynukes             Submarinos inimigos lan√ßaram m√≠sseis nucleares em suas cidades!\n\nSeus Silos j√° est√£o no modo de defesa a√©rea e v√£o derrubar os m√≠sseis nucleares que se aproximam.\n\nSilos em modo de defesa a√©rea s√£o muito eficazes para derrubar m√≠sseis nucleares que se aproximam.
+tutorial_mission2start              Sua primeira tarefa em qualquer jogo de Defcon È posicionar todas as suas unidades.\n\nAbra o Painel de Unidades para comeÁar o posicionamento.
+tutorial_m2selectsilo               Neste painel, vocÍ pode posicionar todas as suas unidades disponÌveis. Nesta miss„o, vocÍ sÛ tem Silos.\n\nVocÍ deve posicionar todas as suas unidades ANTES do Defcon 3.\n\nClique no Ìcone do Silo para comeÁar a posicionar seus Silos.
+tutorial_m2placesilos               A ·rea verde representa o seu territÛrio.\n\nVocÍ sÛ pode posicionar unidades dentro do seu prÛprio territÛrio e unidades terrestres n„o podem ser movidas depois de posicionadas.\n\nUnidades terrestres n„o podem ser colocadas muito prÛximas umas das outras.\n\nPosicione seus Silos perto de suas cidades para defendÍ-las.
+tutorial_m2destroynukes             Submarinos inimigos lanÁaram mÌsseis nucleares em suas cidades!\n\nSeus Silos j· est„o no modo de defesa aÈrea e v„o derrubar os mÌsseis nucleares que se aproximam.\n\nSilos em modo de defesa aÈrea s„o muito eficazes para derrubar mÌsseis nucleares que se aproximam.
 
-tutorial_m2end                      Miss√£o 2 conclu√≠da.\n\nClique em Avan√ßar para seguir para a Miss√£o 3.
-tutorial_mission2failed             Um m√≠ssil nuclear atingiu uma de suas cidades!\n\nTente posicionar seus Silos perto das cidades na pr√≥xima vez, para que tenham mais tempo para derrubar os m√≠sseis nucleares que se aproximam.\n\nClique em Reiniciar para tentar novamente.
+tutorial_m2end                      Miss„o 2 concluÌda.\n\nClique em AvanÁar para seguir para a Miss„o 3.
+tutorial_mission2failed             Um mÌssil nuclear atingiu uma de suas cidades!\n\nTente posicionar seus Silos perto das cidades na prÛxima vez, para que tenham mais tempo para derrubar os mÌsseis nucleares que se aproximam.\n\nClique em Reiniciar para tentar novamente.
 
-tutorial_unitpanel_popup            Clique neste bot√£o para abrir o Painel de Unidades.
-tutorial_silo_popup                 Clique neste √≠cone de unidade para come√ßar a posicionar os Silos.
-tutorial_silo_place                 Clique esquerdo nesta √°rea para posicionar seus Silos perto de suas principais cidades.
+tutorial_unitpanel_popup            Clique neste bot„o para abrir o Painel de Unidades.
+tutorial_silo_popup                 Clique neste Ìcone de unidade para comeÁar a posicionar os Silos.
+tutorial_silo_place                 Clique esquerdo nesta ·rea para posicionar seus Silos perto de suas principais cidades.
 
 # ==== MISSION 3 =====
 
-tutorial_mission3start              Cada unidade em Defcon possui um alcance de radar e voc√™ s√≥ pode ver uma unidade inimiga se ela estiver dentro da sua cobertura de radar.\n\nH√° v√°rias unidades inimigas na R√∫ssia que precisam ser descobertas.\n\nPosicione suas Esta√ß√µes de Radar para descobrir as unidades inimigas.
-tutorial_m3radarplacement           Posicione suas Esta√ß√µes de Radar o mais pr√≥ximo poss√≠vel da R√∫ssia.\n\nConforme voc√™ posiciona cada Esta√ß√£o de Radar, voc√™ notar√° que sua visibilidade da √°rea aumenta - unidades inimigas ser√£o reveladas.
-tutorial_m3siloplacement            Agora voc√™ pode ver as unidades inimigas.\n\nPosicione alguns Silos em seu territ√≥rio para destruir o inimigo.
-tutorial_m3gamespeed                Precisamos usar Armas Nucleares para destruir os edif√≠cios inimigos, mas n√£o podemos fazer isso at√© que o Defcon 1 seja alcan√ßado.\n\nPara alcan√ßar o Defcon 1, precisamos acelerar o tempo. Clique nos bot√µes de controle de velocidade para acelerar o tempo at√© que o Defcon 1 seja declarado.
-tutorial_m3defcon1                  Muitas unidades n√£o podem se envolver em combate at√© que um determinado n√≠vel de Defcon seja alcan√ßado.\n\nO combate naval e a√©reo n√£o podem ocorrer at√© o Defcon 3.\n\nARMAS NUCLEARES S√ì PODEM SER USADAS DEPOIS QUE O DEFCON 1 FOR DECLARADO.\n\nAcelere o tempo at√© que o Defcon 1 ocorra.
-tutorial_m3destroyenemy             Agora voc√™ pode usar seus Silos para lan√ßar M√≠sseis nuclares sobre os edif√≠cios inimigos.\n\nO inimigo possui um Silo pr√≥prio em modo de Defesa A√©rea, que derrubar√° muitos de seus m√≠sseis. Al√©m disso, esse Silo inimigo √© blindado contra ataques nucleares e pode resistir a 3 ataques diretos.\n\nVoc√™ deve lan√ßar simultaneamente em dire√ß√£o ao Silo inimigo com todos os seus Silos para garantir o sucesso.
-tutorial_m3silostaketime            Os Silos levam muito tempo para mudar entre o modo de Defesa A√©rea e o modo de M√çSSIL BAL√çSTICO INTERCONTINENTAL. Coloque o mouse sobre um Silo para ver quanto tempo voc√™ ter√° que esperar.\n\nSinta-se livre para acelerar o tempo se precisar.\n\nContinue lan√ßando todas as suas Armas Nucleares nos edif√≠cios inimigos at√© que eles sejam destru√≠dos.
+tutorial_mission3start              Cada unidade em Defcon possui um alcance de radar e vocÍ sÛ pode ver uma unidade inimiga se ela estiver dentro da sua cobertura de radar.\n\nH· v·rias unidades inimigas na R˙ssia que precisam ser descobertas.\n\nPosicione suas EstaÁıes de Radar para descobrir as unidades inimigas.
+tutorial_m3radarplacement           Posicione suas EstaÁıes de Radar o mais prÛximo possÌvel da R˙ssia.\n\nConforme vocÍ posiciona cada EstaÁ„o de Radar, vocÍ notar· que sua visibilidade da ·rea aumenta - unidades inimigas ser„o reveladas.
+tutorial_m3siloplacement            Agora vocÍ pode ver as unidades inimigas.\n\nPosicione alguns Silos em seu territÛrio para destruir o inimigo.
+tutorial_m3gamespeed                Precisamos usar Armas Nucleares para destruir os edifÌcios inimigos, mas n„o podemos fazer isso atÈ que o Defcon 1 seja alcanÁado.\n\nPara alcanÁar o Defcon 1, precisamos acelerar o tempo. Clique nos botıes de controle de velocidade para acelerar o tempo atÈ que o Defcon 1 seja declarado.
+tutorial_m3defcon1                  Muitas unidades n„o podem se envolver em combate atÈ que um determinado nÌvel de Defcon seja alcanÁado.\n\nO combate naval e aÈreo n„o podem ocorrer atÈ o Defcon 3.\n\nARMAS NUCLEARES S” PODEM SER USADAS DEPOIS QUE O DEFCON 1 FOR DECLARADO.\n\nAcelere o tempo atÈ que o Defcon 1 ocorra.
+tutorial_m3destroyenemy             Agora vocÍ pode usar seus Silos para lanÁar MÌsseis nuclares sobre os edifÌcios inimigos.\n\nO inimigo possui um Silo prÛprio em modo de Defesa AÈrea, que derrubar· muitos de seus mÌsseis. AlÈm disso, esse Silo inimigo È blindado contra ataques nucleares e pode resistir a 3 ataques diretos.\n\nVocÍ deve lanÁar simultaneamente em direÁ„o ao Silo inimigo com todos os seus Silos para garantir o sucesso.
+tutorial_m3silostaketime            Os Silos levam muito tempo para mudar entre o modo de Defesa AÈrea e o modo de MÕSSIL BALÕSTICO INTERCONTINENTAL. Coloque o mouse sobre um Silo para ver quanto tempo vocÍ ter· que esperar.\n\nSinta-se livre para acelerar o tempo se precisar.\n\nContinue lanÁando todas as suas Armas Nucleares nos edifÌcios inimigos atÈ que eles sejam destruÌdos.
 
-tutorial_m3end                      Miss√£o 3 conclu√≠da.\n\nClique em Pr√≥ximo para prosseguir para a Miss√£o 4.
-tutorial_mission3failed1            Voc√™ posicionou todas as suas Esta√ß√µes de Radar, mas n√£o descobriu todas as unidades inimigas.\n\nVoc√™ falhou na miss√£o.\n\nClique em Reiniciar para come√ßar de novo.
-tutorial_mission3failed2            Voc√™ ficou sem Armas Nucleares e n√£o conseguiu destruir os constru√ß√µes inimigos.\n\nClique em Reiniciar para tentar novamente.
+tutorial_m3end                      Miss„o 3 concluÌda.\n\nClique em PrÛximo para prosseguir para a Miss„o 4.
+tutorial_mission3failed1            VocÍ posicionou todas as suas EstaÁıes de Radar, mas n„o descobriu todas as unidades inimigas.\n\nVocÍ falhou na miss„o.\n\nClique em Reiniciar para comeÁar de novo.
+tutorial_mission3failed2            VocÍ ficou sem Armas Nucleares e n„o conseguiu destruir os construÁıes inimigos.\n\nClique em Reiniciar para tentar novamente.
 
-tutorial_radar_popup                Clique neste √≠cone de unidade para come√ßar a posicionar Esta√ß√µes de Radar.
-tutorial_radar_place                Clique esquerdo nesta √°rea para colocar suas Esta√ß√µes de Radar perto do territ√≥rio inimigo.
-tutorial_acceltime_popup            Clique nos bot√µes de velocidade para acelerar o tempo at√© o inimigo 1.
-tutorial_silosnuke_popup            Clique com o bot√£o direito neste Silo e alterne-o para o Modo de Lan√ßamento de M√çSSIL BAL√çSTICO INTERCONTINENTAL.
-macosx_tutorial_silosnuke_popup     Clique com o bot√£o direito neste Silo e alterne-o para o Modo de Lan√ßamento de M√çSSIL BAL√çSTICO INTERCONTINENTAL. \nClique com a tecla Ctrl se voc√™ tiver um mouse de um bot√£o.
-tutorial_nukenemeysilo_popup        Clique esquerdo repetidamente neste Silo para enfileirar muitos Lan√ßamento de m√≠sseis. Ele derrubar√° muitas de suas bombas e pode levar 3 ataques diretos.
-tutorial_nukeenemyairbase_popup     Lance algumas bombas nesta Base A√©rea inimiga.
-tutorial_nukenemeycities_popup      Fique √† vontade para usar suas bombas restantes na popula√ß√£o civil inimiga.
+tutorial_radar_popup                Clique neste Ìcone de unidade para comeÁar a posicionar EstaÁıes de Radar.
+tutorial_radar_place                Clique esquerdo nesta ·rea para colocar suas EstaÁıes de Radar perto do territÛrio inimigo.
+tutorial_acceltime_popup            Clique nos botıes de velocidade para acelerar o tempo atÈ o inimigo 1.
+tutorial_silosnuke_popup            Clique com o bot„o direito neste Silo e alterne-o para o Modo de LanÁamento de MÕSSIL BALÕSTICO INTERCONTINENTAL.
+macosx_tutorial_silosnuke_popup     Clique com o bot„o direito neste Silo e alterne-o para o Modo de LanÁamento de MÕSSIL BALÕSTICO INTERCONTINENTAL. \nClique com a tecla Ctrl se vocÍ tiver um mouse de um bot„o.
+tutorial_nukenemeysilo_popup        Clique esquerdo repetidamente neste Silo para enfileirar muitos LanÁamento de mÌsseis. Ele derrubar· muitas de suas bombas e pode levar 3 ataques diretos.
+tutorial_nukeenemyairbase_popup     Lance algumas bombas nesta Base AÈrea inimiga.
+tutorial_nukenemeycities_popup      Fique ‡ vontade para usar suas bombas restantes na populaÁ„o civil inimiga.
 
 # ==== MISSION 4 =====
 
-tutorial_mission4start              Em muitos casos, as unidades inimigas estar√£o fora do alcance de seu Radar. Para descobrir as unidades inimigas, voc√™ ter√° que enviar avi√µes de reconhecimento sobre o territ√≥rio inimigo.\n\nColoque algumas bases a√©reas em seu territ√≥rio.
-tutorial_m4launchfighters           Voc√™ pode usar as Bases a√©reas para lan√ßar dois tipos de aeronaves:\n-Ca√ßas: avi√µes de combate / reconhecimento de curto alcance\n-Bombardeiros: aeronaves de longo alcance armadas com uma √∫nica bomba\n\nCa√ßas s√£o aeronaves de combate de curto alcance e r√°pidas. Eles s√£o bons em derrubar outras aeronaves e tamb√©m s√£o muito bons em reconhecimento.\n\nLance seus ca√ßas sobre o territ√≥rio inimigo para procurar alvos.
-tutorial_m4radar                    Cada Ca√ßa tem um Radar de curto alcance que descobrir√° pr√©dios inimigos se ele voar perto o suficiente.\n\nLigue a visualiza√ß√£o do Radar para ver sua Cobertura de radar.
-tutorial_m4launchbombers            Seus Ca√ßas descobriram todos os pr√©dios inimigos.\n\nVoc√™ pode notar que os pr√©dios inimigos ficam em cinza uma vez que n√£o est√£o mais dentro da sua Cobertura de Radar - Isso √© chamado de Fantasma de Radar.\n\nAgora usaremos os Bombardeiros para soltar Bombas nas metas inimigas.\n\nUse suas Bases a√©reas para lan√ßar Bombardeiros nos pr√©dios inimigos.
-tutorial_m4bomberinfo               Os Bombardeiros podem viajar uma longa dist√¢ncia, mas devem chegar perto de seu alvo - eles carregam apenas uma √∫nica bomba de curto alcance.\n\nOs bombardeiros lan√ßar√£o automaticamente suas bombas quando estiverem dentro do alcance de seus alvos.
-tutorial_m4nukeslaunched            Assim que um Bombardeiro lan√ßar sua bomba nuclear, ele retornar√° automaticamente √† base a√©rea mais pr√≥xima para pousar.\n\nAp√≥s o pouso, um Bombardeiro ser√° recarregado com uma nova bomba nuclear, embora as bases a√©reas tenham um n√∫mero limitado de bombas nucleares para rearmar os Bombardeiros.\n\nSe voc√™ destacar uma base a√©rea (passando o mouse sobre ela), poder√° ver quantas aeronaves e bombas nucleares est√£o dispon√≠veis para voc√™ lan√ßar.
+tutorial_mission4start              Em muitos casos, as unidades inimigas estar„o fora do alcance de seu Radar. Para descobrir as unidades inimigas, vocÍ ter· que enviar aviıes de reconhecimento sobre o territÛrio inimigo.\n\nColoque algumas bases aÈreas em seu territÛrio.
+tutorial_m4launchfighters           VocÍ pode usar as Bases aÈreas para lanÁar dois tipos de aeronaves:\n-CaÁas: aviıes de combate / reconhecimento de curto alcance\n-Bombardeiros: aeronaves de longo alcance armadas com uma ˙nica bomba\n\nCaÁas s„o aeronaves de combate de curto alcance e r·pidas. Eles s„o bons em derrubar outras aeronaves e tambÈm s„o muito bons em reconhecimento.\n\nLance seus caÁas sobre o territÛrio inimigo para procurar alvos.
+tutorial_m4radar                    Cada CaÁa tem um Radar de curto alcance que descobrir· prÈdios inimigos se ele voar perto o suficiente.\n\nLigue a visualizaÁ„o do Radar para ver sua Cobertura de radar.
+tutorial_m4launchbombers            Seus CaÁas descobriram todos os prÈdios inimigos.\n\nVocÍ pode notar que os prÈdios inimigos ficam em cinza uma vez que n„o est„o mais dentro da sua Cobertura de Radar - Isso È chamado de Fantasma de Radar.\n\nAgora usaremos os Bombardeiros para soltar Bombas nas metas inimigas.\n\nUse suas Bases aÈreas para lanÁar Bombardeiros nos prÈdios inimigos.
+tutorial_m4bomberinfo               Os Bombardeiros podem viajar uma longa dist‚ncia, mas devem chegar perto de seu alvo - eles carregam apenas uma ˙nica bomba de curto alcance.\n\nOs bombardeiros lanÁar„o automaticamente suas bombas quando estiverem dentro do alcance de seus alvos.
+tutorial_m4nukeslaunched            Assim que um Bombardeiro lanÁar sua bomba nuclear, ele retornar· automaticamente ‡ base aÈrea mais prÛxima para pousar.\n\nApÛs o pouso, um Bombardeiro ser· recarregado com uma nova bomba nuclear, embora as bases aÈreas tenham um n˙mero limitado de bombas nucleares para rearmar os Bombardeiros.\n\nSe vocÍ destacar uma base aÈrea (passando o mouse sobre ela), poder· ver quantas aeronaves e bombas nucleares est„o disponÌveis para vocÍ lanÁar.
 
-tutorial_m4end                      Miss√£o 4 conclu√≠da.\n\nClique em Avan√ßar para ir para a Miss√£o 5.
-tutorial_mission4failed             Voc√™ ficou sem bombas nucleares antes de destruir o inimigo e falhou na miss√£o.\n\nClique em Reiniciar para tentar novamente.
+tutorial_m4end                      Miss„o 4 concluÌda.\n\nClique em AvanÁar para ir para a Miss„o 5.
+tutorial_mission4failed             VocÍ ficou sem bombas nucleares antes de destruir o inimigo e falhou na miss„o.\n\nClique em Reiniciar para tentar novamente.
 
-tutorial_selectairbase_popup        Clique neste √≠cone da unidade para come√ßar a posicionar as bases a√©reas.
-tutorial_placeairbase_popup         Clique com o bot√£o esquerdo nesta √°rea para posicionar suas bases a√©reas.
-tutorial_clickairbase_popup         Clique com o bot√£o esquerdo nesta base a√©rea para come√ßar a lan√ßar ca√ßas.
-tutorial_scouthere_popup            Clique com o bot√£o esquerdo repetidamente nesta √°rea para enfileirar muitos lan√ßamentos de ca√ßas.
-tutorial_radartoolbar_popup         Destaque este bot√£o da barra de ferramentas para mostrar sua cobertura de radar.
-tutorial_switchtobombers_popup              Clique com o bot√£o direito nesta base a√©rea e mude para o modo Bombardeiro.
-macosx_tutorial_switchtobombers_popup       Clique com o bot√£o direito nesta base a√©rea e mude para o modo Bombardeiro.\nClique com Ctrl se voc√™ tiver um mouse de um bot√£o.
-tutorial_clickairbasebomber_popup   Clique com o bot√£o esquerdo nesta base a√©rea para come√ßar a lan√ßar Bombardeiros.
-tutorial_nukebuilding_popup         Lance alguns Bombardeiros neste pr√©dio inimigo.
+tutorial_selectairbase_popup        Clique neste Ìcone da unidade para comeÁar a posicionar as bases aÈreas.
+tutorial_placeairbase_popup         Clique com o bot„o esquerdo nesta ·rea para posicionar suas bases aÈreas.
+tutorial_clickairbase_popup         Clique com o bot„o esquerdo nesta base aÈrea para comeÁar a lanÁar caÁas.
+tutorial_scouthere_popup            Clique com o bot„o esquerdo repetidamente nesta ·rea para enfileirar muitos lanÁamentos de caÁas.
+tutorial_radartoolbar_popup         Destaque este bot„o da barra de ferramentas para mostrar sua cobertura de radar.
+tutorial_switchtobombers_popup              Clique com o bot„o direito nesta base aÈrea e mude para o modo Bombardeiro.
+macosx_tutorial_switchtobombers_popup       Clique com o bot„o direito nesta base aÈrea e mude para o modo Bombardeiro.\nClique com Ctrl se vocÍ tiver um mouse de um bot„o.
+tutorial_clickairbasebomber_popup   Clique com o bot„o esquerdo nesta base aÈrea para comeÁar a lanÁar Bombardeiros.
+tutorial_nukebuilding_popup         Lance alguns Bombardeiros neste prÈdio inimigo.
 
 # ==== MISSION 5 =====
 
-tutorial_mission5start              Muitas das suas for√ßas m√≥veis consistir√£o em navios, que s√£o agrupados em frotas.\n\nUma frota consiste em at√© seis navios e se move e luta como uma √∫nica unidade coesa.\n\nAbra o Painel de Unidades e clique no bot√£o Frota para come√ßar a posicionar uma Frota.
-tutorial_m5createfleet              Este √© o Construtor de Frotas. Clicando nos bot√µes de Unidade, voc√™ adicionar√° aquele navio √† frota.\n\n-Os Encoura√ßados s√£o eficazes contra uma variedade de unidades inimigas, mas s√£o vulner√°veis a submarinos.\n-Os Porta-avi√µes atuam como Bases A√©reas m√≥veis, permitindo que voc√™ lance Ca√ßas e Bombardeiros. Eles tamb√©m podem afundar submarinos inimigos com cargas de profundidade.\n-Submarinos s√£o invis√≠veis ao radar convencional e carregam armas nucleares de m√©dio alcance.\n\nConstrua uma frota de seis navios - tr√™s encoura√ßados e tr√™s porta-avi√µes.
-tutorial_m5battleshipinfo           As frotas s√£o controladas como uma √∫nica unidade. Se voc√™ pedir para elas se moverem, elas se mover√£o juntas. Se voc√™ pedir para elas atacarem uma frota inimiga, elas o far√£o como uma √∫nica unidade, da melhor maneira poss√≠vel.\n\nSelecione uma de suas frotas clicando com o bot√£o esquerdo em qualquer navio dessa frota.\n\nEm seguida, mova a frota para o sul clicando com o bot√£o direito em seu destino.
-macosx_tutorial_m5battleshipinfo    As frotas s√£o controladas como uma √∫nica unidade. Se voc√™ pedir para elas se moverem, elas se mover√£o juntas. Se voc√™ pedir para elas atacarem uma frota inimiga, elas o far√£o como uma √∫nica unidade, da melhor maneira poss√≠vel.\n\nSelecione uma de suas frotas clicando com o bot√£o esquerdo em qualquer navio dessa frota.\n\nEm seguida, mova a frota para o sul clicando com o bot√£o direito (ou ctrl-clique) em seu destino.
-tutorial_m5destroyenemy             H√° duas frotas inimigas em algum lugar do Oceano Atl√¢ntico - use suas frotas para encontr√°-las e destru√≠-las.\n\n- Clique com o bot√£o esquerdo em qualquer navio de uma frota para selecionar a frota inteira.\n- Clique com o bot√£o direito para definir um destino para a frota selecionada.\n\nAcelere o tempo se necess√°rio.
-macosx_tutorial_m5destroyenemy      H√° duas frotas inimigas em algum lugar do Oceano Atl√¢ntico - use suas frotas para encontr√°-las e destru√≠-las.\n\n- Clique com o bot√£o esquerdo em qualquer navio de uma frota para selecionar a frota inteira.\n- Clique com o bot√£o direito (ou ctrl-clique) para definir um destino para a frota selecionada.\n\nAcelere o tempo se necess√°rio.
-tutorial_m5destroyenemy2            Suas frotas ir√£o automaticamente engajar naves inimigas quando estiverem dentro do alcance. Encoura√ßados abrir√£o fogo e Porta-avi√µes lan√ßar√£o Ca√ßas quando necess√°rio.\n\nVoc√™ pode controlar as batalhas manualmente se quiser - por exemplo, clique com o bot√£o esquerdo em um de seus Porta-avi√µes para selecion√°-lo e, em seguida, clique com o bot√£o esquerdo em uma nave inimiga para lan√ßar avi√µes Ca√ßas.\n\nDestaque o bot√£o Pedidos na barra de ferramentas para ver os pedidos de ataque atuais de suas frotas.
+tutorial_mission5start              Muitas das suas forÁas mÛveis consistir„o em navios, que s„o agrupados em frotas.\n\nUma frota consiste em atÈ seis navios e se move e luta como uma ˙nica unidade coesa.\n\nAbra o Painel de Unidades e clique no bot„o Frota para comeÁar a posicionar uma Frota.
+tutorial_m5createfleet              Este È o Construtor de Frotas. Clicando nos botıes de Unidade, vocÍ adicionar· aquele navio ‡ frota.\n\n-Os EncouraÁados s„o eficazes contra uma variedade de unidades inimigas, mas s„o vulner·veis a submarinos.\n-Os Porta-aviıes atuam como Bases AÈreas mÛveis, permitindo que vocÍ lance CaÁas e Bombardeiros. Eles tambÈm podem afundar submarinos inimigos com cargas de profundidade.\n-Submarinos s„o invisÌveis ao radar convencional e carregam armas nucleares de mÈdio alcance.\n\nConstrua uma frota de seis navios - trÍs encouraÁados e trÍs porta-aviıes.
+tutorial_m5battleshipinfo           As frotas s„o controladas como uma ˙nica unidade. Se vocÍ pedir para elas se moverem, elas se mover„o juntas. Se vocÍ pedir para elas atacarem uma frota inimiga, elas o far„o como uma ˙nica unidade, da melhor maneira possÌvel.\n\nSelecione uma de suas frotas clicando com o bot„o esquerdo em qualquer navio dessa frota.\n\nEm seguida, mova a frota para o sul clicando com o bot„o direito em seu destino.
+macosx_tutorial_m5battleshipinfo    As frotas s„o controladas como uma ˙nica unidade. Se vocÍ pedir para elas se moverem, elas se mover„o juntas. Se vocÍ pedir para elas atacarem uma frota inimiga, elas o far„o como uma ˙nica unidade, da melhor maneira possÌvel.\n\nSelecione uma de suas frotas clicando com o bot„o esquerdo em qualquer navio dessa frota.\n\nEm seguida, mova a frota para o sul clicando com o bot„o direito (ou ctrl-clique) em seu destino.
+tutorial_m5destroyenemy             H· duas frotas inimigas em algum lugar do Oceano Atl‚ntico - use suas frotas para encontr·-las e destruÌ-las.\n\n- Clique com o bot„o esquerdo em qualquer navio de uma frota para selecionar a frota inteira.\n- Clique com o bot„o direito para definir um destino para a frota selecionada.\n\nAcelere o tempo se necess·rio.
+macosx_tutorial_m5destroyenemy      H· duas frotas inimigas em algum lugar do Oceano Atl‚ntico - use suas frotas para encontr·-las e destruÌ-las.\n\n- Clique com o bot„o esquerdo em qualquer navio de uma frota para selecionar a frota inteira.\n- Clique com o bot„o direito (ou ctrl-clique) para definir um destino para a frota selecionada.\n\nAcelere o tempo se necess·rio.
+tutorial_m5destroyenemy2            Suas frotas ir„o automaticamente engajar naves inimigas quando estiverem dentro do alcance. EncouraÁados abrir„o fogo e Porta-aviıes lanÁar„o CaÁas quando necess·rio.\n\nVocÍ pode controlar as batalhas manualmente se quiser - por exemplo, clique com o bot„o esquerdo em um de seus Porta-aviıes para selecion·-lo e, em seguida, clique com o bot„o esquerdo em uma nave inimiga para lanÁar aviıes CaÁas.\n\nDestaque o bot„o Pedidos na barra de ferramentas para ver os pedidos de ataque atuais de suas frotas.
 
-tutorial_m5end                      Miss√£o 5 conclu√≠da. Clique em Avan√ßar para ir para a Miss√£o 6.
-tutorial_mission5failed             Voc√™ perdeu todas os seus barcos sem destruir o inimigo e falhou na miss√£o.\n\nClique em Reiniciar para tentar novamente.
+tutorial_m5end                      Miss„o 5 concluÌda. Clique em AvanÁar para ir para a Miss„o 6.
+tutorial_mission5failed             VocÍ perdeu todas os seus barcos sem destruir o inimigo e falhou na miss„o.\n\nClique em Reiniciar para tentar novamente.
 
-tutorial_selectfleet_popup          Clique neste √≠cone para come√ßar a posicionar frotas.
-tutorial_addbattleship_popup        Clique neste √≠cone de unidade para adicionar um Encoura√ßado √† sua Frota.
-tutorial_addcarrier_popup           Clique neste √≠cone de unidade para adicionar um Porta-avi√µes √† sua Frota.
-tutorial_deployfleet_popup          Clique com o bot√£o esquerdo para posicionar sua Frota nesta √°rea.
-tutorial_selectdeployedfleet_popup  Clique com o bot√£o esquerdo em qualquer nave para selecionar a frota inteira.
+tutorial_selectfleet_popup          Clique neste Ìcone para comeÁar a posicionar frotas.
+tutorial_addbattleship_popup        Clique neste Ìcone de unidade para adicionar um EncouraÁado ‡ sua Frota.
+tutorial_addcarrier_popup           Clique neste Ìcone de unidade para adicionar um Porta-aviıes ‡ sua Frota.
+tutorial_deployfleet_popup          Clique com o bot„o esquerdo para posicionar sua Frota nesta ·rea.
+tutorial_selectdeployedfleet_popup  Clique com o bot„o esquerdo em qualquer nave para selecionar a frota inteira.
 tutorial_movefleet_popup            CLIQUE DIREITO para mover toda a Frota selecionada aqui.
-macosx_tutorial_movefleet_popup     CLIQUE DIREITO para mover toda a Frota selecionada aqui. Clique com a tecla Ctrl se voc√™ tiver um mouse de um bot√£o.
-tutorial_destroyfleet_popup         Destrua a frota inimiga nesta √°rea.
-tutorial_orderstoolbar_popup        Destaque este bot√£o na barra de ferramentas para mostrar suas Ordens.
+macosx_tutorial_movefleet_popup     CLIQUE DIREITO para mover toda a Frota selecionada aqui. Clique com a tecla Ctrl se vocÍ tiver um mouse de um bot„o.
+tutorial_destroyfleet_popup         Destrua a frota inimiga nesta ·rea.
+tutorial_orderstoolbar_popup        Destaque este bot„o na barra de ferramentas para mostrar suas Ordens.
 
 # ==== MISSION 6 =====
 
-tutorial_mission6start              At√© agora, operamos na Europa, com a Uni√£o Sovi√©tica como inimiga. No entanto, isso nem sempre ser√° o caso.\n\nNesta Miss√£o, seu territ√≥rio √© a Am√©rica do Norte, e o inimigo √© a √Åsia do Sul.\n\nDestaque o bot√£o Territ√≥rio para ver quem controla quais partes do mapa.
-tutorial_mission6subintro           Nesse caso, o Oceano Pac√≠fico √© um campo de batalha crucial. O inimigo posicionou um n√∫mero de Submarinos nucleares na Costa Oeste da Am√©rica. A partir da√≠, eles ser√£o capazes de atacar muitas de nossas principais cidades com bombas nucleares.\n\nA melhor arma contra Submarinos inimigos √© o Porta-avi√µes - ele pode usar o Sonar para localizar submarinos debaixo d'√°gua e pode lan√ßar Cargas de Profundidade para afund√°-los.\n\nPosicione uma frota de Porta-avi√µes na Costa Oeste.
-tutorial_mission6placesubs          Tamb√©m vamos usar nossos pr√≥prios Submarinos para obliterar a Costa Leste da China em retalia√ß√£o.\n\nCrie uma frota de Submarinos e coloque-os o mais pr√≥ximo poss√≠vel da China Oriental.
-tutorial_m6subinfo                  Submarinos carregam um grande estoque de M√≠sseis Nucleares de M√©dio Alcance.\n\n√â crucial destacar que Submarinos n√£o aparecem no radar do inimigo at√© que eles apare√ßam na superf√≠cie, o que os torna invis√≠veis e imunes ao fogo de armas padr√£o.\n\nMova seus Submarinos o mais pr√≥ximo poss√≠vel da costa do inimigo e vamos fazer algumas Megamortes.
-tutorial_m6destroysubs              Existem duas frotas de submarinos inimigos escondidas na Costa Oeste da Am√©rica.\n\nMude alguns de seus Porta-avi√µes para o modo Anti-submarino e destrua os submarinos inimigos com cargas de profundidade.\n\nSeus Porta-avi√µes t√™m Cargas de profundidade ilimitadas.\nAcelere o tempo se precisar.
-tutorial_m6movesubs                 Submarinos podem ser usados ‚Äã‚Äãcom efeito devastador porque podem se aproximar furtivamente das costas inimigas e atacar com pouco ou nenhum aviso pr√©vio.\n\nMova seus submarinos para uma dist√¢ncia atacante do leste da China.
-tutorial_m6enemylaunch              O inimigo come√ßou a lan√ßar M√≠sseis nucleares em nossas Cidades a partir de seus Silos Terrestres!\n\nUsaremos nossos submarinos pr√≥ximos para destruir seus silos antes que causem muito dano.\n\nMude seus Submarinos para o modo de Lan√ßamento de M√çSSIL BAL√çSTICO DE ALCANCE M√âDIO e destrua os Silos inimigos!
-tutorial_m6launchexplanation        Mesmo que n√£o tenhamos cobertura de Radar na √°rea, ainda podemos ver os Silos inimigos. Isso ocorre porque os Silos revelam sua localiza√ß√£o para todos quando lan√ßam seus M√≠sseis nucleares. Silos em Modo de Lan√ßamento s√£o incapazes de se defender, ent√£o esta √© a oportunidade perfeita para atacar. Uma vez que seus Silos sejam destru√≠dos, eles ficar√£o sem defesa - ent√£o ataque as cidades inimigas em retalia√ß√£o e cause um verdadeiro estrago!
-tutorial_m6end                      Miss√£o 6 conclu√≠da. Clique em Pr√≥ximo para avan√ßar para sua √∫ltima Miss√£o de treinamento.
+tutorial_mission6start              AtÈ agora, operamos na Europa, com a Uni„o SoviÈtica como inimiga. No entanto, isso nem sempre ser· o caso.\n\nNesta Miss„o, seu territÛrio È a AmÈrica do Norte, e o inimigo È a ¡sia do Sul.\n\nDestaque o bot„o TerritÛrio para ver quem controla quais partes do mapa.
+tutorial_mission6subintro           Nesse caso, o Oceano PacÌfico È um campo de batalha crucial. O inimigo posicionou um n˙mero de Submarinos nucleares na Costa Oeste da AmÈrica. A partir daÌ, eles ser„o capazes de atacar muitas de nossas principais cidades com bombas nucleares.\n\nA melhor arma contra Submarinos inimigos È o Porta-aviıes - ele pode usar o Sonar para localizar submarinos debaixo d'·gua e pode lanÁar Cargas de Profundidade para afund·-los.\n\nPosicione uma frota de Porta-aviıes na Costa Oeste.
+tutorial_mission6placesubs          TambÈm vamos usar nossos prÛprios Submarinos para obliterar a Costa Leste da China em retaliaÁ„o.\n\nCrie uma frota de Submarinos e coloque-os o mais prÛximo possÌvel da China Oriental.
+tutorial_m6subinfo                  Submarinos carregam um grande estoque de MÌsseis Nucleares de MÈdio Alcance.\n\n… crucial destacar que Submarinos n„o aparecem no radar do inimigo atÈ que eles apareÁam na superfÌcie, o que os torna invisÌveis e imunes ao fogo de armas padr„o.\n\nMova seus Submarinos o mais prÛximo possÌvel da costa do inimigo e vamos fazer algumas Megamortes.
+tutorial_m6destroysubs              Existem duas frotas de submarinos inimigos escondidas na Costa Oeste da AmÈrica.\n\nMude alguns de seus Porta-aviıes para o modo Anti-submarino e destrua os submarinos inimigos com cargas de profundidade.\n\nSeus Porta-aviıes tÍm Cargas de profundidade ilimitadas.\nAcelere o tempo se precisar.
+tutorial_m6movesubs                 Submarinos podem ser usados com efeito devastador porque podem se aproximar furtivamente das costas inimigas e atacar com pouco ou nenhum aviso prÈvio.\n\nMova seus submarinos para uma dist‚ncia atacante do leste da China.
+tutorial_m6enemylaunch              O inimigo comeÁou a lanÁar MÌsseis nucleares em nossas Cidades a partir de seus Silos Terrestres!\n\nUsaremos nossos submarinos prÛximos para destruir seus silos antes que causem muito dano.\n\nMude seus Submarinos para o modo de LanÁamento de MÕSSIL BALÕSTICO DE ALCANCE M…DIO e destrua os Silos inimigos!
+tutorial_m6launchexplanation        Mesmo que n„o tenhamos cobertura de Radar na ·rea, ainda podemos ver os Silos inimigos. Isso ocorre porque os Silos revelam sua localizaÁ„o para todos quando lanÁam seus MÌsseis nucleares. Silos em Modo de LanÁamento s„o incapazes de se defender, ent„o esta È a oportunidade perfeita para atacar. Uma vez que seus Silos sejam destruÌdos, eles ficar„o sem defesa - ent„o ataque as cidades inimigas em retaliaÁ„o e cause um verdadeiro estrago!
+tutorial_m6end                      Miss„o 6 concluÌda. Clique em PrÛximo para avanÁar para sua ˙ltima Miss„o de treinamento.
 
-tutorial_territorytoolbar_popup     Destaque este bot√£o da barra de ferramentas para mostrar os Territ√≥rios de cada Jogador.
-tutorial_addsub_popup               Clique neste √≠cone de unidade para adicionar um Submarino √† sua Frota.
-tutorial_movesubs_popup             CLIQUE DIREITO aqui para mover seus Submarinos para uma dist√¢ncia de ataque da China Oriental.
-macosx_tutorial_movesubs_popup      CLIQUE DIREITO aqui para mover seus Submarinos para uma dist√¢ncia de ataque da China Oriental.\n(Clique com a tecla Ctrl se voc√™ tiver um mouse com apenas um bot√£o).
-tutorial_switchtodepth_popup        CLIQUE DIREITO neste Porta-avi√µes e altere para o Modo Anti-Submarino.
-macosx_tutorial_switchtodepth_popup CLIQUE DIREITO neste Porta-avi√µes e altere para o Modo Anti-Submarino.\n(Clique com a tecla Ctrl se voc√™ tiver um mouse com apenas um bot√£o).
-tutorial_destroysubs_popup          Mova seus Porta-avi√µes aqui e destrua os Submarinos inimigos nesta √°rea.
-tutorial_substonuke_popup           CLIQUE DIREITO neste Submarino e altere para o Modo de Lan√ßamento de M√çSSIL BAL√çSTICO DE ALCANCE M√âDIO.
-macosx_tutorial_substonuke_popup    CLIQUE DIREITO neste Submarino e altere para o Modo de Lan√ßamento de M√çSSIL BAL√çSTICO DE ALCANCE M√âDIO.\n(Clique com a tecla Ctrl se voc√™ tiver um mouse com apenas um bot√£o).
-tutorial_nukesilo_popup             Clique v√°rias vezes neste Silo para lan√ßar m√≠sseis nucleares a partir de seus Submarinos.
+tutorial_territorytoolbar_popup     Destaque este bot„o da barra de ferramentas para mostrar os TerritÛrios de cada Jogador.
+tutorial_addsub_popup               Clique neste Ìcone de unidade para adicionar um Submarino ‡ sua Frota.
+tutorial_movesubs_popup             CLIQUE DIREITO aqui para mover seus Submarinos para uma dist‚ncia de ataque da China Oriental.
+macosx_tutorial_movesubs_popup      CLIQUE DIREITO aqui para mover seus Submarinos para uma dist‚ncia de ataque da China Oriental.\n(Clique com a tecla Ctrl se vocÍ tiver um mouse com apenas um bot„o).
+tutorial_switchtodepth_popup        CLIQUE DIREITO neste Porta-aviıes e altere para o Modo Anti-Submarino.
+macosx_tutorial_switchtodepth_popup CLIQUE DIREITO neste Porta-aviıes e altere para o Modo Anti-Submarino.\n(Clique com a tecla Ctrl se vocÍ tiver um mouse com apenas um bot„o).
+tutorial_destroysubs_popup          Mova seus Porta-aviıes aqui e destrua os Submarinos inimigos nesta ·rea.
+tutorial_substonuke_popup           CLIQUE DIREITO neste Submarino e altere para o Modo de LanÁamento de MÕSSIL BALÕSTICO DE ALCANCE M…DIO.
+macosx_tutorial_substonuke_popup    CLIQUE DIREITO neste Submarino e altere para o Modo de LanÁamento de MÕSSIL BALÕSTICO DE ALCANCE M…DIO.\n(Clique com a tecla Ctrl se vocÍ tiver um mouse com apenas um bot„o).
+tutorial_nukesilo_popup             Clique v·rias vezes neste Silo para lanÁar mÌsseis nucleares a partir de seus Submarinos.
 
 
 # ==== MISSION 7 =====
 
-tutorial_mission7start              Esta √© a sua √∫ltima miss√£o de treinamento. Voc√™ precisar√° aplicar tudo o que aprendeu em uma batalha real contra um oponente de intelig√™ncia artificial.\n\nPara vencer, voc√™ precisar√° marcar mais pontos do que o inimigo detonando bombas nucleares em suas cidades. Voc√™ receber√° 2 pontos para cada inimigo morto, mas perder√° 1 ponto para cada civil que morrer.\n\nNeste jogo, voc√™ √© a Am√©rica do Norte e o inimigo √© a √Åsia do Sul.
-tutorial_mission7enemyattack        O inimigo est√° lan√ßando m√≠sseis em voc√™! Se voc√™ tiver submarinos ou Porta-avi√µes perto da costa da China, use-os para destruir os silos inimigos enquanto eles est√£o desprotegidos. Deixe seus Silos Terrestres no modo de Defesa A√©rea para derrubar os M√≠sseis que est√£o chegando.
-tutorial_mission7retaliate          O inimigo j√° lan√ßou a maioria de seus m√≠sseis. Use seus Silos Terrestres e m√≠sseis restantes para lan√ßar uma retalia√ß√£o em larga escala contra as cidades inimigas na China!
-tutorial_m7victory                  Parab√©ns! Voc√™ derrotou com sucesso o oponente de intelig√™ncia artificial e concluiu o Tutorial do Defcon!
-tutorial_mission7failed             Voc√™ foi derrotado pelo oponente de intelig√™ncia artificial e falhou na miss√£o. Dicas: Tente chegar com seus Submarinos bem perto da costa inimiga, para que voc√™ possa destruir seus Silos antes que eles lancem muitos m√≠sseis. Use seus Porta-avi√µes para encontrar e destruir os submarinos inimigos antes que eles ataquem. Clique em Reiniciar para tentar novamente.
+tutorial_mission7start              Esta È a sua ˙ltima miss„o de treinamento. VocÍ precisar· aplicar tudo o que aprendeu em uma batalha real contra um oponente de inteligÍncia artificial.\n\nPara vencer, vocÍ precisar· marcar mais pontos do que o inimigo detonando bombas nucleares em suas cidades. VocÍ receber· 2 pontos para cada inimigo morto, mas perder· 1 ponto para cada civil que morrer.\n\nNeste jogo, vocÍ È a AmÈrica do Norte e o inimigo È a ¡sia do Sul.
+tutorial_mission7enemyattack        O inimigo est· lanÁando mÌsseis em vocÍ! Se vocÍ tiver submarinos ou Porta-aviıes perto da costa da China, use-os para destruir os silos inimigos enquanto eles est„o desprotegidos. Deixe seus Silos Terrestres no modo de Defesa AÈrea para derrubar os MÌsseis que est„o chegando.
+tutorial_mission7retaliate          O inimigo j· lanÁou a maioria de seus mÌsseis. Use seus Silos Terrestres e mÌsseis restantes para lanÁar uma retaliaÁ„o em larga escala contra as cidades inimigas na China!
+tutorial_m7victory                  ParabÈns! VocÍ derrotou com sucesso o oponente de inteligÍncia artificial e concluiu o Tutorial do Defcon!
+tutorial_mission7failed             VocÍ foi derrotado pelo oponente de inteligÍncia artificial e falhou na miss„o. Dicas: Tente chegar com seus Submarinos bem perto da costa inimiga, para que vocÍ possa destruir seus Silos antes que eles lancem muitos mÌsseis. Use seus Porta-aviıes para encontrar e destruir os submarinos inimigos antes que eles ataquem. Clique em Reiniciar para tentar novamente.
 
-tutorial_showterritory_popup        Destaque este bot√£o para mostrar a localiza√ß√£o de seus inimigos.
-tutorial_m7placeradar_popup         O inimigo vir√° da Costa Leste da China. Posicione seus Radares ao longo da sua costa oeste para obter a maior cobertura poss√≠vel.
-tutorial_m7placesilos_popup         Implante seus Silos para proteger suas principais cidades - elas ser√£o os Alvos Prim√°rios do inimigo.
-tutorial_m7placeairbases_popup      Implante suas Bases a√©reas ao longo da Costa Oeste da Am√©rica. Usaremos elas para engajar e destruir quaisquer navios inimigos que cheguem √† nossa costa.
-tutorial_placefleetspacific_popup   O inimigo enviar√° navios pelo Pac√≠fico para nos atacar. Voc√™ deve implantar a maioria de suas Frotas no Pac√≠fico para intercept√°-los.
-tutorial_m7fleettarget_popup        Tente levar suas frotas para a Costa Leste da China, para atacar a curta dist√¢ncia. CLIQUE ESQUERDO para selecionar uma frota inteira. CLIQUE DIREITO para mover uma frota inteira.
-macosx_tutorial_m7fleettarget_popup Tente levar suas frotas para a Costa Leste da China, para atacar a curta dist√¢ncia. CLIQUE ESQUERDO para selecionar uma frota inteira. CLIQUE DIREITO (ou Ctrl-Clique) para mover uma frota inteira.
-tutorial_m7scoutchina_popuup        Lance Ca√ßas dos seus Porta-Avi√µes pr√≥ximos para fazer reconhecimento da √°rea em busca de bases terrestres inimigas.
-tutorial_m7enemysubs_popup          Os Submarinos inimigos est√£o lan√ßando m√≠sseis nucleares em suas cidades! Lance Ca√ßas e Bombardeiros de suas Bases a√©reas pr√≥ximas para destru√≠-los!
+tutorial_showterritory_popup        Destaque este bot„o para mostrar a localizaÁ„o de seus inimigos.
+tutorial_m7placeradar_popup         O inimigo vir· da Costa Leste da China. Posicione seus Radares ao longo da sua costa oeste para obter a maior cobertura possÌvel.
+tutorial_m7placesilos_popup         Implante seus Silos para proteger suas principais cidades - elas ser„o os Alvos Prim·rios do inimigo.
+tutorial_m7placeairbases_popup      Implante suas Bases aÈreas ao longo da Costa Oeste da AmÈrica. Usaremos elas para engajar e destruir quaisquer navios inimigos que cheguem ‡ nossa costa.
+tutorial_placefleetspacific_popup   O inimigo enviar· navios pelo PacÌfico para nos atacar. VocÍ deve implantar a maioria de suas Frotas no PacÌfico para intercept·-los.
+tutorial_m7fleettarget_popup        Tente levar suas frotas para a Costa Leste da China, para atacar a curta dist‚ncia. CLIQUE ESQUERDO para selecionar uma frota inteira. CLIQUE DIREITO para mover uma frota inteira.
+macosx_tutorial_m7fleettarget_popup Tente levar suas frotas para a Costa Leste da China, para atacar a curta dist‚ncia. CLIQUE ESQUERDO para selecionar uma frota inteira. CLIQUE DIREITO (ou Ctrl-Clique) para mover uma frota inteira.
+tutorial_m7scoutchina_popuup        Lance CaÁas dos seus Porta-Aviıes prÛximos para fazer reconhecimento da ·rea em busca de bases terrestres inimigas.
+tutorial_m7enemysubs_popup          Os Submarinos inimigos est„o lanÁando mÌsseis nucleares em suas cidades! Lance CaÁas e Bombardeiros de suas Bases aÈreas prÛximas para destruÌ-los!
 
 
 # =============================================================================
 # Unit Info
 # =============================================================================
 
-unitinfo_title                      INFORMA√á√ÉO DE UNIDADES
+unitinfo_title                      INFORMA«√O DE UNIDADES
 unitinfo_title2                     (nenhuma unidade selecionada)
 
-unitinfo_fighter                    Avi√µes de combate r√°pidos de curto alcance.\n+  Efetivos contra Bombardeiros\n+  √öteis para miss√µes de reconhecimento\n-  Facilmente derrubados por encoura√ßados ou Silos
-unitinfo_silo                       Funciona como Lan√ßador de m√≠sseis nucleares e Bateria Antia√©rea.\n+  Amplas reservas de M√≠sseis Nucleares de Longo Alcance\n+  Potentes Canh√µes antia√©reos\n+  Refor√ßado contra impactos at√¥micos\n-  O Lan√ßamento de m√≠sseis nucleares revela a sua localiza√ß√£o\n-  Troca de modo lento
-unitinfo_radar                      Proporciona cobertura radar ao seu territ√≥rio.\n+  Maior alcance radar dispon√≠vel\n-  Facilmente destru√≠do por impacto nuclear
-unitinfo_bomber                     Avi√£o vers√°til de longo alcance.\n+  Leva um √∫nico m√≠ssil nuclear de curto alcance\n+  O lan√ßamento de m√≠sseis nucleares n√£o √© mostrado no radar inimigo\n+  Efetivo contra Barcos\n-  Facilmente derrubado por Ca√ßas\n-  Movimento lento
-unitinfo_battleship                 Canhoneira de grande potencia equipada com poderosas armas de disparo r√°pido.\n+  Efetivo contra alvos m√∫ltiplos\n-  Vulner√°vel contra Submarinos e Bombardeiros
-unitinfo_sub                        Potente unidade furtiva portadora de m√≠sseis nucleares.\n+  Invis√≠vel ao radar convencional\n+  Amplas reservas de M√≠sseis nucleares\n-  Extremadamente vulner√°vel na superf√≠cie\n-  O lan√ßamento de m√≠sseis nucleares revela a sua localiza√ß√£o\n- Vulner√°vel a Cargas de profundidade\n-  Sem alcance radar
-unitinfo_carrier                    Unidade m√≥vel portadora de aeronaves.\n+  Pode enviar Ca√ßas e Bombardeiros\n+  √â capaz de soltar Cargas de profundidade contra Submarinos\n-  N√£o pode se defender diretamente
-unitinfo_nuke                       Ogiva nuclear de grande potencia.\n+  Incr√≠vel poder destrutivo\n-  Vulner√°vel ao fogo antia√©reo
-unitinfo_airbase                    Ponto de decolagem para Ca√ßas e Bombardeiros.\n+  Grande n√∫mero de Bombardeiros\n+  Regenera os ca√ßas com o tempo\n-  Facilmente destru√≠da pelo impacto de um m√≠ssil nuclear
+unitinfo_fighter                    Aviıes de combate r·pidos de curto alcance.\n+  Efetivos contra Bombardeiros\n+  ⁄teis para missıes de reconhecimento\n-  Facilmente derrubados por encouraÁados ou Silos
+unitinfo_silo                       Funciona como LanÁador de mÌsseis nucleares e Bateria AntiaÈrea.\n+  Amplas reservas de MÌsseis Nucleares de Longo Alcance\n+  Potentes Canhıes antiaÈreos\n+  ReforÁado contra impactos atÙmicos\n-  O LanÁamento de mÌsseis nucleares revela a sua localizaÁ„o\n-  Troca de modo lento
+unitinfo_radar                      Proporciona cobertura radar ao seu territÛrio.\n+  Maior alcance radar disponÌvel\n-  Facilmente destruÌdo por impacto nuclear
+unitinfo_bomber                     Avi„o vers·til de longo alcance.\n+  Leva um ˙nico mÌssil nuclear de curto alcance\n+  O lanÁamento de mÌsseis nucleares n„o È mostrado no radar inimigo\n+  Efetivo contra Barcos\n-  Facilmente derrubado por CaÁas\n-  Movimento lento
+unitinfo_battleship                 Canhoneira de grande potencia equipada com poderosas armas de disparo r·pido.\n+  Efetivo contra alvos m˙ltiplos\n-  Vulner·vel contra Submarinos e Bombardeiros
+unitinfo_sub                        Potente unidade furtiva portadora de mÌsseis nucleares.\n+  InvisÌvel ao radar convencional\n+  Amplas reservas de MÌsseis nucleares\n-  Extremadamente vulner·vel na superfÌcie\n-  O lanÁamento de mÌsseis nucleares revela a sua localizaÁ„o\n- Vulner·vel a Cargas de profundidade\n-  Sem alcance radar
+unitinfo_carrier                    Unidade mÛvel portadora de aeronaves.\n+  Pode enviar CaÁas e Bombardeiros\n+  … capaz de soltar Cargas de profundidade contra Submarinos\n-  N„o pode se defender diretamente
+unitinfo_nuke                       Ogiva nuclear de grande potencia.\n+  IncrÌvel poder destrutivo\n-  Vulner·vel ao fogo antiaÈreo
+unitinfo_airbase                    Ponto de decolagem para CaÁas e Bombardeiros.\n+  Grande n˙mero de Bombardeiros\n+  Regenera os caÁas com o tempo\n-  Facilmente destruÌda pelo impacto de um mÌssil nuclear
 
 
 # =============================================================================
@@ -1360,25 +1360,25 @@ unitinfo_airbase                    Ponto de decolagem para Ca√ßas e Bombardeiro
 # =============================================================================
 
 demo_top1                           Compre o jogo agora para experimentar o Defcon corretamente
-demo_middle1                        Sem limite de jogadores: genoc√≠dio ca√≥tico com 6 jogadores!
+demo_middle1                        Sem limite de jogadores: genocÌdio caÛtico com 6 jogadores!
 demo_middle2                        Modos de jogo alternativos incluindo:
-demo_middle3                        Modo Escrit√≥rio: Jogue o Defcon em tempo real durante um dia inteiro
-demo_middle4                        Defcon R√°pido: Tudo acaba em 15 minutos - instintivo e brutal
-demo_middle5                        Diplomacia: Todos os jogadores come√ßam na mesma alian√ßa - quanto tempo durar√°?
-demo_middle6                        Mundo Grande: O mundo √© duas vezes maior - para aqueles que amam jogos longos
-demo_bottom1                        Ativa√ß√£o imediata por apenas
-demo_bottom2                        ¬£10     $17.50     ‚Ç¨14
+demo_middle3                        Modo EscritÛrio: Jogue o Defcon em tempo real durante um dia inteiro
+demo_middle4                        Defcon R·pido: Tudo acaba em 15 minutos - instintivo e brutal
+demo_middle5                        Diplomacia: Todos os jogadores comeÁam na mesma alianÁa - quanto tempo durar·?
+demo_middle6                        Mundo Grande: O mundo È duas vezes maior - para aqueles que amam jogos longos
+demo_bottom1                        AtivaÁ„o imediata por apenas
+demo_bottom2                        £10     $17.50     Ä14
 
-demo_bottom1_steam                  Ativa√ß√£o imediata por apenas
+demo_bottom1_steam                  AtivaÁ„o imediata por apenas
 demo_bottom2_steam                  $14.95
 
-demo_bottom1_retail                 COMPRE A VERS√ÉO COMPLETA DO DEFCON HOJE
+demo_bottom1_retail                 COMPRE A VERS√O COMPLETA DO DEFCON HOJE
 demo_bottom2_retail                 VISITE SUA LOJA DE JOGOS PARA PC FAVORITA
 
-demo_bottom1_retail_uk              COMPRA HOY LA VERSI√ìN COMPLETA DE DEFCON
+demo_bottom1_retail_uk              COMPRA HOY LA VERSI”N COMPLETA DE DEFCON
 demo_bottom2_retail_uk              VISITA A TU VENDEDOR DE JUEGOS FAVORITO
 
-demo_bottom1_macosx                 Ativa√ß√£o imediata por apenas
+demo_bottom1_macosx                 AtivaÁ„o imediata por apenas
 demo_bottom2_macosx                 $25.00
 
 
@@ -1392,7 +1392,7 @@ overlay_0_3			--------------------------
 overlay_0_4			-CRIADO POR
 overlay_0_5			CHRIS DELAY
 overlay_0_6			GARY CHAMBERS\n
-overlay_0_7			-DESENHO E PRODU√á√ÉO
+overlay_0_7			-DESENHO E PRODU«√O
 overlay_0_8			-DE SOM
 overlay_0_9			ALISTAIR LINDSAY
 overlay_0_10			MICHAEL MAIDMENT\n
@@ -1404,7 +1404,7 @@ overlay_0_15			CHRIS DELAY
 overlay_0_16			JOHN KNOTTENBELT\n
 overlay_0_17			-RR. PP. E MARKETING
 overlay_0_18			VICTORIA ARUNDEL\n
-overlay_0_19			-DESENHO GR√ÅFICO ADICIONAL
+overlay_0_19			-DESENHO GR¡FICO ADICIONAL
 overlay_0_20			MORTEN ELGAARD PEDERSEN\n
 overlay_0_21			-ENVIOS
 overlay_0_22			WILL MORRIS
@@ -1423,7 +1423,7 @@ overlay_1_9			VICTORIA ARUNDEL                RR.PP. E MARKETING
 overlay_1_10			WILL MORRIS                     ENVIOS
 
 overlay_2_1			-------------------------
-overlay_2_2			-SIMULA√á√ïES DISPON√çVEIS
+overlay_2_2			-SIMULA«’ES DISPONÕVEIS
 overlay_2_3			-------------------------\n
 overlay_2_4			LABIRINTO DO FALKEN
 overlay_2_5			21
@@ -1432,17 +1432,17 @@ overlay_2_7			COPAS
 overlay_2_8			BRIDGE
 overlay_2_9			DAMAS
 overlay_2_10			XADREZ
-overlay_2_11			P√îQUER
-overlay_2_12			COMBATE DE CA√áAS
+overlay_2_11			P‘QUER
+overlay_2_12			COMBATE DE CA«AS
 overlay_2_13			GUERRILHA
 overlay_2_14			GUERRA NO DESERTO
-overlay_2_15			A√á√ïES AR-TERRA
-overlay_2_16			SIMULA√á√ÉO DE GUERRA T√ÅTICA
-overlay_2_17			SIMULA√á√ÉO DE GUERRA QU√çMICA E BIOT√ìXICA\n
+overlay_2_15			A«’ES AR-TERRA
+overlay_2_16			SIMULA«√O DE GUERRA T¡TICA
+overlay_2_17			SIMULA«√O DE GUERRA QUÕMICA E BIOT”XICA\n
 overlay_2_18			GUERRA GLOBAL TERMONUCLEAR
 
 overlay_3_1			------------------------------------------
-overlay_3_2			- ALVOS CIVIS EM MILH√ïES DE MORTOS
+overlay_3_2			- ALVOS CIVIS EM MILH’ES DE MORTOS
 overlay_3_3			------------------------------------------\n
 overlay_3_4			LOS ANGELES                    3,3
 overlay_3_5			NOVA IORQUE                    7,3
@@ -1456,50 +1456,50 @@ overlay_3_12			LONDRES                        7,7
 overlay_3_13			LENINGRADO                     4,9
 overlay_3_14			MOSCOU                         8,7
 overlay_3_15			ROMA                           2,8
-overlay_3_16			T√ìQUIO                         8,4
+overlay_3_16			T”QUIO                         8,4
 overlay_3_17			SINGAPURA                      2,6
 overlay_3_18			BANGCOC                        4,7
 overlay_3_19			BOMBAY                         8,2
-overlay_3_20			M√âXICO                         8,8
+overlay_3_20			M…XICO                         8,8
 overlay_3_21			RIO DE JANEIRO                 5,6
 overlay_3_22			CAIRO                          6,1
 overlay_3_23			ESTANBUL                       5,5
 overlay_3_24			PEQUIM                         5,5
 overlay_3_25			XANGAI                         6,3
-overlay_3_26			D√âLHI                          4,9
+overlay_3_26			D…LHI                          4,9
 			 
 overlay_4_1			-----------------------------------------------
-overlay_4_2			-   PEDAS PREVISTAS - FOR√áA A√âREA E.U.A. (%)
+overlay_4_2			-   PEDAS PREVISTAS - FOR«A A…REA E.U.A. (%)
 overlay_4_3			-----------------------------------------------\n
 overlay_4_4			COMANDO DE DEFESA AEROESPACIAL              23
-overlay_4_5			COMANDO DE COMBATE A√âREO                     76
-overlay_4_6			COMANDO DE EDUCA√á√ÉO E TREINAMENTO        24
-overlay_4_7			COMANDO DE COMUNICA√á√ïES DA FOR√áA A√âREA 68
-overlay_4_8			COMANDO DE INTELIG√äNCIA DA FOR√áA A√âREA   58
-overlay_4_9			COMANDO DE LOG√çSTICA DA FOR√áA A√âREA      78
-overlay_4_10			COMANDO DA RESERVA DA FOR√áA A√âREA     14
-overlay_4_11			COMANDO ESPACIAL DA FOR√áA A√âREA          12
-overlay_4_12			COMANDO DE OPERA√á√ïES ESPECIAIS DA FOR√áA A√âREA        56
-overlay_4_13			COMANDO DE SISTEMAS DA FOR√áA A√âREA       86
-overlay_4_14			COMANDO DE MOBILIDADE A√âREA                   87
-overlay_4_15			COMANDO A√âREO DO ALASCA                      92
+overlay_4_5			COMANDO DE COMBATE A…REO                     76
+overlay_4_6			COMANDO DE EDUCA«√O E TREINAMENTO        24
+overlay_4_7			COMANDO DE COMUNICA«’ES DA FOR«A A…REA 68
+overlay_4_8			COMANDO DE INTELIG NCIA DA FOR«A A…REA   58
+overlay_4_9			COMANDO DE LOGÕSTICA DA FOR«A A…REA      78
+overlay_4_10			COMANDO DA RESERVA DA FOR«A A…REA     14
+overlay_4_11			COMANDO ESPACIAL DA FOR«A A…REA          12
+overlay_4_12			COMANDO DE OPERA«’ES ESPECIAIS DA FOR«A A…REA        56
+overlay_4_13			COMANDO DE SISTEMAS DA FOR«A A…REA       86
+overlay_4_14			COMANDO DE MOBILIDADE A…REA                   87
+overlay_4_15			COMANDO A…REO DO ALASCA                      92
 overlay_4_16			COMANDO DO QUARTEL GENERAL, USAF            85
-overlay_4_17			COMANDO A√âREO DO NORESTE                    75
-overlay_4_18			COMANDO A√âREO DO PAC√çFICO                   91
-overlay_4_19			FOR√áA A√âREA DO PAC√çFICO                    85
+overlay_4_17			COMANDO A…REO DO NORESTE                    75
+overlay_4_18			COMANDO A…REO DO PACÕFICO                   91
+overlay_4_19			FOR«A A…REA DO PACÕFICO                    85
 overlay_4_20			COMANDO DE ARMAS ESPECIAIS                  67
-overlay_4_21			COMANDO A√âREO ESTRAT√âGICO                    85
-overlay_4_22			COMANDO AEROT√ÅTICO                          91
-overlay_4_23			TERCEIRA DIVIS√ÉO A√âREA                       75
-overlay_4_24			FOR√áA A√âREA DOS ESTADOS UNIDOS NA EUROPA 79
-overlay_4_25			COMANDO DO SUL DA FOR√áA A√âREA DOS ESTADOS UNIDOS 65
+overlay_4_21			COMANDO A…REO ESTRAT…GICO                    85
+overlay_4_22			COMANDO AEROT¡TICO                          91
+overlay_4_23			TERCEIRA DIVIS√O A…REA                       75
+overlay_4_24			FOR«A A…REA DOS ESTADOS UNIDOS NA EUROPA 79
+overlay_4_25			COMANDO DO SUL DA FOR«A A…REA DOS ESTADOS UNIDOS 65
 
 overlay_5_1			-----------------------------------------------------------------
-overlay_5_2			EFEITOS DA EXPOSI√á√ÉO √Ä RADIA√á√ÉO SOBRE A FISIOLOGIA HUMANA
+overlay_5_2			EFEITOS DA EXPOSI«√O ¿ RADIA«√O SOBRE A FISIOLOGIA HUMANA
 overlay_5_3			-----------------------------------------------------------------\n
 overlay_5_4			-MENOS DE 1 SV (50-100 REM)
-overlay_5_5			ENFERMIDADE POR RADIA√á√ÉO LEVE ACOMPANHADA DE DOR DE CABE√áA E UM MAIOR RISCO DE
-overlay_5_6			INFEC√á√ÉO DEVIDO A ALTERA√á√ÉO DAS C√âLULAS DO SISTEMA IMUNOL√ìGICO. √â POSS√çVEL QUE SE
+overlay_5_5			ENFERMIDADE POR RADIA«√O LEVE ACOMPANHADA DE DOR DE CABE«A E UM MAIOR RISCO DE
+overlay_5_6			INFEC«√O DEVIDO A ALTERA«√O DAS C…LULAS DO SISTEMA IMUNOL”GICO. … POSSÕVEL QUE SE
 overlay_5_7			PRODUZA UMA ESTERILIDADE TEMPORAL NO HOMEM.\n
 overlay_5_8			1-2 SV (1OO-2OO REM)       (LEVE)     MORTALIDADE DE 1O% DEPOIS DE 30 DIAS
 overlay_5_9			2-3 SV (2OO-3OO REM)       (MODERADA)  MORTALIDADE DE 35% DEPOIS DE 30 DIAS
@@ -1507,7 +1507,7 @@ overlay_5_10			3-4 SV (3OO-4OO REM)       (GRAVE)    MORTALIDADE DE 5O% DEPOIS D
 overlay_5_11			4-6 SV (4OO-6OO REM)       (AGUDA)     MORTALIDADE DE 6O% DEPOIS DE 30 DIAS
 overlay_5_12			1O-5O SV (1.OOO-5.OOO REM) (AGUDA)     MORTALIDADE DE 1OO% DEPOIS DE 7 DIAS\n
 overlay_5_13			-5O-8O SV (5.OOO-8.OOO REM)
-overlay_5_14			DESORIENTA√á√ÉO IMEDIATA E COMA EM SEGUNDOS OU MINUTOS.
+overlay_5_14			DESORIENTA«√O IMEDIATA E COMA EM SEGUNDOS OU MINUTOS.
 overlay_5_15			MORTE DEVIDO AO COLAPSO DO SISTEMA NERVOSO OCORRE DEPOIS DE ALGUMAS HORAS.\n
 overlay_5_16			- MAIS DE 80 SV (>8.000 REM)         MORTE IMEDIATA.      
 
@@ -1538,51 +1538,51 @@ overlay_6_24			MK-43  1000     70KT-1MT     934-963 KG
 overlay_6_25			MK-53   350         9 MT     4.014-4.036 KG
 overlay_6_26			MK-57  3100      5-20 KT         222-231 KG
 overlay_6_27			MK-61  3150    80-340 KT         315-324 KG
-overlay_6_28			MK-83   650   AT√â  1,2KT          1.088 KG
+overlay_6_28			MK-83   650   AT…  1,2KT          1.088 KG
 
 overlay_7_1			-------------------------------------------------
-overlay_7_2			-  DOEN√áAS POR RADIA√á√ÉO: SINTOMAS E SINAIS  -
+overlay_7_2			-  DOEN«AS POR RADIA«√O: SINTOMAS E SINAIS  -
 overlay_7_3			-------------------------------------------------\n
-overlay_7_4			N√ÅUSEAS E V√îMITOS
+overlay_7_4			N¡USEAS E V‘MITOS
 overlay_7_5			DIARREA
-overlay_7_6			QUEIMADURAS CUT√ÇNEAS (VERMELHID√ÉO, BOLHAS)
-overlay_7_7			DEBILIDADE, FADIGA, CAN√áASSO, DESMAIOS
-overlay_7_8			DESIDRATA√á√ÉO
-overlay_7_9			INFLAMA√á√ÉO NAS √ÅREAS EXPOSTAS
+overlay_7_6			QUEIMADURAS CUT¬NEAS (VERMELHID√O, BOLHAS)
+overlay_7_7			DEBILIDADE, FADIGA, CAN«ASSO, DESMAIOS
+overlay_7_8			DESIDRATA«√O
+overlay_7_9			INFLAMA«√O NAS ¡REAS EXPOSTAS
 overlay_7_10			PERDA DE CABELO
-overlay_7_11			ULCERA√á√ÉO DA MUCOSA ORAL
-overlay_7_12			ULCERA√á√ÉO DO ES√îFAGO
-overlay_7_13			ULCERA√á√ÉO DO EST√îMAGO
-overlay_7_14			ULCERA√á√ÉO DO INTESTINO
-overlay_7_15			V√îMITOS DE SANGUE
+overlay_7_11			ULCERA«√O DA MUCOSA ORAL
+overlay_7_12			ULCERA«√O DO ES‘FAGO
+overlay_7_13			ULCERA«√O DO EST‘MAGO
+overlay_7_14			ULCERA«√O DO INTESTINO
+overlay_7_15			V‘MITOS DE SANGUE
 overlay_7_16			SANGUE NAS FEZES
 overlay_7_17			SANGRAMENTO DO NARIZ, BOCA, GENGIVAS E RETO
-overlay_7_18			N√ìDULOS ESCUROS
+overlay_7_18			N”DULOS ESCUROS
 overlay_7_19			PERDA DE PELE
 overlay_7_20			FERIDAS NA PELE
 
 overlay_8_1			----------------------------------------------------------------------
-overlay_8_2			-IS√ìTOPO     AN        MEIA-VIDA (ANOS)         MD     ED(MEV)  PD
+overlay_8_2			-IS”TOPO     AN        MEIA-VIDA (ANOS)         MD     ED(MEV)  PD
 overlay_8_3			----------------------------------------------------------------------\n
-overlay_8_4			PU-238   SINT√âTICO                 88          FE       -        -
-overlay_8_5			PU-239   SINT√âTICO             24.110          FE       -        -
-overlay_8_6			U-232    SINT√âTICO               68,9        a + FE    5,414   TH-228
-overlay_8_7			U-233    SINT√âTICO            159.200        FE + a    4,909   TH-229
+overlay_8_4			PU-238   SINT…TICO                 88          FE       -        -
+overlay_8_5			PU-239   SINT…TICO             24.110          FE       -        -
+overlay_8_6			U-232    SINT…TICO               68,9        a + FE    5,414   TH-228
+overlay_8_7			U-233    SINT…TICO            159.200        FE + a    4,909   TH-229
 overlay_8_8			U-234      0.0058%            245.500        FE + a    4,859   TH-230
 overlay_8_9			U-235        0.72%        703.800.000        FE + a    4,679   TH-231
-overlay_8_10			U-236    SINT√âTICO         23.420.000        FE + a    4,572   TH-232
+overlay_8_10			U-236    SINT…TICO         23.420.000        FE + a    4,572   TH-232
 overlay_8_11			U-238      99.275%      4.468.000.000        FE + a    4,270   TH-234
 
-overlay_9_1			SAUDA√á√ïES PROFESSOR FALKEN\nQUE TAL UM BOM JOGO DE XADREZ?
+overlay_9_1			SAUDA«’ES PROFESSOR FALKEN\nQUE TAL UM BOM JOGO DE XADREZ?
 
 overlay_10_1			---------------------------------------------------
-overlay_10_2			-       ALVOS ESTRAT√âGICOS MUNDIAIS          -
+overlay_10_2			-       ALVOS ESTRAT…GICOS MUNDIAIS          -
 overlay_10_3			---------------------------------------------------\n
 overlay_10_4			Norad           38 44' 39.68" N     104 50' 48.18" O
 overlay_10_5			Keflavik        63 59' 07.71" N      22 36' 20.06" O
 overlay_10_6			Bruselas        50 50' 54.79" N       4 21' 36.66" E
-overlay_10_7			N√°poles         40 51' 14.64" N      14 17' 21.84" E
-overlay_10_8			Mons (B√©lgica)  50 26' 32.55" N       3 57' 28.44" E
+overlay_10_7			N·poles         40 51' 14.64" N      14 17' 21.84" E
+overlay_10_8			Mons (BÈlgica)  50 26' 32.55" N       3 57' 28.44" E
 overlay_10_9			Norfolk         36 56' 59.84" N      76 19' 48.57" O
 overlay_10_10			Pearl Harbour   21 21' 48.77" N     157 57' 39.31" O
 overlay_10_11			Ramstein        49 26' 13.33" N       7 35' 54.11" E
@@ -1596,9 +1596,9 @@ overlay_10_18			Tatishchevo     51 40' 37.79" N      45 36' 46.89" E
 overlay_10_19			Barnaul         53 19' 39.80" N      83 45' 35.86" E
 
 overlay_11_1			---------------------------------------------------
-overlay_11_2			-       DETONA√á√ïES NUCLEARES SIGNIFICATIVAS       -
+overlay_11_2			-       DETONA«’ES NUCLEARES SIGNIFICATIVAS       -
 overlay_11_3			---------------------------------------------------
-overlay_11_4			-DATA        NOME       POT√äNCIA (KT)  PA√çS\n
+overlay_11_4			-DATA        NOME       POT NCIA (KT)  PAÕS\n
 overlay_11_5			16 JUL 1945   TRINITY         19          EE.UU.
 overlay_11_6			6 AGO 1945    LITTLE BOY      15          EE.UU.
 overlay_11_7			9 AGO 1945    FAT MAN         21          EE.UU.
@@ -1609,18 +1609,18 @@ overlay_11_11			12 AGO 1953   JOE 4           400         URSS
 overlay_11_12			1 MAR 1954    CASTLE BRAVO    15.000      EE.UU.
 overlay_11_13			22 NOV 1955   RDS-37          1.600       URSS
 overlay_11_14			8 NOV 1957    GRAPPLE X       1.800       RU
-overlay_11_15			13 FEB 1960   GERBOISE BLEUE  60          FRAN√áA
+overlay_11_15			13 FEB 1960   GERBOISE BLEUE  60          FRAN«A
 overlay_11_16			31 OCT 1961   TSAR BOMBA      50.000      URSS
 overlay_11_17			16 OCT 1964   596             22          CHINA
-overlay_11_18			17 JUN 1967   TEST N¬∫ 6       3.300       CHINA
-overlay_11_19			24 AGO 1968   CANOPUS         2.600       FRAN√áA
-overlay_11_20			18 MAY 1974   SMILING BUDDHA  12          √çNDIA
-overlay_11_21			11 MAY 1998   SHAKTI I        43          √çNDIA
-overlay_11_22			13 MAY 1998   SHAKTI II       12          √çNDIA
-overlay_11_23			28 MAY 1998   CHAGAI-I        9           PAQUIST√ÉO
+overlay_11_18			17 JUN 1967   TEST N∫ 6       3.300       CHINA
+overlay_11_19			24 AGO 1968   CANOPUS         2.600       FRAN«A
+overlay_11_20			18 MAY 1974   SMILING BUDDHA  12          ÕNDIA
+overlay_11_21			11 MAY 1998   SHAKTI I        43          ÕNDIA
+overlay_11_22			13 MAY 1998   SHAKTI II       12          ÕNDIA
+overlay_11_23			28 MAY 1998   CHAGAI-I        9           PAQUIST√O
 
 overlay_12_1			-----------------------------------------
-overlay_12_2			-       BETA TESTERS (P√ÅGINA 1 DE 2)
+overlay_12_2			-       BETA TESTERS (P¡GINA 1 DE 2)
 overlay_12_3			-----------------------------------------\n
 overlay_12_4			ASHLEY 'NEOTHERMIC' PINNER
 overlay_12_5			ALESSANDRO 'FIRESHIP4' PEDRINA MCCARTHY
@@ -1643,14 +1643,14 @@ overlay_12_21			JO STANSFIELD
 overlay_12_22			JOHAN 'ZARKOW' MUNKESTAM
 overlay_12_23			JOSHUA 'MIAH' CLAYTON
 overlay_12_24			JUSTIN 'ATELOPHOBIA' GOTTULA
-overlay_12_25			J√òRGEN 'DIRTY HARRY POTTER' BERTHELSEN
+overlay_12_25			JÿRGEN 'DIRTY HARRY POTTER' BERTHELSEN
 overlay_12_26			KASPER 'AAARGH' MEERTS
 overlay_12_27			LEANDER 'ELDIABLO' HAMBLEY
 overlay_12_28			LUKE HOSCHKE
 overlay_12_29			MARIUSZ 'MANDI^ATO' DANILEWICZ
 
 overlay_13_1			-----------------------------------------
-overlay_13_2			-       BETA TESTERS (P√ÅGINA 2 DE 2)
+overlay_13_2			-       BETA TESTERS (P¡GINA 2 DE 2)
 overlay_13_3			-----------------------------------------\n
 overlay_13_4			MARK 'LLAMABOY' VINE
 overlay_13_5			MICHAEL NICHOLLS
@@ -1663,7 +1663,7 @@ overlay_13_11			PHYDAUX
 overlay_13_12			PIOTR 'THEPIACHU' PIASECKI
 overlay_13_13			PITBEAST
 overlay_13_14			PROZAK
-overlay_13_15			RICHARD 'FALSE' LA CHARIT√â III
+overlay_13_15			RICHARD 'FALSE' LA CHARIT… III
 overlay_13_16			SAM 'MAS' NORRIS
 overlay_13_17			SHAWN 'TRICKFRED' MACIVER
 overlay_13_18			SIMON 'N3O77' SPARKS
@@ -1680,45 +1680,45 @@ overlay_13_28			WOLFLORD
 overlay_13_29			ZACHARY 'XYZYXX' PARKER
 
 overlay_14_1			-----------------------------------------
-overlay_14_2			 - BETA TESTERS DA VERS√ÉO PARA MAC
+overlay_14_2			 - BETA TESTERS DA VERS√O PARA MAC
 overlay_14_3			-----------------------------------------\n
-overlay_14_4            ALASTAIR ‚ÄòPROPHILE‚Äô LYNN
-overlay_14_5            ALEC ‚ÄòHAMSTER‚Äô INGULSRUD
-overlay_14_6            ANDREW ‚ÄòANDCARNE‚Äô CARNE
-overlay_14_7            BOLKO ‚ÄòKRAUTI‚Äô MAASS
+overlay_14_4            ALASTAIR ëPROPHILEí LYNN
+overlay_14_5            ALEC ëHAMSTERí INGULSRUD
+overlay_14_6            ANDREW ëANDCARNEí CARNE
+overlay_14_7            BOLKO ëKRAUTIí MAASS
 overlay_14_8            BRIAN DICK
-overlay_14_9            BRYCE ‚ÄòZOMBAT‚Äô HOMICK
-overlay_14_10           CIAR√ÅN ‚ÄòMONTYPHY‚Äô EATON
-overlay_14_11           DOMINIC ‚ÄòREFRIDGERON‚Äô WHITE
-overlay_14_12           JACK ‚ÄòDASH RANTIC‚Äô CARLSON
-overlay_14_13           JAMES ‚ÄòCONSUL BOB‚Äô GOOCH
-overlay_14_14           JAMES ‚ÄòLASTOF‚Äô TITMUSS
-overlay_14_15           JONAS ‚ÄòFREQ245‚Äô MIRWALD
-overlay_14_16           KIRK ‚ÄòKAUTHOR‚Äô STALEY
-overlay_14_17           MARK ‚ÄòMRXAK‚Äô PETCAVAGE
+overlay_14_9            BRYCE ëZOMBATí HOMICK
+overlay_14_10           CIAR¡N ëMONTYPHYí EATON
+overlay_14_11           DOMINIC ëREFRIDGERONí WHITE
+overlay_14_12           JACK ëDASH RANTICí CARLSON
+overlay_14_13           JAMES ëCONSUL BOBí GOOCH
+overlay_14_14           JAMES ëLASTOFí TITMUSS
+overlay_14_15           JONAS ëFREQ245í MIRWALD
+overlay_14_16           KIRK ëKAUTHORí STALEY
+overlay_14_17           MARK ëMRXAKí PETCAVAGE
 overlay_14_18           MIKE ASH
-overlay_14_19           NATHANIEL ‚ÄòMACKILROY‚Äô PORTER
-overlay_14_20           NICK ‚ÄòNFREADER‚Äô FARLEY
-overlay_14_21           OWEN ‚ÄòMR ED209‚Äô BILLCLIFFE
-overlay_14_22           PER ‚ÄòPV2B‚Äô VON ZWEIGBERGK
+overlay_14_19           NATHANIEL ëMACKILROYí PORTER
+overlay_14_20           NICK ëNFREADERí FARLEY
+overlay_14_21           OWEN ëMR ED209í BILLCLIFFE
+overlay_14_22           PER ëPV2Bí VON ZWEIGBERGK
 overlay_14_23           SOLRA BIZNA
 overlay_14_24           XANDER HENDERSON
 
 overlay_15_1			----------------------------------------
-overlay_15_2			 VERS√ÉO PARA MAC POR AMBROSIA SOFTWARE
+overlay_15_2			 VERS√O PARA MAC POR AMBROSIA SOFTWARE
 overlay_15_3			----------------------------------------\n
-overlay_15_4			MIKE BLAGUSZEWSKI              ADAPTA√á√ÉO
-overlay_15_5			MARCUS CONGE           √çCONE DO PROGRAMA
+overlay_15_4			MIKE BLAGUSZEWSKI              ADAPTA«√O
+overlay_15_5			MARCUS CONGE           ÕCONE DO PROGRAMA
 overlay_15_6			DAVID DUNHAM                      TESTES
 overlay_15_7			EVAN 'SULTAN' SMITH               TESTES
 overlay_15_8			 -PORTABILIDADE ADICIONAL POR
 overlay_15_9			JOSHUA 'MIAH' CLAYTON
 overlay_15_10			STEVEN NOONAN
 overlay_15_11           ----------------------------------------
-overlay_15_12           -          VERS√ÉO PARA LINUX
+overlay_15_12           -          VERS√O PARA LINUX
 overlay_15_13           ----------------------------------------\n
 overlay_15_14           STEVEN NOONAN
 overlay_15_15           JOHN KNOTTENBELT
-overlay_15_16           JOSHUA ‚ÄòMIAH‚Äô CLAYTON\n\n
+overlay_15_16           JOSHUA ëMIAHí CLAYTON\n\n
 overlay_15_17           ----------------------------------------\n
-overlay_15_18           As tradu√ß√£o foi proporcionada por Altieres Lima da Silva.
+overlay_15_18           As traduÁ„o foi proporcionada por Altieres Lima da Silva.
