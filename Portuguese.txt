@@ -103,7 +103,7 @@ dialog_water			Água
 dialog_radiation		Radiação
 dialog_lowdetailworld		Poucos Detalhes
 dialog_objecttrails		Trilhas de Objetos
-dialog_lobbyeffects		Efeitos no Lobby
+dialog_lobbyeffects		Efeitos na Sala de Espera
 
 dialog_waternormal			Normal
 dialog_watershaded			Sombreada
@@ -216,7 +216,7 @@ dialog_keyboardlayout               Distribuição do Teclado
 dialog_zoomnormal                   Normal
 dialog_zoomslow                     Lento
 
-dialog_lobby			LOBBY
+dialog_lobby			SALA DE ESPERA
 dialog_lobby_team_options			Opções de Equipe
 dialog_lobby_advanced_options			Opções Avançadas
 dialog_rename			Alterar Nome
@@ -345,14 +345,14 @@ dialog_alliance_sending			Enviando
 dialog_alliance_cease			Cessar
 dialog_alliance_fire			Fogo
 
-dialog_placeunit			Posicionar Unidade
+dialog_placeunit			Colocar Unidade
 dialog_createfleet			Criar Frota
 
 dialog_credits_1			*C Créditos
 dialog_credits_2			Restantes
 dialog_fleets			Frotas
 dialog_units			Unidades
-dialog_place_fleet			Posicionar frota
+dialog_place_fleet			Colocar frota
 
 dialog_paused			PAUSA
 dialog_gameover			FIM DE JOGO
@@ -744,7 +744,7 @@ dialog_mapr_nukes_in_flight         *N EM VOO
 # N = Número de mísseis nucleares
 
 dialog_style                        Estilo
-dialog_style_editor                 Editor de estilo
+dialog_style_editor                 Editor de Estilo
 dialog_style_primary                primário
 dialog_style_secondary              secundário
 dialog_style_red                    Vermelho
@@ -769,11 +769,11 @@ dialog_style_col_font               Fonte
 # Dicas
 # =============================================================================
 
-tooltip_timeaccel0                  Pausar jogo
-tooltip_timeaccel1                  Executar em tempo real
-tooltip_timeaccel2                  Acelerar o tempo\n(5x tempo real)
-tooltip_timeaccel3                  Acelerar o tempo\n(10x tempo real)
-tooltip_timeaccel4                  Acelerar o tempo\n(20x tempo real)
+tooltip_timeaccel0                  Pausar Jogo
+tooltip_timeaccel1                  Executar em Tempo Real
+tooltip_timeaccel2                  Acelerar o Tempo\n(5x Tempo Real)
+tooltip_timeaccel3                  Acelerar o Tempo\n(10x Tempo Real)
+tooltip_timeaccel4                  Acelerar o Tempo\n(20x Tempo Real)
 
 tooltip_worldstatus_x_faster_realtime       *Sx tempo real
 # S = Número de vezes que a velocidade do jogo é mais rápida do que o tempo real
@@ -794,16 +794,16 @@ tooltip_defcon1                     DEFCON 1\nCombate nuclear autorizado
 
 tooltip_toolbar_whiteboard          Alternar quadro branco
 tooltip_toolbar_whiteboard_disabled O quadro branco está desabilitado devido à versão mais antiga do host
-tooltip_toolbar_radar               Alternar cobertura do Radar
-tooltip_toolbar_pop                 Alternar densidade populacional
-tooltip_toolbar_alliances           Mostrar janela de alianças
-tooltip_toolbar_units               Mostrar painel de unidades
-tooltip_toolbar_score               Mostrar janela de pontuações
-tooltip_toolbar_comms               Mostrar janela de comunicações
-tooltip_toolbar_orders              Alternar ordens
-tooltip_toolbar_info                Mostrar janela de informações da unidade
-tooltip_toolbar_territory           Alternar territórios
-tooltip_toolbar_nukes               Mostrar unidades com armas nucleares
+tooltip_toolbar_radar               Alternar Cobertura do Radar
+tooltip_toolbar_pop                 Alternar Densidade Populacional
+tooltip_toolbar_alliances           Mostrar a Janela de Alianças
+tooltip_toolbar_units               Mostrar o Painel de Unidades
+tooltip_toolbar_score               Mostrar a Janela de Pontuações
+tooltip_toolbar_comms               Mostrar a Janela de Comunicações
+tooltip_toolbar_orders              Alternar Ordens
+tooltip_toolbar_info                Mostrar a Janela de Informações da Unidade
+tooltip_toolbar_territory           Alternar Territórios
+tooltip_toolbar_nukes               Mostrar Unidades com Bombas Nucleares
 
 tooltip_whiteboard_planning         Alternar desenho no quadro branco. Clique esquerdo para desenhar, clique direito para apagar.
 tooltip_whiteboard_eraseall         Apagar tudo desenhado no quadro branco.
@@ -819,11 +819,11 @@ tooltip_gameoption_populationperterritory   O número de pessoas (em milhões) e
 tooltip_gameoption_citypopulations          Controla como a população é distribuída em suas cidades.\n\n- Padrão: As populações das cidades são baseadas nas populações do mundo real.\n\n- Equalizada: Todas as cidades dentro de um território têm a mesma população.\n\n- Aleatória: A população de cada cidade é aleatória, mas as cidades padrão são escolhidas para que suas cidades ainda estejam no mesmo lugar em cada jogo.\n\n- Totalmente aleatória: A população de cada cidade é aleatória, mas, além disso, cidades aleatórias serão escolhidas do banco de dados, o que significa que a posição de suas cidades também será aleatória.
 tooltip_gameoption_randomterritories        Se habilitado, os jogadores receberão territórios escolhidos aleatoriamente no início do jogo.\n\nÚtil para resolver disputas sobre quem será a Europa.
 tooltip_gameoption_maxspectators            Número máximo de pessoas que podem assistir ao jogo.\nAviso: cada espectador usa a largura de banda do servidor.\n\n0=nada\n100=ilimitado.
-tooltip_gameoption_spectatorchatchannel     Controla se os jogadores podem ler as mensagens do chat dos espectadores do jogo. Você pode tornar o canal do espectador privado para impedir que eles ajudem os jogadores.\n\n- Público: Todos os jogadores poderão ouvir o que os espectadores estão dizendo. (padrão)\n\n- Privado: Somente os espectadores poderão ler as mensagens no canal do espectador. Nesse modo, não há como um jogador e um espectador se comunicarem.
+tooltip_gameoption_spectatorchatchannel     Controla se os jogadores podem ler as mensagens do bate-papo dos espectadores do jogo. Você pode tornar o canal do espectador privado para impedir que eles ajudem os jogadores.\n\n- Público: Todos os jogadores poderão ouvir o que os espectadores estão dizendo. (padrão)\n\n- Privado: Somente os espectadores poderão ler as mensagens no canal do espectador. Nesse modo, não há como um jogador e um espectador se comunicarem.
 tooltip_gameoption_teamswitching            Se habilitado, os jogadores poderão mudar de equipe durante o jogo usando as teclas numéricas.\n\nNão recomendado para jogos sérios!
 tooltip_gameoption_permitdefection          Se habilitado, os jogadores poderão trocar de alianças durante o jogo.
-tooltip_gameoption_radarsharing             Controla quando os jogadores podem compartilhar seu radar com outros jogadores.\n\n- Sempre desligado: o compartilhamento de radar não é permitido.\n\n- Aliança: os aliados compartilham automaticamente o radar. (padrão)\n\n- Seletivo: cada jogador pode escolher compartilhar o radar com qualquer outro jogador (aliado ou não).\n\n- Sempre ligado: o compartilhamento de radar está habilitado para todos. Este é um modo "iniciante" muito útil, pois você pode ver todas as unidades dos oponentes o tempo todo.
-tooltip_gameoption_gamespeed                A configuração de velocidade para este jogo.\nA velocidade mais lenta solicitada é a mais lenta selecionada por qualquer jogador.
+tooltip_gameoption_radarsharing             Controla quando os jogadores podem compartilhar seu Radar com outros Jogadores.\n\n- Sempre desligado: o compartilhamento de radar não é permitido.\n\n- Aliança: os aliados compartilham automaticamente o radar. (padrão)\n\n- Seletivo: cada jogador pode escolher compartilhar o radar com qualquer outro jogador (aliado ou não).\n\n- Sempre ligado: o compartilhamento de radar está habilitado para todos. Este é um modo "iniciante" muito útil, pois você pode ver todas as unidades dos oponentes o tempo todo.
+tooltip_gameoption_gamespeed                A configuração de velocidade para este jogo.\nA velocidade mais lenta olicitada é a mais lenta selecionada por qualquer jogador.
 tooltip_gameoption_slowestspeed             A velocidade mais lenta que este jogo pode funcionar. Se a pausa for escolhida, qualquer jogador pode pausar o jogo usando a barra de velocidade do jogo.
 tooltip_gameoption_enableworldevents        Se habilitado, eventos aleatórios ocorrerão durante o jogo.
 tooltip_gameoption_gamemode                 Controla as regras que regem o jogo.
@@ -861,17 +861,17 @@ tooltip_ceasefire_disable                   Suas unidades militares considerarã
 tooltip_radarshare_enable                   Sua cobertura de radar será enviada para esta equipe, e eles verão tudo o que você vê.\nObservação: Seus submarinos permanecerão ocultos desde que estejam submersos.
 tooltip_radarshare_disable                  Você deixará de enviar cobertura de radar para esta equipe. Eles não poderão mais ver o que você vê.
 
-tooltip_place_silo                          Colocar silo
-tooltip_place_radar                         Colocar estação de radar
-tooltip_place_airbase                       Colocar base aérea
-tooltip_place_battleship                    Adicionar encouraçado à frota
-tooltip_place_sub                           Adicionar submarino à frota
-tooltip_place_carrier                       Adicionar porta-aviões à frota
-tooltip_place_unit                          Colocar unidade aqui
-tooltip_place_fleet                         Colocar frota aqui
-tooltip_fleet_button                        Construir uma frota
-tooltip_fleet_remove                        Remover esta unidade da frota
-tooltip_fleet_place                         Colocar esta frota
+tooltip_place_silo                          Colocar Silo
+tooltip_place_radar                         Colocar Estação de Radar
+tooltip_place_airbase                       Colocar Base Aérea
+tooltip_place_battleship                    Adicionar Encouraçado à Frota
+tooltip_place_sub                           Adicionar Submarino à Frota
+tooltip_place_carrier                       Adicionar Porta-aviões à Frota
+tooltip_place_unit                          Colocar Unidade Aqui
+tooltip_place_fleet                         Colocar Frota Aqui
+tooltip_fleet_button                        Construir uma Frota
+tooltip_fleet_remove                        Remover esta Unidade da Frota
+tooltip_fleet_place                         Colocar esta Frota
 
 tooltip_territory_northamerica              América do Norte
 tooltip_territory_southamerica              América do Sul
