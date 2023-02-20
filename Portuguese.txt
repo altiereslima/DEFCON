@@ -674,7 +674,7 @@ dialog_network_synching             Sincronizando...*P
 # P = Porcentagem de conclusão da sincronização
 dialog_network_ping                 Ping *Pms
 # P = Tempo de ping em milissegundos
-dialog_network_spec                 (espectador)
+dialog_network_spec                 (especificações)
 dialog_network_empty                Vazio
 dialog_network_sequence_msg_queue   Mensagens de sequência na fila. O ideal é 0 ou 1 preenchido, sem lacunas.
 dialog_network_svr_known_seqid      Sequência conhecida do servidor  SeqID   *S
