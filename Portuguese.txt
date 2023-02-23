@@ -175,11 +175,11 @@ dialog_bad_key_title			ERRO NA AUTENTICAÇÃO
 dialog_authkey_not_found			não foi encontrada a chave de autenticação
 dialog_meta_server_details			\n\nPor favor, visita esta URL para ativar sua chave:\nMETASERVER.INTROVERSION.CO.UK
 dialog_not_permitted_start_game			Não pode iniciar uma nova partida\nporque não foi possível autenticar sua chave.\n\n\nCHAVE  : *K\nERRO: *E\n*M
-# K = Chave de Autenticação, E = Mensagem de Erro, M = Mensagem
+# K = Auth Key, E = Error Message, M = Message
 dialog_not_permitted_join_game			Não pode se unir a uma partida\nporque não foi possível autenticar sua chave.\n\nCHAVE : *K\nERRO: *E\n
-# K = Chave de Autenticação, E = Mensagem de Erro
+# K = Auth Key, E = Error Message
 dialog_auth_error			Erro de Autenticação\n*E\n\nChave: *K\n
-# K = Chave de Autenticação, E = Mensagem de Erro
+# K = Auth Key, E = Error Message
 dialog_type_authkey_or_demo_1			Por favor, digite sua Chave de Autenticação
 dialog_type_authkey_or_demo_2			ou aperte em Jogar a Demo
 dialog_auth_status			ESTADO DA AUTENTICAÇÃO
@@ -430,7 +430,7 @@ dialog_metaserver_failedtitle			NÃO FOI POSSÍVEL CONECTAR COM O METASERVIDOR
 dialog_metaserver_failedconnect			O Defcon não pôde se conectar com o MetaServidor.\nIsto significa que não poderá recuperar as listagens de servidor,\nnem acrescentar à lista seu próprio servidor de jogo.\n\nVerifique se a conexão com a internet está funcionando e tente desabilitar\nos Firewalls e as Ferramentas de rede que possam estar executando.\n\nÉ necessário que o Defcon disponha de acesso as seguintes portas:\n5009 UDP (saída)\n5009 UDP (entrada)\n\nPara receber mais ajuda consulte o nosso guia de resolução de problemas:\nhttp://www.everybody-dies.com/support/
 
 dialog_client_failedtitle			ERRO NA REDE
-dialog_client_failedconnect			Defcon não pôde abrir um Listener de Rede para o Cliente.\nIsso significa que você não poderá participar de nenhum jogo,\nnem criá-lo.\n\nTente desabilitar\no Firewall e o resto das Ferramentas de Rede que você pode estar executando.\n\nPara obter mais ajuda, consulte nossa guia de solução de problemas:\n
+dialog_client_failedconnect			Defcon não pôde abrir um Ouvinte de Rede para o Cliente.\nIsso significa que você não poderá participar de nenhum jogo,\nnem criá-lo.\n\nTente desabilitar\no Firewall e o resto das Ferramentas de Rede que você pode estar executando.\n\nPara obter mais ajuda, consulte nossa guia de solução de problemas:\n
 
 dialog_server_failedtitle			NÃO FOI POSSÍVEL INICIAR O SERVIDOR
 dialog_server_failedconnect			O DEFCON não foi capaz de iniciar um servidor.\nIsso ocorre porque as conexões de rede necessárias não estão disponíveis.\n\nTente desabilitar\no Firewall e o resto das Ferramentas de Rede que você pode estar executando.\n\nPara obter mais ajuda, consulte nossa guia de solução de problemas:\n
@@ -504,13 +504,13 @@ dialog_play_demo                    Jogar Demo
 dialog_buy_now                      Comprar Agora
 dialog_buy_now_caps                 COMPRAR AGORA
 dialog_exit_game_time               Sair do Jogo (*T)
-# T = Tempo restante
+# T = Remaining time
 dialog_exit_game                    Sair do Jogo
 dialog_welcome_to_demo_defcon       Bem-vindo ao DEMO do Defcon.
 dialog_demo_player_limited          Você pode criar um jogo multijogador\nmas estará limitado a no máximo *P jogadores.\nNo JOGO COMPLETO, você pode ter até 6 jogadores.\n\n
 # P = Número de Jogadores
 dialog_demo_player_join_limited     Você pode entrar em um jogo multijogador existente\nmas apenas se houver menos de *P jogadores DEMO\njá conectados.
-# P = Número de Jogadores
+# P = Number of Players
 dialog_demo_spectate_any_game       \n\nVocê pode assistir qualquer jogo.
 
 dialog_server_browser               Navegador de Servidores
@@ -518,39 +518,39 @@ dialog_server_password              Senha do Servidor
 dialog_enter_ip_manually            Digite o IP manualmente
 dialog_filters                      Filtros
 dialog_server_details               Servidor  *I : *P
-# I = Endereço IP, P = porta
+# I = Ip Address, P = port
 dialog_server_version_mismatch      Você não pode entrar neste servidor de jogo.\n\nEles estão executando uma versão diferente da sua\ne as versões não são compatíveis.\n\n\nSua versão   : *V\nVersão deles : *T
-# V = Sua versão, T = Versão deles
+# V = Your version, T = Their version
 dialog_cannot_join_server           Não é possível entrar no servidor
 dialog_no_join_mods_not_installed   Você não pode entrar neste servidor de jogo.\n\nEles estão executando MODs que você não tem instalado.\nEsses MODs são necessários:\n\n*R\n\nVocê pode baixar MODs em\n
-# R = Motivo
+# R = Reason
 dialog_no_join_own_game             Você não pode entrar neste servidor de jogo.\n\nEste é o seu próprio servidor de jogo e você já está\nconectado a ele.
 dialog_requesting                   Solicitando...
 dialog_refresh_number_server        Atualizar (*S)
-# S = Número de Servidores
+# S = Number of Servers
 dialog_server_demo_restricted       Este servidor está PROIBIDO PARA DEMOS.\n\nIsso significa que já existem muitos jogadores de demonstração conectados ao jogo ou o jogo está sendo executado em um modo avançado.\n\nSe você deseja participar de jogos deste tamanho, será necessário comprar o jogo completo.\n\nJogadores de demonstração máximos por jogo: *N
-# N = Tamanho Máximo do Jogo de Demonstração
+# N = Max Demo Game Size
 dialog_number_server_found          *N servidor(es) encontrado(s)
-# N = Número de Servidores Encontrados
+# N = Number Server Found
 dialog_retrieving_server_list       Obtendo Lista de Servidores...
 dialog_net_location_lan             *I:*P [LAN]
-# I = Endereço IP, P = porta
+# I = Ip Address, P = port
 dialog_game_ended                   (encerrado)
 dialog_demo_game_mode               demo
 dialog_mod_base_number_more         *M (*N mais)
-# M = Base do Mod, N = Número de Mods Restantes
+# M = Mod base, N = Number of Remaining Mods
 dialog_server_name_incompatible     *S [INCOMPATÍVEL]
-# S = Nome do Servidor
+# S = Server Name
 dialog_server_name_mods_required    *S [MODS REQUERIDOS]
-# S = Nome do Servidor
+# S = Server Name
 dialog_server_name_your_server      *S [SEU SERVIDOR]
-# S = Nome do Servidor
+# S = Server Name
 dialog_server_name_demo_restricted  *S [PROIBIDO PARA DEMOS]
-# S = Nome do Servidor
+# S = Server Name
 dialog_server_name_full             *S [COMPLETO]
-# S = Nome do Servidor
+# S = Server Name
 dialog_server_name_not_responding   *S [NÃO RESPONDENDO]
-# S = Nome do Servidor
+# S = Server Name
 dialog_connected_recently           (Conectado Recentemente)
 dialog_server_browser_teams         Equipes
 dialog_server_browser_specs         Especificações
@@ -572,10 +572,10 @@ dialog_server_ip                    Endereço IP do Servidor
 dialog_server_port                  Porta do Servidor
 dialog_single_player_games          Jogos de um Jogador
 dialog_demo_games                   Jogos de Demonstração
-dialog_default_named_servers        Servidores Nomeados Padrão
-dialog_show_single_player_games     Mostrar jogos de um jogador
-dialog_show_demo_games              Mostrar jogos de demonstração
-dialog_show_default_named_games     Mostrar servidores nomeados padrão
+dialog_default_named_servers        Servidores com Nomes Padrões
+dialog_show_single_player_games     Jogos de Um Jogador
+dialog_show_demo_games              Jogos de demonstração
+dialog_show_default_named_games     Jogos com Nomes Padrões
 dialog_server_name                  Nome
 dialog_server_identity_address      Identidade
 dialog_server_game_name             Jogo
@@ -587,7 +587,7 @@ dialog_server_not_yet_started       [ainda não iniciado]
 dialog_spectators                   Espectadores
 dialog_server_game_time             Tempo de Jogo
 dialog_server_scores                Pontuações
-dialog_retrieving_scores            Obtendo Pontuações
+dialog_retrieving_scores            Obtendo Pontuações...
 
 dialog_disconnected                 Desconectado
 dialog_disconnect_client_leave      Você saiu do jogo
@@ -597,8 +597,8 @@ dialog_disconnect_duplicate_key     Você está usando uma chave duplicada
 dialog_disconnect_key_auth_failed   Falha na autenticação da chave
 dialog_disconnect_bad_password      Senha inválida digitada
 dialog_disconnect_game_full         O jogo já está cheio
-dialog_disconnect_kicked_from_game  Expulso pelo servidor
-dialog_disconnect_demo_full         Muitos jogadores de demonstração
+dialog_disconnect_kicked_from_game  Expulso pelo Servidor
+dialog_disconnect_demo_full         Muitos Jogadores de Demonstração
 dialog_disconnect_unknown           Desconhecido
 
 dialog_chat_public                  Público
@@ -609,7 +609,7 @@ dialog_chat_channel_alliance        [aliança]
 dialog_chat_channel_spectators      [espectadores]
 dialog_chat_channel_private         [privado]
 dialog_chat_channel_to_team_name    [para *T]
-# T = Nome da equipe
+# T = Team Name
 
 dialog_white_board_draw_erase       desenhar/apagar
 dialog_white_board_clear_all        limpar tudo
@@ -617,19 +617,19 @@ dialog_white_board_show_all         mostrar tudo
 
 dialog_worldstatus_defcon           DEFCON
 dialog_worldstatus_defcon_x         DEFCON *D
-# D = Nível de Defcon
+# D = Defcon level
 dialog_worldstatus_time_remain_hms  Tempo restante: *Hh *Mm *Ss
-# H = Horas, M = Minutos, S = Segundos
+# H = Hours, M = Minutes, S = Seconds
 dialog_worldstatus_time_remain_ms   Tempo restante: *Mm *Ss
-# M = Minutos, S = Segundos
+# M = Minutes, S = Seconds
 dialog_worldstatus_show_stats       Mostrar estatísticas
 dialog_worldstatus_scoremode        Modo de pontuação
 dialog_worldstatus_cpu_team_name    [CPU]*T
-# T = Nome da equipe
+# T = Team Name
 dialog_worldstatus_left_team_name   [SAIU]*T
-# T = Nome da equipe
+# T = Team Name
 dialog_worldstatus_demo_team_name   [DEMO]*T
-
+# T = Team Name
 dialog_worldstatus_out_of_sync      Dessincronizado
 dialog_worldstatus_out_of_sync_2    dessincronizado
 dialog_worldstatus_spectator_join   Espectador (entrando...)
@@ -642,7 +642,7 @@ dialog_worldstatus_nukes            Bombas
 dialog_worldstatus_score            PONTUAÇÃO
 dialog_worldstatus_points_value     Valor dos pontos:
 dialog_worldstatus_pop_in_millions  *P m
-# P = População em milhões
+# P = Population in millions
 dialog_worldstatus_classified       [classificado]
 dialog_stats                        Estatísticas
 
@@ -650,43 +650,43 @@ dialog_casualties_city              Cidade
 dialog_casualties_strikes           Ataques
 dialog_casualties_deaths            Mortes
 dialog_casualties_in_million        *C milhões
-# C = Baixas em milhões
+# C = Casualties in Million
 
 dialog_network_title                Rede
 dialog_network_server_seqid         SeqID do Servidor   *S
 # S = Sequência do servidor
-dialog_network_server_send          Envio do Servidor   *R Kb/seg.
-# R = Taxa de envio
-dialog_network_server_receive       Recepção do Servidor *R Kb/seg.
-# R = Taxa de recepção
+dialog_network_server_send          Servidor Envia   *R Kb/seg.
+# R = Send Rate
+dialog_network_server_receive       Servidor Recebe *R Kb/seg.
+# R = Receive Rate
 dialog_network_id                   ID
 dialog_network_ip_port              IP:Porta
 dialog_network_seqid                SeqID
 dialog_network_seqid_number         SeqID *S
 # S = Sequence Id
 dialog_network_name                 Nome
-dialog_network_status               Status
+dialog_network_status               Estado
 dialog_network_lost_con             Conexão perdida...*Ss
-# S = Número de segundos desde que a conexão foi perdida
+# S = Number of seconds since the connection was lost
 dialog_network_synching             Sincronizando...*P
-# P = Porcentagem de conclusão da sincronização
+# P = Percentage done Synching
 dialog_network_ping                 Ping *Pms
-# P = Tempo de ping em milissegundos
+# M = Ping time in miniseconds
 dialog_network_spec                 (especificações)
 dialog_network_empty                Vazio
 dialog_network_sequence_msg_queue   Mensagens de sequência na fila. O ideal é 0 ou 1 preenchido, sem lacunas.
 dialog_network_svr_known_seqid      Sequência conhecida do servidor  SeqID   *S
-# S = ID de sequência
+# S = Sequence Id
 dialog_network_svr_estimated_seqid  Sequência estimada do servidor SeqID   *S
-# S = ID de sequência
+# S = Sequence Id
 dialog_network_estimated_latency    Latência estimada: *L segs
-# L = Latência estimada
+# L = Estimated Latency
 dialog_network_client_seqid         ID de sequência do cliente       *S
-# S = ID de sequência
+# S = Sequence Id
 dialog_network_client_send          Enviar do cliente        *R Kb/seg
-# R = Taxa de envio
+# R = Send Rate
 dialog_network_client_receive       Receber do cliente     *R Kb/seg
-# R = Taxa de recebimento
+# R = Receive Rate
 
 dialog_profile_title                Perfil
 dialog_profile_toggle_glfinish      Alternar glFinish
@@ -696,50 +696,50 @@ dialog_profile_avg                  Méd
 dialog_profile_max                  Máx
 
 dialog_c2s_team_renamed             *T renomeado para *N
-# T = Nome antigo da equipe, N = Novo nome da equipe
+# T = Team Name Old, N = Team Name New
 dialog_c2s_team_joined_game         *T entrou no jogo
-# T = Nome da equipe
+# T = Team Name
 dialog_c2s_default_name_spectator   Espectador
 dialog_c2s_default_name_player      Jogador *T
 # T = Team Id
 
 dialog_world_new_spec_connecting    Um novo espectador está se conectando
 dialog_world_team_left_game         *T saiu do jogo
-# T = Nome da equipe
+# T = Team Name
 dialog_world_spec_left_game         Espectador *T saiu do jogo
-# T = Nome da equipe
+# T = Team Name
 dialog_world_rejoined               *T ENTROU NOVAMENTE
-# T = Nome da equipe
+# T = Team Name
 dialog_world_disconnected           *T SE DESCONECTOU
-# T = Nome da equipe
+# T = Team Name
 dialog_world_dropped                *T PERDEU A CONEXÃO
-# T = Nome da equipe
+# T = Team Name
 dialog_world_kicked                 *T FOI EXPULSO
-# T = Nome da equipe
+# T = Team Name
 
 dialog_mapr_fps                     *Ffps
-# F = Quadros por segundo (fps)
+# F = Frame per seconds (fps)
 dialog_mapr_city_population         POPULAÇÃO: *P MILHÕES
-# P = População da cidade
+# P = City Population
 dialog_mapr_city_dead               MORTOS: *D MILHÕES
-# D = População morta da cidade
+# D = City Dead Population
 dialog_mapr_mode                    *M MODO
-# M = Estado atual
+# M = Current State
 dialog_mapr_secs                    *S SEGUNDOS
-# S = Segundos
+# S = Seconds
 dialog_mapr_empty                   VAZIO
 dialog_mapr_cancel_all_orders       CANCELAR TODOS OS PEDIDOS
 dialog_mapr_not_before_defcon_x     NÃO ANTES DO DEFCON *D
-# D = Nível de Defcon
+# D = Defcon level
 dialog_mapr_defcon_x_required       DEFCON *D OBRIGATÓRIO
-# D = Nível de Defcon
+# D = Defcon level
 dialog_mapr_out_of_range            FORA DE ALCANCE
 dialog_mapr_combat_range            ALCANCE DE COMBATE
 dialog_mapr_fuel_range              ALCANCE DE COMBUSTÍVEL
 dialog_mapr_nukes_in_queue          *N NA FILA
-# N = Número de mísseis nucleares
+# N = Number of Nukes
 dialog_mapr_nukes_in_flight         *N EM VOO
-# N = Número de mísseis nucleares
+# N = Number of Nukes
 
 dialog_style                        Estilo
 dialog_style_editor                 Editor de Estilo
@@ -750,7 +750,7 @@ dialog_style_green                  Verde
 dialog_style_blue                   Azul
 dialog_style_alpha                  Alfa
 dialog_style_colour_editor          Editor de Cor *I *P
-# I = Índice real, P = Primário (0/1)
+# I = Real Index, P = Primary (0/1)
 dialog_style_failed_load_style      Falha ao carregar estilo\n
 dialog_style_style_saved            Estilo salvo em\n
 dialog_style_failed_save_style      Falha ao salvar estilo em\n
@@ -764,17 +764,17 @@ dialog_style_col_font               Fonte
 
 
 # =============================================================================
-# Dicas
+# Tooltips
 # =============================================================================
 
-tooltip_timeaccel0                  Pausar Jogo
+tooltip_timeaccel0                  Pausar o Jogo
 tooltip_timeaccel1                  Executar em Tempo Real
 tooltip_timeaccel2                  Acelerar o Tempo\n(5x Tempo Real)
 tooltip_timeaccel3                  Acelerar o Tempo\n(10x Tempo Real)
 tooltip_timeaccel4                  Acelerar o Tempo\n(20x Tempo Real)
 
 tooltip_worldstatus_x_faster_realtime       *Sx tempo real
-# S = Número de vezes que a velocidade do jogo é mais rápida do que o tempo real
+# S = Number of time the game speed is faster than Realtime
 tooltip_worldstatus_key_shortcut_0          \nAtalho de teclado: 0\n
 tooltip_worldstatus_key_shortcut_1          \nAtalho de teclado: 1\n
 tooltip_worldstatus_key_shortcut_2          \nAtalho de teclado: 2\n
@@ -891,7 +891,7 @@ tooltip_lobby_demo_max_player               Você está jogando uma demonstração -
 tooltip_lobby_click_open_slot               Clique para abrir este espaço para que mais jogadores possam entrar
 tooltip_lobby_click_close_slot              Clique para fechar este espaço e impedir que os jogadores entrem
 tooltip_lobby_address_port                  IP: *I\nPORTA:*P
-# I = endereço IP, P = porta
+# I = IP address, P = Port
 
 tooltip_chat_public                         Canal público. Todos os jogadores podem ver as mensagens aqui
 tooltip_chat_alliance                       Canal da aliança. Somente membros da sua aliança podem ver mensagens aqui
@@ -1044,7 +1044,7 @@ style_FontPopup                     Fonte de Mensagens Emergentes
 
 
 # =============================================================================
-# Nomes das Unidades
+# Unit names
 # =============================================================================
 
 unit_silo                           silo
@@ -1063,7 +1063,7 @@ unit_explosion                      explosão
 
 
 # =============================================================================
-# Estados das Unidades
+# Unit States
 # =============================================================================
 
 state_preparing                     PREPARANDO PARA
@@ -1097,11 +1097,11 @@ message_multilaunch                 Lançamentos Detectados
 message_firstlaunch                 *T lançamento Detectado
 message_incursion                   Incursões em território Inimigo não permitidas
 message_destroyed                   *U destruído
-# V = equipe vítima, U = unidade destruída, T = equipe atacante, A = unidade atacante
+# V = victim team, U = destroyed unit, T = attacking team, A = attacking unit
 
 message_directhit                   *C atingiu, *Dm mortos
 message_fallout                     chuva radioativa em *C, *Dm mortos
-# C = nome da cidade, D = número de mortos
+# C = city name, D = number of deaths
 
 details_fuel                        COMBUSTÍVEL
 
@@ -1116,10 +1116,10 @@ message_disarmed                    Míssil Desativado
 message_alliance_join               *P entra na aliança *N
 message_alliance_kicked             *P expulso da aliança *N
 message_alliance_leave              *P sai da aliança *N
-# P = nome do jogador, N = nome da aliança
+# P = player name, N = alliance name
 
 message_invalid_action              NÃO ANTES DO DEFCON *D
-# D = nível do DEFCON
+# D = Defcon level
 
 message_ten_minute_warning          AVISO DE DEZ MINUTOS
 message_victory_timer               CRONÔMETRO DE VITÓRIA INICIADO
@@ -1132,7 +1132,7 @@ tray_icon_enemy_subs_detected       Submarinos Inimigos Detectados
 
 
 # =============================================================================
-# Probabilidades de Ataque em Combate
+# Combat Attack Odds
 # =============================================================================
 
 odds_zero                           probabilidades de ataque: zero
@@ -1168,16 +1168,16 @@ tutorial_restart_mission            Reiniciar Missão
 tutorial_missioncomplete            MISSÃO CONCLUÍDA
 tutorial_missionfailed              MISSÃO FRACASSADA
 tutorial_mission                    MISSÃO *X
-# X = número da missão
+# X = mission number
 tutorial_team_name_cpu              CPU Inimiga
 tutorial_team_name_player           Jogador
 
 tutorial_restart                    Reiniciar
 tutorial_next                       Próximo
 tutorial_chapter_desc               CAPÍTULO *C de 7 - *N
-# C = número do capítulo, N = nome do capítulo
+# C = Chapter Number, N = Chapter Name
 tutorial_level                      Nível *L
-# L = número do nível
+# L = Level Number
 
 tutorial_levelname_1                Lançando armas nucleares
 tutorial_levelname_2                Defesa aérea
@@ -1496,9 +1496,9 @@ overlay_5_1			-----------------------------------------------------------------
 overlay_5_2			EFEITOS DA EXPOSIÇÃO À RADIAÇÃO SOBRE A FISIOLOGIA HUMANA
 overlay_5_3			-----------------------------------------------------------------\n
 overlay_5_4			-MENOS DE 1 SV (50-100 REM)
-overlay_5_5			ENFERMIDADE POR RADIAÇÃO LEVE ACOMPANHADA DE DOR DE CABEÇA E UM MAIOR RISCO DE
-overlay_5_6			INFECÇÃO DEVIDO A ALTERAÇÃO DAS CÉLULAS DO SISTEMA IMUNOLÓGICO. É POSSÍVEL QUE SE
-overlay_5_7			PRODUZA UMA ESTERILIDADE TEMPORAL NO HOMEM.\n
+overlay_5_5			ENFERMIDADE POR RADIAÇÃO LEVE ACOMPANHADA DE DOR DE CABEÇA E UM MAIOR RISCO
+overlay_5_6			DE INFECÇÃO DEVIDO A ALTERAÇÃO DAS CÉLULAS DO SISTEMA IMUNOLÓGICO. É POSSÍVEL
+overlay_5_7			QUE SE PRODUZA UMA ESTERILIDADE TEMPORAL NO HOMEM.\n
 overlay_5_8			1-2 SV (1OO-2OO REM)       (LEVE)      MORTALIDADE DE 1O% DEPOIS DE 30 DIAS
 overlay_5_9			2-3 SV (2OO-3OO REM)       (MODERADA)  MORTALIDADE DE 35% DEPOIS DE 30 DIAS
 overlay_5_10			3-4 SV (3OO-4OO REM)       (GRAVE)     MORTALIDADE DE 5O% DEPOIS DE 30 DIAS
