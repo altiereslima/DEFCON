@@ -396,28 +396,28 @@ dialog_steam_error_edenyincompatiblesoftware			Está executando um software que n
 dialog_steam_error_edenygeneric			O servidor interrompeu a conexão com o cliente
 dialog_steam_error_unknown			Desconhecido
 
-dialog_steam_progress_not_started			Não Iniciado
-dialog_steam_progress_started			Iniciado
-dialog_steam_progress_starting_steam			Iniciando Steam
-dialog_steam_progress_starting_steam_api			Iniciando API da Steam
-dialog_steam_progress_logging_on_to_steam			Iniciando Sessão na Steam
-dialog_steam_progress_getting_steam_id			Obtendo o Id. da Steam
-dialog_steam_progress_getting_encryption_details			Obtendo Detalhes de Criptografia
-dialog_steam_progress_getting_steam2_auth			Obtendo Autenticação Steam2
-dialog_steam_progress_getting_steam3_auth			Obtendo Autenticação Steam3
-dialog_steam_progress_requesting_authentication			Solicitando Autenticação
-dialog_steam_progress_success			Êxito
-dialog_steam_progress_success_demo			Êxito (Demo)
-dialog_steam_progress_failed			Erro
+dialog_steam_progress_not_started                   Não Iniciado
+dialog_steam_progress_started                       Iniciado
+dialog_steam_progress_starting_steam                Iniciando Steam
+dialog_steam_progress_starting_steam_api            Iniciando API da Steam
+dialog_steam_progress_logging_on_to_steam           Iniciando Sessão na Steam
+dialog_steam_progress_getting_steam_id              Obtendo o Id. da Steam
+dialog_steam_progress_getting_encryption_details    Obtendo Detalhes de Criptografia
+dialog_steam_progress_getting_steam2_auth           Obtendo Autenticação Steam2
+dialog_steam_progress_getting_steam3_auth           Obtendo Autenticação Steam3
+dialog_steam_progress_requesting_authentication     Solicitando Autenticação
+dialog_steam_progress_success                       Sucesso
+dialog_steam_progress_success_demo                  Sucesso (Demo)
+dialog_steam_progress_failed                        Erro
 
 dialog_warning			Atenção
 
 dialog_enterpassword			Introduzir Senha do Servidor
 dialog_setpassword			Definir Senha do Servidor (deixe em branco para que não haja senha)
 
-dialog_resync_title			Resincronizar
-dialog_resync_button			Resincronizar
-dialog_resync_caption			Sua partida perdeu a Sincronização com outros jogadores.\n\nAperte o botão Resincronizar para tentar solucionar erro.\n\nÉ possível que leve vários minutos.
+dialog_resync_title			Ressincronizar
+dialog_resync_button			Ressincronizar
+dialog_resync_caption			Sua partida perdeu a Sincronização com outros jogadores.\n\nAperte o botão Ressincronizar para tentar solucionar erro.\n\nÉ possível que leve vários minutos.
 
 team_unassigned			Sem atribuir
 team_ai			Jogador IA
@@ -457,28 +457,28 @@ dialog_state_receiving			RECEBENDO...
 dialog_state_received			RECEBIDO
 dialog_state_synchronising		SINCRONIZANDO...
 dialog_state_synchronised		SINCRONIZADO
-dialog_state_time_remaining		TEMPO RESTANTE : *M.*S
+dialog_state_time_remaining		TEMPO RESTANTE: *M.*S
 # M = Minutes, S = Seconds
 
-dialog_toolbar_units			unidades
-dialog_toolbar_allies			aliados
-dialog_toolbar_comms			com.
-dialog_toolbar_scores			pontuações
-dialog_toolbar_radar			radar
-dialog_toolbar_people			população
-dialog_toolbar_orders			ordens
-dialog_toolbar_territory		território
-dialog_toolbar_nukes			bombas
-dialog_toolbar_white_board		quadro de avisos
-dialog_toolbar_info			informação
+dialog_toolbar_units                unidades
+dialog_toolbar_allies               aliados
+dialog_toolbar_comms                com.
+dialog_toolbar_scores               pontuações
+dialog_toolbar_radar                radar
+dialog_toolbar_people               população
+dialog_toolbar_orders               ordens
+dialog_toolbar_territory            território
+dialog_toolbar_nukes                bombas
+dialog_toolbar_white_board          quadro de avisos
+dialog_toolbar_info                 informação
 
-dialog_mod			Mods
-dialog_mod_commit_title			CARREGANDO MODS...
-dialog_mod_commit_mod_path		Estabelecendo o caminho do MOD...\n
-dialog_mod_commit_activating_mod	Ativando o mod '*N *V'\n
+dialog_mod                          Mods
+dialog_mod_commit_title             CARREGANDO MODS...
+dialog_mod_commit_mod_path          Estabelecendo o caminho do MOD...\n
+dialog_mod_commit_activating_mod    Ativando o mod '*N *V'\n
 # N = MOD name, V = version
-dialog_mod_commit_all_mods_off		Todos os MODs foram desativados
-dialog_mod_error			ERRO
+dialog_mod_commit_all_mods_off      Todos os MODs foram desativados
+dialog_mod_error                    ERRO
 dialog_mod_no_arrangement_change    Você não pode mudar a ordem dos mods CRÍTICOS\nenquanto um jogo está em andamento.
 dialog_mod_not_installed            (NÃO INSTALADO)
 dialog_mod_active                   ativo
@@ -589,7 +589,6 @@ dialog_server_game_time             Tempo de Jogo
 dialog_server_scores                Pontuações
 dialog_retrieving_scores            Obtendo Pontuações
 
-
 dialog_disconnected                 Desconectado
 dialog_disconnect_client_leave      Você saiu do jogo
 dialog_disconnect_server_shutdown   O servidor foi desligado
@@ -631,8 +630,8 @@ dialog_worldstatus_left_team_name   [SAIU]*T
 # T = Nome da equipe
 dialog_worldstatus_demo_team_name   [DEMO]*T
 
-dialog_worldstatus_out_of_sync      Desincronizado
-dialog_worldstatus_out_of_sync_2    desincronizado
+dialog_worldstatus_out_of_sync      Dessincronizado
+dialog_worldstatus_out_of_sync_2    dessincronizado
 dialog_worldstatus_spectator_join   Espectador (entrando...)
 dialog_worldstatus_superpower       Superpotência
 dialog_worldstatus_kills            Mortes
@@ -662,7 +661,6 @@ dialog_network_server_receive       Recepção do Servidor *R Kb/seg.
 # R = Taxa de recepção
 dialog_network_id                   ID
 dialog_network_ip_port              IP:Porta
-
 dialog_network_seqid                SeqID
 dialog_network_seqid_number         SeqID *S
 # S = Sequence Id
@@ -751,7 +749,7 @@ dialog_style_red                    Vermelho
 dialog_style_green                  Verde
 dialog_style_blue                   Azul
 dialog_style_alpha                  Alfa
-dialog_style_colour_editor          Editor de cor *I *P
+dialog_style_colour_editor          Editor de Cor *I *P
 # I = Índice real, P = Primário (0/1)
 dialog_style_failed_load_style      Falha ao carregar estilo\n
 dialog_style_style_saved            Estilo salvo em\n
@@ -759,7 +757,7 @@ dialog_style_failed_save_style      Falha ao salvar estilo em\n
 dialog_style_col_primary            Primário
 dialog_style_col_secondary          Secundário
 dialog_style_col_horiz              Horiz
-dialog_style_col_ngtive             Ngtive
+dialog_style_col_ngtive             Ngtivo
 dialog_style_col_caps               Inv.
 dialog_style_col_size               Tamanho
 dialog_style_col_font               Fonte
@@ -810,7 +808,7 @@ tooltip_whiteboard_eraseall         Apagar tudo desenhado no quadro branco.
 tooltip_whiteboard_showall          Alternar entre mostrar todos os quadros brancos das alianças ou somente o seu próprio.
 
 tooltip_gameoption_servername               Digite o nome do seu servidor de jogo que você deseja que outros jogadores vejam.
-tooltip_gameoption_advertiseoninternet      Se ativado, o seu jogo será anunciado no MetaServer e outros jogadores da Internet poderão se juntar ao seu jogo.
+tooltip_gameoption_advertiseoninternet      Se ativado, o seu jogo será anunciado no MetaServidor e outros jogadores da Internet poderão se juntar ao seu jogo.
 tooltip_gameoption_advertiseonlan           Se ativado, o seu jogo será visível para outros jogadores na mesma rede local (LAN).
 tooltip_gameoption_maxteams                 O número máximo de jogadores que podem participar do seu jogo.
 tooltip_gameoption_territoriesperteam       O número de territórios que cada jogador possuirá durante o jogo.
@@ -823,7 +821,7 @@ tooltip_gameoption_spectatorchatchannel     Controla se os jogadores podem ler a
 tooltip_gameoption_teamswitching            Se habilitado, os jogadores poderão mudar de equipe durante o jogo usando as teclas numéricas.\n\nNão recomendado para jogos sérios!
 tooltip_gameoption_permitdefection          Se habilitado, os jogadores poderão trocar de alianças durante o jogo.
 tooltip_gameoption_radarsharing             Controla quando os jogadores podem compartilhar seu Radar com outros Jogadores.\n\n- Sempre desligado: o compartilhamento de radar não é permitido.\n\n- Aliança: os aliados compartilham automaticamente o radar. (padrão)\n\n- Seletivo: cada jogador pode escolher compartilhar o radar com qualquer outro jogador (aliado ou não).\n\n- Sempre ligado: o compartilhamento de radar está habilitado para todos. Este é um modo "iniciante" muito útil, pois você pode ver todas as unidades dos oponentes o tempo todo.
-tooltip_gameoption_gamespeed                A configuração de velocidade para este jogo.\nA velocidade mais lenta olicitada é a mais lenta selecionada por qualquer jogador.
+tooltip_gameoption_gamespeed                A configuração de velocidade para este jogo.\nA velocidade mais lenta solicitada é a mais lenta selecionada por qualquer jogador.
 tooltip_gameoption_slowestspeed             A velocidade mais lenta que este jogo pode funcionar. Se a pausa for escolhida, qualquer jogador pode pausar o jogo usando a barra de velocidade do jogo.
 tooltip_gameoption_enableworldevents        Se habilitado, eventos aleatórios ocorrerão durante o jogo.
 tooltip_gameoption_gamemode                 Controla as regras que regem o jogo.
@@ -1093,11 +1091,11 @@ state_subnuke                       LANÇAMENTO DO MÍSSIL BALÍSTICO DE ALCANCE MÉ
 # =============================================================================
 
 message_fuel                        Sem combustível
-message_tornadodeath                Tornado dissipado
-message_nukelaunch                  Lançamento detectado
-message_multilaunch                 Lançamentos detectados
-message_firstlaunch                 *T lançamento detectado
-message_incursion                   Incursões em território inimigo não permitidas
+message_tornadodeath                Tornado Dissipado
+message_nukelaunch                  Lançamento Detectado
+message_multilaunch                 Lançamentos Detectados
+message_firstlaunch                 *T lançamento Detectado
+message_incursion                   Incursões em território Inimigo não permitidas
 message_destroyed                   *U destruído
 # V = equipe vítima, U = unidade destruída, T = equipe atacante, A = unidade atacante
 
@@ -1184,8 +1182,8 @@ tutorial_level                      Nível *L
 tutorial_levelname_1                Lançando armas nucleares
 tutorial_levelname_2                Defesa aérea
 tutorial_levelname_3                Cobertura de radar
-tutorial_levelname_4                Exploração e bombardeio
-tutorial_levelname_5                Frotas navais
+tutorial_levelname_4                Exploração e Bombardeio
+tutorial_levelname_5                Frotas Navais
 tutorial_levelname_6                Submarinos
 tutorial_levelname_7                Guerra Termonuclear Global
 
@@ -1198,8 +1196,8 @@ tutorial_start                      Bem-vindo ao tutorial do Defcon.\n\nNeste tu
 tutorial_movecamera                 Antes de começarmos, você precisa aprender como controlar seu ponto de vista.\n\nMova seu ponto de vista movendo o cursor do mouse para a borda da tela na direção que deseja mover.\n\nAlternativamente, você pode usar as teclas W,A,S,D para mover o ponto de vista.
 tutorial_zoomcamera                 Role a roda do mouse para aproximar ou afastar o zoom.\n\nAlternativamente, você pode usar as teclas Q e E.
 tutorial_movecamera2                Você também pode segurar o botão do meio do mouse e arrastar a visão ao redor.\n\nClique em Próximo quando estiver satisfeito com os controles de visão, e começaremos a explodir coisas.
-tutorial_silofocus                  Este objeto destacado é um Silo de Mísseis. Ele tem dois modos:\n\n- No modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL, pode disparar mísseis nucleares em alvos inimigos.\n\n- No modo de defesa aérea, ele derrubará mísseis e aviões inimigos.\n\nPrecisamos do Silo no modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL para destruir as Estações de Radar inimigas próximas.\n\nClique com o botão direito do mouse no Silo e mude para o modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL.
-macosx_tutorial_silofocus           Este objeto destacado é um Silo de Mísseis. Ele tem dois modos:\n\n- No modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL, pode disparar mísseis nucleares em alvos inimigos.\n- No modo de defesa aérea, ele derrubará mísseis e aviões inimigos.\n\nPrecisamos do Silo no modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL para destruir as Estações de Radar inimigas próximas.\n\nClique com o botão direito do mouse no Silo e mude para o modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL.\n(Você pode pressionar Ctrl+clique se tiver um mouse de um botão).
+tutorial_silofocus                  Este objeto destacado é um Silo de Mísseis. Ele tem dois modos:\n\n- No modo de Lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL, pode disparar mísseis nucleares em alvos inimigos.\n\n- No modo de defesa aérea, ele derrubará mísseis e aviões inimigos.\n\nPrecisamos do Silo no modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL para destruir as Estações de Radar inimigas próximas.\n\nClique com o botão direito do mouse no Silo e mude para o modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL.
+macosx_tutorial_silofocus           Este objeto destacado é um Silo de Mísseis. Ele tem dois modos:\n\n- No modo de Lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL, pode disparar mísseis nucleares em alvos inimigos.\n- No modo de defesa aérea, ele derrubará mísseis e aviões inimigos.\n\nPrecisamos do Silo no modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL para destruir as Estações de Radar inimigas próximas.\n\nClique com o botão direito do mouse no Silo e mude para o modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL.\n(Você pode pressionar Ctrl+clique se tiver um mouse de um botão).
 tutorial_mission1destroyradar       Observe que o ícone do Silo de Mísseis muda para um triângulo quando ele está se preparando para lançar mísseis nucleares.\n\nUse seu Silo de Mísseis para destruir as Estações de Radar inimigas.
 
 tutorial_mission1end                Missão 1 concluída.\n\nClique em Próximo para avançar para a Missão 2.
@@ -1217,23 +1215,23 @@ tutorial_mission1deselect_popup			ESPAÇO para desmarcar esta unidade.
 tutorial_mission2start              Sua primeira tarefa em qualquer jogo de Defcon é posicionar todas as suas unidades.\n\nAbra o Painel de Unidades para começar o posicionamento.
 tutorial_m2selectsilo               Neste painel, você pode posicionar todas as suas unidades disponíveis. Nesta missão, você só tem Silos.\n\nVocê deve posicionar todas as suas unidades ANTES do Defcon 3.\n\nClique no ícone do Silo para começar a posicionar seus Silos.
 tutorial_m2placesilos               A área verde representa o seu território.\n\nVocê só pode posicionar unidades dentro do seu próprio território e unidades terrestres não podem ser movidas depois de posicionadas.\n\nUnidades terrestres não podem ser colocadas muito próximas umas das outras.\n\nPosicione seus Silos perto de suas cidades para defendê-las.
-tutorial_m2destroynukes             Submarinos inimigos lançaram mísseis nucleares em suas cidades!\n\nSeus Silos já estão no modo de defesa aérea e vão derrubar os mísseis nucleares que se aproximam.\n\nSilos em modo de defesa aérea são muito eficazes para derrubar mísseis nucleares que se aproximam.
+tutorial_m2destroynukes             Submarinos inimigos lançaram Mísseis Nucleares em suas cidades!\n\nSeus Silos já estão no modo de defesa aérea e vão derrubar os mísseis nucleares que se aproximam.\n\nSilos em modo de defesa aérea são muito eficazes para derrubar mísseis nucleares que se aproximam.
 
 tutorial_m2end                      Missão 2 concluída.\n\nClique em Avançar para seguir para a Missão 3.
 tutorial_mission2failed             Um míssil nuclear atingiu uma de suas cidades!\n\nTente posicionar seus Silos perto das cidades na próxima vez, para que tenham mais tempo para derrubar os mísseis nucleares que se aproximam.\n\nClique em Reiniciar para tentar novamente.
 
 tutorial_unitpanel_popup            Clique neste botão para abrir o Painel de Unidades.
 tutorial_silo_popup                 Clique neste ícone de unidade para começar a posicionar os Silos.
-tutorial_silo_place                 Clique esquerdo nesta área para posicionar seus Silos perto de suas principais cidades.
+tutorial_silo_place                 Clique esquerdo nesta área para posicionar seus silos perto de suas principais cidades.
 
 # ==== MISSION 3 =====
 
 tutorial_mission3start              Cada unidade em Defcon possui um alcance de radar e você só pode ver uma unidade inimiga se ela estiver dentro da sua cobertura de radar.\n\nHá várias unidades inimigas na Rússia que precisam ser descobertas.\n\nPosicione suas Estações de Radar para descobrir as unidades inimigas.
 tutorial_m3radarplacement           Posicione suas Estações de Radar o mais próximo possível da Rússia.\n\nConforme você posiciona cada Estação de Radar, você notará que sua visibilidade da área aumenta - unidades inimigas serão reveladas.
-tutorial_m3siloplacement            Agora você pode ver as unidades inimigas.\n\nPosicione alguns Silos em seu território para destruir o inimigo.
+tutorial_m3siloplacement            Agora você pode ver as unidades inimigas.\n\nPosicione alguns Silos em seu Território para destruir o inimigo.
 tutorial_m3gamespeed                Precisamos usar Armas Nucleares para destruir os edifícios inimigos, mas não podemos fazer isso até que o Defcon 1 seja alcançado.\n\nPara alcançar o Defcon 1, precisamos acelerar o tempo. Clique nos botões de controle de velocidade para acelerar o tempo até que o Defcon 1 seja declarado.
 tutorial_m3defcon1                  Muitas unidades não podem se envolver em combate até que um determinado nível de Defcon seja alcançado.\n\nO combate naval e aéreo não podem ocorrer até o Defcon 3.\n\nARMAS NUCLEARES SÓ PODEM SER USADAS DEPOIS QUE O DEFCON 1 FOR DECLARADO.\n\nAcelere o tempo até que o Defcon 1 ocorra.
-tutorial_m3destroyenemy             Agora você pode usar seus Silos para lançar Mísseis nuclares sobre os edifícios inimigos.\n\nO inimigo possui um Silo próprio em modo de Defesa Aérea, que derrubará muitos de seus mísseis. Além disso, esse Silo inimigo é blindado contra ataques nucleares e pode resistir a 3 ataques diretos.\n\nVocê deve lançar simultaneamente em direção ao Silo inimigo com todos os seus Silos para garantir o sucesso.
+tutorial_m3destroyenemy             Agora você pode usar seus Silos para lançar Mísseis nucleares sobre os edifícios inimigos.\n\nO inimigo possui um Silo próprio em modo de Defesa Aérea, que derrubará muitos de seus mísseis. Além disso, esse Silo inimigo é blindado contra ataques nucleares e pode resistir a 3 ataques diretos.\n\nVocê deve lançar simultaneamente em direção ao Silo inimigo com todos os seus Silos para garantir o sucesso.
 tutorial_m3silostaketime            Os Silos levam muito tempo para mudar entre o modo de Defesa Aérea e o modo de MÍSSIL BALÍSTICO INTERCONTINENTAL. Coloque o mouse sobre um Silo para ver quanto tempo você terá que esperar.\n\nSinta-se livre para acelerar o tempo se precisar.\n\nContinue lançando todas as suas Armas Nucleares nos edifícios inimigos até que eles sejam destruídos.
 
 tutorial_m3end                      Missão 3 concluída.\n\nClique em Próximo para prosseguir para a Missão 4.
@@ -1252,22 +1250,22 @@ tutorial_nukenemeycities_popup      Fique à vontade para usar suas bombas restan
 # ==== MISSION 4 =====
 
 tutorial_mission4start              Em muitos casos, as unidades inimigas estarão fora do alcance de seu Radar. Para descobrir as unidades inimigas, você terá que enviar aviões de reconhecimento sobre o território inimigo.\n\nColoque algumas bases aéreas em seu território.
-tutorial_m4launchfighters           Você pode usar as Bases aéreas para lançar dois tipos de aeronaves:\n-Caças: aviões de combate / reconhecimento de curto alcance\n-Bombardeiros: aeronaves de longo alcance armadas com uma única bomba\n\nCaças são aeronaves de combate de curto alcance e rápidas. Eles são bons em derrubar outras aeronaves e também são muito bons em reconhecimento.\n\nLance seus caças sobre o território inimigo para procurar alvos.
+tutorial_m4launchfighters           Você pode usar as Bases Aéreas para lançar dois tipos de aeronaves:\n-Caças: aviões de combate / reconhecimento de curto alcance\n-Bombardeiros: aeronaves de longo alcance armadas com uma única bomba\n\nCaças são aeronaves de combate de curto alcance e rápidas. Eles são bons em derrubar outras aeronaves e também são muito bons em reconhecimento.\n\nLance seus caças sobre o território inimigo para procurar alvos.
 tutorial_m4radar                    Cada Caça tem um Radar de curto alcance que descobrirá prédios inimigos se ele voar perto o suficiente.\n\nLigue a visualização do Radar para ver sua Cobertura de radar.
 tutorial_m4launchbombers            Seus Caças descobriram todos os prédios inimigos.\n\nVocê pode notar que os prédios inimigos ficam em cinza uma vez que não estão mais dentro da sua Cobertura de Radar - Isso é chamado de Fantasma de Radar.\n\nAgora usaremos os Bombardeiros para soltar Bombas nas metas inimigas.\n\nUse suas Bases aéreas para lançar Bombardeiros nos prédios inimigos.
 tutorial_m4bomberinfo               Os Bombardeiros podem viajar uma longa distância, mas devem chegar perto de seu alvo - eles carregam apenas uma única bomba de curto alcance.\n\nOs bombardeiros lançarão automaticamente suas bombas quando estiverem dentro do alcance de seus alvos.
 tutorial_m4nukeslaunched            Assim que um Bombardeiro lançar sua bomba nuclear, ele retornará automaticamente à base aérea mais próxima para pousar.\n\nApós o pouso, um Bombardeiro será recarregado com uma nova bomba nuclear, embora as bases aéreas tenham um número limitado de bombas nucleares para rearmar os Bombardeiros.\n\nSe você destacar uma base aérea (passando o mouse sobre ela), poderá ver quantas aeronaves e bombas nucleares estão disponíveis para você lançar.
 
 tutorial_m4end                      Missão 4 concluída.\n\nClique em Avançar para ir para a Missão 5.
-tutorial_mission4failed             Você ficou sem bombas nucleares antes de destruir o inimigo e falhou na missão.\n\nClique em Reiniciar para tentar novamente.
+tutorial_mission4failed             Você ficou sem Bombas Nucleares antes de destruir o inimigo e falhou na Missão.\n\nClique em Reiniciar para tentar novamente.
 
-tutorial_selectairbase_popup        Clique neste ícone da unidade para começar a posicionar as bases aéreas.
-tutorial_placeairbase_popup         Clique com o botão esquerdo nesta área para posicionar suas bases aéreas.
+tutorial_selectairbase_popup        Clique neste ícone da unidade para começar a posicionar as Bases Aéreas.
+tutorial_placeairbase_popup         Clique com o botão esquerdo nesta área para posicionar suas Bases Aéreas.
 tutorial_clickairbase_popup         Clique com o botão esquerdo nesta base aérea para começar a lançar caças.
 tutorial_scouthere_popup            Clique com o botão esquerdo repetidamente nesta área para enfileirar muitos lançamentos de caças.
 tutorial_radartoolbar_popup         Destaque este botão da barra de ferramentas para mostrar sua cobertura de radar.
-tutorial_switchtobombers_popup              Clique com o botão direito nesta base aérea e mude para o modo Bombardeiro.
-macosx_tutorial_switchtobombers_popup       Clique com o botão direito nesta base aérea e mude para o modo Bombardeiro.\nClique com Ctrl se você tiver um mouse de um botão.
+tutorial_switchtobombers_popup              Clique com o botão direito nesta Base Aérea e mude para o modo Bombardeiro.
+macosx_tutorial_switchtobombers_popup       Clique com o botão direito nesta Base Aérea e mude para o modo Bombardeiro.\nClique com Ctrl se você tiver um mouse de um botão.
 tutorial_clickairbasebomber_popup   Clique com o botão esquerdo nesta base aérea para começar a lançar Bombardeiros.
 tutorial_nukebuilding_popup         Lance alguns Bombardeiros neste prédio inimigo.
 
@@ -1276,9 +1274,9 @@ tutorial_nukebuilding_popup         Lance alguns Bombardeiros neste prédio inimi
 tutorial_mission5start              Muitas das suas forças móveis consistirão em navios, que são agrupados em frotas.\n\nUma frota consiste em até seis navios e se move e luta como uma única unidade coesa.\n\nAbra o Painel de Unidades e clique no botão Frota para começar a posicionar uma Frota.
 tutorial_m5createfleet              Este é o Construtor de Frotas. Clicando nos botões de Unidade, você adicionará aquele navio à frota.\n\n-Os Encouraçados são eficazes contra uma variedade de unidades inimigas, mas são vulneráveis a submarinos.\n-Os Porta-aviões atuam como Bases Aéreas móveis, permitindo que você lance Caças e Bombardeiros. Eles também podem afundar submarinos inimigos com cargas de profundidade.\n-Submarinos são invisíveis ao radar convencional e carregam armas nucleares de médio alcance.\n\nConstrua uma frota de seis navios - três encouraçados e três porta-aviões.
 tutorial_m5battleshipinfo           As frotas são controladas como uma única unidade. Se você pedir para elas se moverem, elas se moverão juntas. Se você pedir para elas atacarem uma frota inimiga, elas o farão como uma única unidade, da melhor maneira possível.\n\nSelecione uma de suas frotas clicando com o botão esquerdo em qualquer navio dessa frota.\n\nEm seguida, mova a frota para o sul clicando com o botão direito em seu destino.
-macosx_tutorial_m5battleshipinfo    As frotas são controladas como uma única unidade. Se você pedir para elas se moverem, elas se moverão juntas. Se você pedir para elas atacarem uma frota inimiga, elas o farão como uma única unidade, da melhor maneira possível.\n\nSelecione uma de suas frotas clicando com o botão esquerdo em qualquer navio dessa frota.\n\nEm seguida, mova a frota para o sul clicando com o botão direito (ou ctrl-clique) em seu destino.
+macosx_tutorial_m5battleshipinfo    As frotas são controladas como uma única unidade. Se você pedir para elas se moverem, elas se moverão juntas. Se você pedir para elas atacarem uma frota inimiga, elas o farão como uma única unidade, da melhor maneira possível.\n\nSelecione uma de suas frotas clicando com o botão esquerdo em qualquer navio dessa frota.\n\nEm seguida, mova a frota para o sul clicando com o botão direito (ou Ctrl-clique) em seu destino.
 tutorial_m5destroyenemy             Há duas frotas inimigas em algum lugar do Oceano Atlântico - use suas frotas para encontrá-las e destruí-las.\n\n- Clique com o botão esquerdo em qualquer navio de uma frota para selecionar a frota inteira.\n- Clique com o botão direito para definir um destino para a frota selecionada.\n\nAcelere o tempo se necessário.
-macosx_tutorial_m5destroyenemy      Há duas frotas inimigas em algum lugar do Oceano Atlântico - use suas frotas para encontrá-las e destruí-las.\n\n- Clique com o botão esquerdo em qualquer navio de uma frota para selecionar a frota inteira.\n- Clique com o botão direito (ou ctrl-clique) para definir um destino para a frota selecionada.\n\nAcelere o tempo se necessário.
+macosx_tutorial_m5destroyenemy      Há duas frotas inimigas em algum lugar do Oceano Atlântico - use suas frotas para encontrá-las e destruí-las.\n\n- Clique com o botão esquerdo em qualquer navio de uma frota para selecionar a frota inteira.\n- Clique com o botão direito (ou Ctrl-clique) para definir um destino para a frota selecionada.\n\nAcelere o tempo se necessário.
 tutorial_m5destroyenemy2            Suas frotas irão automaticamente engajar naves inimigas quando estiverem dentro do alcance. Encouraçados abrirão fogo e Porta-aviões lançarão Caças quando necessário.\n\nVocê pode controlar as batalhas manualmente se quiser - por exemplo, clique com o botão esquerdo em um de seus Porta-aviões para selecioná-lo e, em seguida, clique com o botão esquerdo em uma nave inimiga para lançar aviões Caças.\n\nDestaque o botão Pedidos na barra de ferramentas para ver os pedidos de ataque atuais de suas frotas.
 
 tutorial_m5end                      Missão 5 concluída. Clique em Avançar para ir para a Missão 6.
@@ -1348,10 +1346,10 @@ unitinfo_fighter                    Aviões de combate rápidos de curto alcance.\
 unitinfo_silo                       Funciona como Lançador de mísseis nucleares e Bateria Antiaérea.\n+  Amplas reservas de Mísseis Nucleares de Longo Alcance\n+  Potentes Canhões antiaéreos\n+  Reforçado contra impactos atômicos\n-  O Lançamento de mísseis nucleares revela a sua localização\n-  Troca de modo lento
 unitinfo_radar                      Proporciona cobertura radar ao seu território.\n+  Maior alcance radar disponível\n-  Facilmente destruído por impacto nuclear
 unitinfo_bomber                     Avião versátil de longo alcance.\n+  Leva um único míssil nuclear de curto alcance\n+  O lançamento de mísseis nucleares não é mostrado no radar inimigo\n+  Efetivo contra Barcos\n-  Facilmente derrubado por Caças\n-  Movimento lento
-unitinfo_battleship                 Canhoneira de grande potencia equipada com poderosas armas de disparo rápido.\n+  Efetivo contra alvos múltiplos\n-  Vulnerável contra Submarinos e Bombardeiros
+unitinfo_battleship                 Canhoneira de grande potência equipada com poderosas armas de disparo rápido.\n+  Efetivo contra alvos múltiplos\n-  Vulnerável contra Submarinos e Bombardeiros
 unitinfo_sub                        Potente unidade furtiva portadora de mísseis nucleares.\n+  Invisível ao radar convencional\n+  Amplas reservas de Mísseis nucleares\n-  Extremadamente vulnerável na superfície\n-  O lançamento de mísseis nucleares revela a sua localização\n- Vulnerável a Cargas de profundidade\n-  Sem alcance radar
 unitinfo_carrier                    Unidade móvel portadora de aeronaves.\n+  Pode enviar Caças e Bombardeiros\n+  É capaz de soltar Cargas de profundidade contra Submarinos\n-  Não pode se defender diretamente
-unitinfo_nuke                       Ogiva nuclear de grande potencia.\n+  Incrível poder destrutivo\n-  Vulnerável ao fogo antiaéreo
+unitinfo_nuke                       Ogiva nuclear de grande potência.\n+  Incrível poder destrutivo\n-  Vulnerável ao fogo antiaéreo
 unitinfo_airbase                    Ponto de decolagem para Caças e Bombardeiros.\n+  Grande número de Bombardeiros\n+  Regenera os caças com o tempo\n-  Facilmente destruída pelo impacto de um míssil nuclear
 
 
@@ -1375,8 +1373,8 @@ demo_bottom2_steam                  $14.95
 demo_bottom1_retail                 COMPRE A VERSÃO COMPLETA DO DEFCON HOJE
 demo_bottom2_retail                 VISITE SUA LOJA DE JOGOS PARA PC FAVORITA
 
-demo_bottom1_retail_uk              COMPRA HOY LA VERSIÓN COMPLETA DE DEFCON
-demo_bottom2_retail_uk              VISITA A TU VENDEDOR DE JUEGOS FAVORITO
+demo_bottom1_retail_uk              COMPRE HOJE A VERSÃO COMPLETA DE DEFCON
+demo_bottom2_retail_uk              VISITE SEU REVENDEDOR DE JOGOS DE PC PREFERIDO
 
 demo_bottom1_macosx                 Ativação imediata por apenas
 demo_bottom2_macosx                 $25.00
@@ -1468,31 +1466,31 @@ overlay_3_24			PEQUIM                         5,5
 overlay_3_25			XANGAI                         6,3
 overlay_3_26			DÉLHI                          4,9
 			 
-overlay_4_1			-----------------------------------------------
-overlay_4_2			-   PEDAS PREVISTAS - FORÇA AÉREA E.U.A. (%)
-overlay_4_3			-----------------------------------------------\n
-overlay_4_4			COMANDO DE DEFESA AEROESPACIAL              23
-overlay_4_5			COMANDO DE COMBATE AÉREO                     76
-overlay_4_6			COMANDO DE EDUCAÇÃO E TREINAMENTO        24
-overlay_4_7			COMANDO DE COMUNICAÇÕES DA FORÇA AÉREA 68
-overlay_4_8			COMANDO DE INTELIGÊNCIA DA FORÇA AÉREA   58
-overlay_4_9			COMANDO DE LOGÍSTICA DA FORÇA AÉREA      78
-overlay_4_10			COMANDO DA RESERVA DA FORÇA AÉREA     14
-overlay_4_11			COMANDO ESPACIAL DA FORÇA AÉREA          12
-overlay_4_12			COMANDO DE OPERAÇÕES ESPECIAIS DA FORÇA AÉREA        56
-overlay_4_13			COMANDO DE SISTEMAS DA FORÇA AÉREA       86
-overlay_4_14			COMANDO DE MOBILIDADE AÉREA                   87
-overlay_4_15			COMANDO AÉREO DO ALASCA                      92
-overlay_4_16			COMANDO DO QUARTEL GENERAL, USAF            85
-overlay_4_17			COMANDO AÉREO DO NORESTE                    75
-overlay_4_18			COMANDO AÉREO DO PACÍFICO                   91
-overlay_4_19			FORÇA AÉREA DO PACÍFICO                    85
-overlay_4_20			COMANDO DE ARMAS ESPECIAIS                  67
-overlay_4_21			COMANDO AÉREO ESTRATÉGICO                    85
-overlay_4_22			COMANDO AEROTÁTICO                          91
-overlay_4_23			TERCEIRA DIVISÃO AÉREA                       75
-overlay_4_24			FORÇA AÉREA DOS ESTADOS UNIDOS NA EUROPA 79
-overlay_4_25			COMANDO DO SUL DA FORÇA AÉREA DOS ESTADOS UNIDOS 65
+overlay_4_1			-------------------------------------------------
+overlay_4_2			-   PERDAS PREVISTAS - FORÇA AÉREA E.U.A. (%)
+overlay_4_3			-------------------------------------------------\n
+overlay_4_4			COMANDO DE DEFESA AEROESPACIAL                 23
+overlay_4_5			COMANDO DE COMBATE AÉREO                       76
+overlay_4_6			COMANDO DE EDUCAÇÃO E TREINAMENTO              24
+overlay_4_7			COMANDO DE COMUNICAÇÕES DA FORÇA AÉREA         68
+overlay_4_8			COMANDO DE INTELIGÊNCIA DA FORÇA AÉREA         58
+overlay_4_9			COMANDO DE LOGÍSTICA DA FORÇA AÉREA            78
+overlay_4_10			COMANDO DA RESERVA DA FORÇA AÉREA              14
+overlay_4_11			COMANDO ESPACIAL DA FORÇA AÉREA                12
+overlay_4_12			COMANDO DE OPERAÇÕES ESPECIAIS DA FORÇA AÉREA  56
+overlay_4_13			COMANDO DE SISTEMAS DA FORÇA AÉREA             86
+overlay_4_14			COMANDO DE MOBILIDADE AÉREA                    87
+overlay_4_15			COMANDO AÉREO DO ALASCA                        92
+overlay_4_16			COMANDO DO QUARTEL GENERAL, USAF               85
+overlay_4_17			COMANDO AÉREO DO NORDESTE                      75
+overlay_4_18			COMANDO AÉREO DO PACÍFICO                      91
+overlay_4_19			FORÇA AÉREA DO PACÍFICO                        85
+overlay_4_20			COMANDO DE ARMAS ESPECIAIS                     67
+overlay_4_21			COMANDO AÉREO ESTRATÉGICO                      85
+overlay_4_22			COMANDO AEROTÁTICO                             91
+overlay_4_23			TERCEIRA DIVISÃO AÉREA                         75
+overlay_4_24			FORÇA AÉREA DOS EUA NA EUROPA                  79
+overlay_4_25			COMANDO DO SUL DA FORÇA AÉREA DOS EUA          65
 
 overlay_5_1			-----------------------------------------------------------------
 overlay_5_2			EFEITOS DA EXPOSIÇÃO À RADIAÇÃO SOBRE A FISIOLOGIA HUMANA
@@ -1501,9 +1499,9 @@ overlay_5_4			-MENOS DE 1 SV (50-100 REM)
 overlay_5_5			ENFERMIDADE POR RADIAÇÃO LEVE ACOMPANHADA DE DOR DE CABEÇA E UM MAIOR RISCO DE
 overlay_5_6			INFECÇÃO DEVIDO A ALTERAÇÃO DAS CÉLULAS DO SISTEMA IMUNOLÓGICO. É POSSÍVEL QUE SE
 overlay_5_7			PRODUZA UMA ESTERILIDADE TEMPORAL NO HOMEM.\n
-overlay_5_8			1-2 SV (1OO-2OO REM)       (LEVE)     MORTALIDADE DE 1O% DEPOIS DE 30 DIAS
+overlay_5_8			1-2 SV (1OO-2OO REM)       (LEVE)      MORTALIDADE DE 1O% DEPOIS DE 30 DIAS
 overlay_5_9			2-3 SV (2OO-3OO REM)       (MODERADA)  MORTALIDADE DE 35% DEPOIS DE 30 DIAS
-overlay_5_10			3-4 SV (3OO-4OO REM)       (GRAVE)    MORTALIDADE DE 5O% DEPOIS DE 30 DIAS
+overlay_5_10			3-4 SV (3OO-4OO REM)       (GRAVE)     MORTALIDADE DE 5O% DEPOIS DE 30 DIAS
 overlay_5_11			4-6 SV (4OO-6OO REM)       (AGUDA)     MORTALIDADE DE 6O% DEPOIS DE 30 DIAS
 overlay_5_12			1O-5O SV (1.OOO-5.OOO REM) (AGUDA)     MORTALIDADE DE 1OO% DEPOIS DE 7 DIAS\n
 overlay_5_13			-5O-8O SV (5.OOO-8.OOO REM)
@@ -1544,9 +1542,9 @@ overlay_7_1			-------------------------------------------------
 overlay_7_2			-  DOENÇAS POR RADIAÇÃO: SINTOMAS E SINAIS  -
 overlay_7_3			-------------------------------------------------\n
 overlay_7_4			NÁUSEAS E VÔMITOS
-overlay_7_5			DIARREA
+overlay_7_5			DIARREIA
 overlay_7_6			QUEIMADURAS CUTÂNEAS (VERMELHIDÃO, BOLHAS)
-overlay_7_7			DEBILIDADE, FADIGA, CANÇASSO, DESMAIOS
+overlay_7_7			DEBILIDADE, FADIGA, CANSAÇO, DESMAIOS
 overlay_7_8			DESIDRATAÇÃO
 overlay_7_9			INFLAMAÇÃO NAS ÁREAS EXPOSTAS
 overlay_7_10			PERDA DE CABELO
@@ -1587,7 +1585,7 @@ overlay_10_9			Norfolk         36 56' 59.84" N      76 19' 48.57" O
 overlay_10_10			Pearl Harbour   21 21' 48.77" N     157 57' 39.31" O
 overlay_10_11			Ramstein        49 26' 13.33" N       7 35' 54.11" E
 overlay_10_12			Kadena (Okinawa)26 21' 28.86" N     127 46' 13.53" E
-overlay_10_13			Rota (Espanha)   36 38' 15.33" N         21' 11.90" O
+overlay_10_13			Rota (Espanha)   36 38' 15.33" N        21' 11.90" O
 overlay_10_14			Vladivostok     43 06' 41.86" N     131 53' 23.22" E
 overlay_10_15			Sebastopol      44 36' 56.88" N      33 34' 46.83" E
 overlay_10_16			Leningrado      59 57' 39.60" N      30 18' 41.85" E
@@ -1599,25 +1597,25 @@ overlay_11_1			---------------------------------------------------
 overlay_11_2			-       DETONAÇÕES NUCLEARES SIGNIFICATIVAS       -
 overlay_11_3			---------------------------------------------------
 overlay_11_4			-DATA        NOME       POTÊNCIA (KT)  PAÍS\n
-overlay_11_5			16 JUL 1945   TRINITY         19          EE.UU.
-overlay_11_6			6 AGO 1945    LITTLE BOY      15          EE.UU.
-overlay_11_7			9 AGO 1945    FAT MAN         21          EE.UU.
-overlay_11_8			29 AGO 1949   JOE 1           22          URSS
-overlay_11_9			3 OCT 1952    HURRICANE       25          RU
-overlay_11_10			1 NOV 1952    IVY MIKE        10.200      EE.UU.
-overlay_11_11			12 AGO 1953   JOE 4           400         URSS
-overlay_11_12			1 MAR 1954    CASTLE BRAVO    15.000      EE.UU.
-overlay_11_13			22 NOV 1955   RDS-37          1.600       URSS
-overlay_11_14			8 NOV 1957    GRAPPLE X       1.800       RU
-overlay_11_15			13 FEB 1960   GERBOISE BLEUE  60          FRANÇA
-overlay_11_16			31 OCT 1961   TSAR BOMBA      50.000      URSS
-overlay_11_17			16 OCT 1964   596             22          CHINA
-overlay_11_18			17 JUN 1967   TEST Nº 6       3.300       CHINA
-overlay_11_19			24 AGO 1968   CANOPUS         2.600       FRANÇA
-overlay_11_20			18 MAY 1974   SMILING BUDDHA  12          ÍNDIA
-overlay_11_21			11 MAY 1998   SHAKTI I        43          ÍNDIA
-overlay_11_22			13 MAY 1998   SHAKTI II       12          ÍNDIA
-overlay_11_23			28 MAY 1998   CHAGAI-I        9           PAQUISTÃO
+overlay_11_5			16 JUL 1945  TRINITY         19          EUA
+overlay_11_6			6  AGO 1945  LITTLE BOY      15          EUA
+overlay_11_7			9  AGO 1945  FAT MAN         21          EUA
+overlay_11_8			29 AGO 1949  JOE 1           22          URSS
+overlay_11_9			3  OUT 1952  HURRICANE       25          RU
+overlay_11_10			1  NOV 1952  IVY MIKE        10.200      EUA
+overlay_11_11			12 AGO 1953  JOE 4           400         URSS
+overlay_11_12			1  MAR 1954  CASTLE BRAVO    15.000      EUA
+overlay_11_13			22 NOV 1955  RDS-37          1.600       URSS
+overlay_11_14			8  NOV 1957  GRAPPLE X       1.800       RU
+overlay_11_15			13 FEV 1960  GERBOISE BLEUE  60          FRANÇA
+overlay_11_16			31 OUT 1961  TSAR BOMBA      50.000      URSS
+overlay_11_17			16 OUT 1964  596             22          CHINA
+overlay_11_18			17 JUN 1967  TEST Nº 6       3.300       CHINA
+overlay_11_19			24 AGO 1968  CANOPUS         2.600       FRANÇA
+overlay_11_20			18 MAI 1974  SMILING BUDDHA  12          ÍNDIA
+overlay_11_21			11 MAI 1998  SHAKTI I        43          ÍNDIA
+overlay_11_22			13 MAI 1998  SHAKTI II       12          ÍNDIA
+overlay_11_23			28 MAI 1998  CHAGAI-I        9           PAQUISTÃO
 
 overlay_12_1			-----------------------------------------
 overlay_12_2			-       BETA TESTERS (PÁGINA 1 DE 2)
