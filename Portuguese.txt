@@ -66,8 +66,8 @@ dialog_options			Opções
 dialog_high			Alto
 dialog_medium			Médio
 dialog_low			Baixo
-dialog_enabled			Habilitado
-dialog_disabled			Desabilitado
+dialog_enabled			Ativar
+dialog_disabled			Desativar
 
 dialog_apply			Aplicar
 dialog_close			Fechar
@@ -723,7 +723,7 @@ dialog_mapr_city_population         POPULAÇÃO: *P MILHÕES
 # P = City Population
 dialog_mapr_city_dead               MORTOS: *D MILHÕES
 # D = City Dead Population
-dialog_mapr_mode                    *M MODO
+dialog_mapr_mode                    MODO *M
 # M = Current State
 dialog_mapr_secs                    *S SEGUNDOS
 # S = Seconds
@@ -905,27 +905,27 @@ tooltip_vote_yes                            Votar Sim
 tooltip_vote_no                             Votar Não
 tooltip_vote_abstain                        Abster-se desta votação
 
-tooltip_lmb                         [CLIQUE ESQ.]
-tooltip_rmb                         [CLIQUE DIR.]
+tooltip_lmb                         [BEM]
+tooltip_rmb                         [BDM]
 
-tooltip_placeobject                 [CLIQUE ESQ.] COLOCAR UNIDADE
-tooltip_placefleet                  [CLIQUE ESQ.] COLOCAR FROTA
+tooltip_placeobject                 [BEM] COLOCAR UNIDADE
+tooltip_placefleet                  [BEM] COLOCAR FROTA
 tooltip_invalidplacement            POSICIONAMENTO INVÁLIDO
 tooltip_spacetocancel               PRESSIONE ESPAÇO PARA CANCELAR
 
-tooltip_selectobject                [CLIQUE ESQ.] SELECIONAR UNIDADE
-tooltip_selectfleet                 [CLIQUE ESQ.] SELECIONAR FROTA
-tooltip_setobjectstate              [CLIQUE DIR.] MUDAR ESTADO DA UNIDADE
+tooltip_selectobject                [BEM] SELECIONAR UNIDADE
+tooltip_selectfleet                 [BEM] SELECIONAR FROTA
+tooltip_setobjectstate              [BDM] MUDAR ESTADO DA UNIDADE
 tooltip_enemyunit                   (UNIDADE INIMIGA)
-tooltip_attack                      [CLIQUE ESQ.] ATACAR ESTA UNIDADE
-tooltip_moveobject                  [CLIQUE DIR.] MOVER UNIDADE AQUI
-tooltip_movefleet                   [CLIQUE DIR.] MOVER FROTA AQUI
+tooltip_attack                      [BEM] ATACAR ESTA UNIDADE
+tooltip_moveobject                  [BDM] MOVER UNIDADE AQUI
+tooltip_movefleet                   [BDM] MOVER FROTA AQUI
 tooltip_cantmovehere                NÃO É POSSÍVEL MOVER AQUI
-tooltip_spawnfighter                [CLIQUE ESQ.] LANÇAR CAÇA AQUI
-tooltip_spawnbomber                 [CLIQUE ESQ.] LANÇAR BOMBARDEIRO AQUI
-tooltip_spawnnuke                   [CLIQUE ESQ.] LANÇAR BOMBA NUCLEAR AQUI
+tooltip_spawnfighter                [BEM] LANÇAR CAÇA AQUI
+tooltip_spawnbomber                 [BEM] LANÇAR BOMBARDEIRO AQUI
+tooltip_spawnnuke                   [BEM] LANÇAR BOMBA NUCLEAR AQUI
 tooltip_spacetodeselect             ESPAÇO PARA DESELECIONAR UNIDADE
-tooltip_landobject                  [CLIQUE ESQ.] POUSAR AVIÃO AQUI
+tooltip_landobject                  [BEM] POUSAR AVIÃO AQUI
 
 tooltip_controls_sidescrolling      Permite mover a câmera com o mouse na borda da tela
 tooltip_controls_zoomspeed          Ajusta a sensibilidade do zoom do mouse e do trackpad
@@ -1073,17 +1073,17 @@ state_fighterlaunch                 LANÇAMENTO DO CAÇA
 state_bomberlaunch                  LANÇAMENTO DO BOMBARDEIRO
 state_attack                        ATACAR
 state_flight                        VOO
-state_bombernuke                    LANÇAMENTO DO MÍSSIL BALÍSTICO DE ALCANCE CURTO
+state_bombernuke                    LANÇAMENTO DO SRBM
 state_airtoseamissile               COMBATE NAVAL
 state_antisub                       ANTI-SUBMARINO
 state_ontarget                      NO ALVO
 state_disarm                        DESARMAR
 state_radar                         ESCANEAMENTO
-state_silonuke                      LANÇAMENTO DO MÍSSIL BALÍSTICO INTERCONTINENTAL
+state_silonuke                      LANÇAMENTO DO ICBM
 state_airdefense                    DEFESA AÉREA
 state_passivesonar                  SONAR PASSIVO
 state_activesonar                   SONAR ATIVO
-state_subnuke                       LANÇAMENTO DO MÍSSIL BALÍSTICO DE ALCANCE MÉDIO
+state_subnuke                       LANÇAMENTO DO MRBM
 
 
 # =============================================================================
@@ -1094,13 +1094,13 @@ message_fuel                        Sem combustível
 message_tornadodeath                Tornado Dissipado
 message_nukelaunch                  Lançamento Detectado
 message_multilaunch                 Lançamentos Detectados
-message_firstlaunch                 *T lançamento Detectado
+message_firstlaunch                 Detectado lançamento de *T
 message_incursion                   Incursões em território Inimigo não permitidas
 message_destroyed                   *U destruído
 # V = victim team, U = destroyed unit, T = attacking team, A = attacking unit
 
-message_directhit                   *C atingiu, *Dm mortos
-message_fallout                     chuva radioativa em *C, *Dm mortos
+message_directhit                   impacto em *C, *D mortos
+message_fallout                     chuva radioativa em *C, *D mortos
 # C = city name, D = number of deaths
 
 details_fuel                        COMBUSTÍVEL
@@ -1196,15 +1196,15 @@ tutorial_start                      Bem-vindo ao tutorial do Defcon.\n\nNeste tu
 tutorial_movecamera                 Antes de começarmos, você precisa aprender como controlar seu ponto de vista.\n\nMova seu ponto de vista movendo o cursor do mouse para a borda da tela na direção que deseja mover.\n\nAlternativamente, você pode usar as teclas W,A,S,D para mover o ponto de vista.
 tutorial_zoomcamera                 Role a roda do mouse para aproximar ou afastar o zoom.\n\nAlternativamente, você pode usar as teclas Q e E.
 tutorial_movecamera2                Você também pode segurar o botão do meio do mouse e arrastar a visão ao redor.\n\nClique em Próximo quando estiver satisfeito com os controles de visão, e começaremos a explodir coisas.
-tutorial_silofocus                  Este objeto destacado é um Silo de Mísseis. Ele tem dois modos:\n\n- No modo de Lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL, pode disparar mísseis nucleares em alvos inimigos.\n\n- No modo de defesa aérea, ele derrubará mísseis e aviões inimigos.\n\nPrecisamos do Silo no modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL para destruir as Estações de Radar inimigas próximas.\n\nClique com o botão direito do mouse no Silo e mude para o modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL.
-macosx_tutorial_silofocus           Este objeto destacado é um Silo de Mísseis. Ele tem dois modos:\n\n- No modo de Lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL, pode disparar mísseis nucleares em alvos inimigos.\n- No modo de defesa aérea, ele derrubará mísseis e aviões inimigos.\n\nPrecisamos do Silo no modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL para destruir as Estações de Radar inimigas próximas.\n\nClique com o botão direito do mouse no Silo e mude para o modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL.\n(Você pode pressionar Ctrl+clique se tiver um mouse de um botão).
+tutorial_silofocus                  Este objeto destacado é um Silo de Mísseis. Ele tem dois modos:\n\n- No modo de Lançamento do ICBM (míssil balístico intercontinental), pode disparar mísseis nucleares em alvos inimigos.\n\n- No modo de defesa aérea, ele derrubará mísseis e aviões inimigos.\n\nPrecisamos do Silo no Modo de Lançamento do ICBM (míssil balístico intercontinental) para destruir as Estações de Radar inimigas próximas.\n\nClique com o botão direito do mouse no Silo e mude para o Modo de Lançamento do ICBM (míssil balístico intercontinental).
+macosx_tutorial_silofocus           Este objeto destacado é um Silo de Mísseis. Ele tem dois modos:\n\n- No modo de Lançamento do ICBM (míssil balístico intercontinental), pode disparar mísseis nucleares em alvos inimigos.\n- No modo de defesa aérea, ele derrubará mísseis e aviões inimigos.\n\nPrecisamos do Silo no Modo de Lançamento ICBM (míssil balístico intercontinental) para destruir as Estações de Radar inimigas próximas.\n\nClique com o botão direito do mouse no Silo e mude para o Modo de Lançamento do ICBM (míssil balístico intercontinental).\n(Você pode pressionar Ctrl+clique se tiver um mouse de um botão).
 tutorial_mission1destroyradar       Observe que o ícone do Silo de Mísseis muda para um triângulo quando ele está se preparando para lançar mísseis nucleares.\n\nUse seu Silo de Mísseis para destruir as Estações de Radar inimigas.
 
 tutorial_mission1end                Missão 1 concluída.\n\nClique em Próximo para avançar para a Missão 2.
 tutorial_mission1failed             Você ficou sem mísseis nucleares sem destruir os alvos e falhou na missão.\n\nClique em Reiniciar para tentar novamente.
 
-tutorial_silofocus_popup1           Clique com o botão direito do mouse neste Silo e mude para o modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL.
-macosx_tutorial_silofocus_popup1    Clique com o botão direito do mouse neste Silo e mude para o modo de lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL.\n(Pressione Ctrl+clique se você tiver
+tutorial_silofocus_popup1           Clique com o botão direito do mouse neste Silo e mude para o Modo de Lançamento do Lançamento do ICBM (míssil balístico intercontinental).
+macosx_tutorial_silofocus_popup1    Clique com o botão direito do mouse neste Silo e mude para o Modo de Lançamento do ICBM (míssil balístico intercontinental).\n(Pressione Ctrl+clique se você tiver
 tutorial_silofocus_selectpopup			Clique com o botão esquerdo do mouse neste Silo para selecioná-lo.
 tutorial_mission1destroyradar_popup			Clique com o botão esquerdo nesta Estação de Radar para lançar um Míssil Nuclear sobre ela.
 #Tutorialmission1deselect_popup			Pressione ESPAÇO para desmarcar esta unidade.
@@ -1232,7 +1232,7 @@ tutorial_m3siloplacement            Agora você pode ver as unidades inimigas.\n\
 tutorial_m3gamespeed                Precisamos usar Armas Nucleares para destruir os edifícios inimigos, mas não podemos fazer isso até que o Defcon 1 seja alcançado.\n\nPara alcançar o Defcon 1, precisamos acelerar o tempo. Clique nos botões de controle de velocidade para acelerar o tempo até que o Defcon 1 seja declarado.
 tutorial_m3defcon1                  Muitas unidades não podem se envolver em combate até que um determinado nível de Defcon seja alcançado.\n\nO combate naval e aéreo não podem ocorrer até o Defcon 3.\n\nARMAS NUCLEARES SÓ PODEM SER USADAS DEPOIS QUE O DEFCON 1 FOR DECLARADO.\n\nAcelere o tempo até que o Defcon 1 ocorra.
 tutorial_m3destroyenemy             Agora você pode usar seus Silos para lançar Mísseis nucleares sobre os edifícios inimigos.\n\nO inimigo possui um Silo próprio em modo de Defesa Aérea, que derrubará muitos de seus mísseis. Além disso, esse Silo inimigo é blindado contra ataques nucleares e pode resistir a 3 ataques diretos.\n\nVocê deve lançar simultaneamente em direção ao Silo inimigo com todos os seus Silos para garantir o sucesso.
-tutorial_m3silostaketime            Os Silos levam muito tempo para mudar entre o modo de Defesa Aérea e o modo de MÍSSIL BALÍSTICO INTERCONTINENTAL. Coloque o mouse sobre um Silo para ver quanto tempo você terá que esperar.\n\nSinta-se livre para acelerar o tempo se precisar.\n\nContinue lançando todas as suas Armas Nucleares nos edifícios inimigos até que eles sejam destruídos.
+tutorial_m3silostaketime            Os Silos levam muito tempo para mudar entre o modo de Defesa Aérea e o modo de Lançamento do ICBM (míssil balístico intercontinental). Coloque o mouse sobre um Silo para ver quanto tempo você terá que esperar.\n\nSinta-se livre para acelerar o tempo se precisar.\n\nContinue lançando todas as suas Armas Nucleares nos edifícios inimigos até que eles sejam destruídos.
 
 tutorial_m3end                      Missão 3 concluída.\n\nClique em Próximo para prosseguir para a Missão 4.
 tutorial_mission3failed1            Você posicionou todas as suas Estações de Radar, mas não descobriu todas as unidades inimigas.\n\nVocê falhou na missão.\n\nClique em Reiniciar para começar de novo.
@@ -1241,8 +1241,8 @@ tutorial_mission3failed2            Você ficou sem Armas Nucleares e não consegu
 tutorial_radar_popup                Clique neste ícone de unidade para começar a posicionar Estações de Radar.
 tutorial_radar_place                Clique esquerdo nesta área para colocar suas Estações de Radar perto do território inimigo.
 tutorial_acceltime_popup            Clique nos botões de velocidade para acelerar o tempo até o inimigo 1.
-tutorial_silosnuke_popup            Clique com o botão direito neste Silo e alterne-o para o Modo de Lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL.
-macosx_tutorial_silosnuke_popup     Clique com o botão direito neste Silo e alterne-o para o Modo de Lançamento de MÍSSIL BALÍSTICO INTERCONTINENTAL. \nClique com a tecla Ctrl se você tiver um mouse de um botão.
+tutorial_silosnuke_popup            Clique com o botão direito neste Silo e alterne-o para o Modo de Lançamento do ICBM (míssil balístico intercontinental).
+macosx_tutorial_silosnuke_popup     Clique com o botão direito neste Silo e alterne-o para o Modo de Lançamento do ICBM (míssil balístico intercontinental). \nClique com a tecla Ctrl se você tiver um mouse de um botão.
 tutorial_nukenemeysilo_popup        Clique esquerdo repetidamente neste Silo para enfileirar muitos Lançamento de mísseis. Ele derrubará muitas de suas bombas e pode levar 3 ataques diretos.
 tutorial_nukeenemyairbase_popup     Lance algumas bombas nesta Base Aérea inimiga.
 tutorial_nukenemeycities_popup      Fique à vontade para usar suas bombas restantes na população civil inimiga.
@@ -1300,7 +1300,7 @@ tutorial_mission6placesubs          Também vamos usar nossos próprios Submarinos
 tutorial_m6subinfo                  Submarinos carregam um grande estoque de Mísseis Nucleares de Médio Alcance.\n\nÉ crucial destacar que Submarinos não aparecem no radar do inimigo até que eles apareçam na superfície, o que os torna invisíveis e imunes ao fogo de armas padrão.\n\nMova seus Submarinos para um ponto o mais próximo possível da costa inimiga, e vamos causar muitas mortes.
 tutorial_m6destroysubs              Existem duas frotas de submarinos inimigos escondidas na Costa Oeste da América.\n\nMude alguns de seus Porta-aviões para o modo Anti-submarino e destrua os submarinos inimigos com cargas de profundidade.\n\nSeus Porta-aviões têm Cargas de profundidade ilimitadas.\nAcelere o tempo se precisar.
 tutorial_m6movesubs                 Submarinos podem ser usados com efeito devastador porque podem se aproximar furtivamente das costas inimigas e atacar com pouco ou nenhum aviso prévio.\n\nMova seus submarinos para uma distância atacante do leste da China.
-tutorial_m6enemylaunch              O inimigo começou a lançar Mísseis nucleares em nossas Cidades a partir de seus Silos Terrestres!\n\nUsaremos nossos submarinos próximos para destruir seus silos antes que causem muito dano.\n\nMude seus Submarinos para o modo de Lançamento de MÍSSIL BALÍSTICO DE ALCANCE MÉDIO e destrua os Silos inimigos!
+tutorial_m6enemylaunch              O inimigo começou a lançar Mísseis nucleares em nossas Cidades a partir de seus Silos Terrestres!\n\nUsaremos nossos submarinos próximos para destruir seus silos antes que causem muito dano.\n\nMude seus Submarinos para o modo de Lançamento do MRBM (míssil balístico de alcance médio) e destrua os Silos inimigos!
 tutorial_m6launchexplanation        Mesmo que não tenhamos cobertura de Radar na área, ainda podemos ver os Silos inimigos. Isso ocorre porque os Silos revelam sua localização para todos quando lançam seus Mísseis nucleares. Silos em Modo de Lançamento são incapazes de se defender, então esta é a oportunidade perfeita para atacar. Uma vez que seus Silos sejam destruídos, eles ficarão sem defesa - então ataque as cidades inimigas em retaliação e cause um verdadeiro estrago!
 tutorial_m6end                      Missão 6 concluída. Clique em Próximo para avançar para sua última Missão de treinamento.
 
@@ -1311,8 +1311,8 @@ macosx_tutorial_movesubs_popup      CLIQUE DIREITO aqui para mover seus Submarin
 tutorial_switchtodepth_popup        CLIQUE DIREITO neste Porta-aviões e altere para o Modo Anti-Submarino.
 macosx_tutorial_switchtodepth_popup CLIQUE DIREITO neste Porta-aviões e altere para o Modo Anti-Submarino.\n(Clique com a tecla Ctrl se você tiver um mouse com apenas um botão).
 tutorial_destroysubs_popup          Mova seus Porta-aviões aqui e destrua os Submarinos inimigos nesta área.
-tutorial_substonuke_popup           CLIQUE DIREITO neste Submarino e altere para o Modo de Lançamento de MÍSSIL BALÍSTICO DE ALCANCE MÉDIO.
-macosx_tutorial_substonuke_popup    CLIQUE DIREITO neste Submarino e altere para o Modo de Lançamento de MÍSSIL BALÍSTICO DE ALCANCE MÉDIO.\n(Clique com a tecla Ctrl se você tiver um mouse com apenas um botão).
+tutorial_substonuke_popup           CLIQUE DIREITO neste Submarino e altere para o Modo de Lançamento do MRBM (míssil balístico de alcance médio).
+macosx_tutorial_substonuke_popup    CLIQUE DIREITO neste Submarino e altere para o Modo de Lançamento do MRBM (míssil balístico de alcance médio).\n(Clique com a tecla Ctrl se você tiver um mouse com apenas um botão).
 tutorial_nukesilo_popup             Clique várias vezes neste Silo para lançar mísseis nucleares a partir de seus Submarinos.
 
 
